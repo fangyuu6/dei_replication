@@ -1,0 +1,993 @@
+fdc_id,fndds_description,wweia_category,matched_dish,match_type
+2705448,Tzatziki dip,"Dips, gravies, other sauces",tzatziki,exact
+2705461,"Frozen yogurt cone, vanilla, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705462,"Frozen yogurt cone, chocolate, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705629,"Ice cream, NFS",Ice cream and frozen dairy desserts,ice_cream,exact
+2705630,"Ice cream, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705631,"Ice cream, vanilla, with additional ingredients",Ice cream and frozen dairy desserts,ice_cream,exact
+2705632,"Ice cream, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705633,"Ice cream, chocolate, with additional ingredients",Ice cream and frozen dairy desserts,ice_cream,exact
+2705634,"Ice cream, soft serve, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705635,"Ice cream, soft serve, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705636,"Gelato, vanilla",Ice cream and frozen dairy desserts,gelato,exact
+2705637,"Gelato, chocolate",Ice cream and frozen dairy desserts,gelato,exact
+2705638,"Ice cream bar, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705639,"Ice cream bar, vanilla, chocolate coated",Ice cream and frozen dairy desserts,ice_cream,exact
+2705640,Ice cream candy bar,Ice cream and frozen dairy desserts,ice_cream,exact
+2705641,"Ice cream bar, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705642,"Ice cream sandwich, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705643,"Ice cream sandwich, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705644,Ice cream cookie sandwich,Ice cream and frozen dairy desserts,ice_cream,exact
+2705645,"Ice cream cone, scooped, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705646,"Ice cream cone, scooped, vanilla, waffle cone",Ice cream and frozen dairy desserts,ice_cream,exact
+2705646,"Ice cream cone, scooped, vanilla, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705647,"Ice cream cone, NFS",Ice cream and frozen dairy desserts,ice_cream,exact
+2705648,"Ice cream cone, scooped, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705649,"Ice cream cone, scooped, chocolate, waffle cone",Ice cream and frozen dairy desserts,ice_cream,exact
+2705649,"Ice cream cone, scooped, chocolate, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705650,"Ice cream cone, soft serve, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705651,"Ice cream cone, soft serve, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705652,"Ice cream cone, soft serve, vanilla, waffle cone",Ice cream and frozen dairy desserts,ice_cream,exact
+2705652,"Ice cream cone, soft serve, vanilla, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705653,"Ice cream cone, soft serve, chocolate, waffle cone",Ice cream and frozen dairy desserts,ice_cream,exact
+2705653,"Ice cream cone, soft serve, chocolate, waffle cone",Ice cream and frozen dairy desserts,waffle,exact
+2705654,"Ice cream cone, vanilla, prepackaged",Ice cream and frozen dairy desserts,ice_cream,exact
+2705655,"Ice cream cone, chocolate, prepackaged",Ice cream and frozen dairy desserts,ice_cream,exact
+2705656,"Ice cream soda, flavors other than chocolate",Milk shakes and other dairy drinks,ice_cream,exact
+2705657,"Ice cream soda, chocolate",Milk shakes and other dairy drinks,ice_cream,exact
+2705658,"Ice cream sundae, NFS",Ice cream and frozen dairy desserts,ice_cream,exact
+2705659,"Ice cream sundae, fruit topping",Ice cream and frozen dairy desserts,ice_cream,exact
+2705661,"Ice cream sundae, hot fudge topping",Ice cream and frozen dairy desserts,ice_cream,exact
+2705662,"Ice cream sundae, caramel topping",Ice cream and frozen dairy desserts,ice_cream,exact
+2705663,"Ice cream, fried",Ice cream and frozen dairy desserts,ice_cream,exact
+2705664,"Light ice cream, NFS",Ice cream and frozen dairy desserts,ice_cream,exact
+2705665,"Light ice cream, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705666,"Light ice cream, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705668,"Light ice cream sandwich, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705669,"Light ice cream sandwich, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705670,"Light ice cream bar, vanilla",Ice cream and frozen dairy desserts,ice_cream,exact
+2705671,"Light ice cream bar, vanilla, chocolate coated",Ice cream and frozen dairy desserts,ice_cream,exact
+2705672,"Light ice cream bar, chocolate",Ice cream and frozen dairy desserts,ice_cream,exact
+2705675,"Light ice cream cone, vanilla, prepackaged",Ice cream and frozen dairy desserts,ice_cream,exact
+2705676,"Light ice cream cone, chocolate, prepackaged",Ice cream and frozen dairy desserts,ice_cream,exact
+2705684,Creme brulee,Pudding,creme_brulee,exact
+2705702,Tiramisu,Cakes and pies,tiramisu,exact
+2705785,Cheese dip with chili pepper,"Dips, gravies, other sauces",chili,exact
+2705787,Topping from cheese pizza,Pizza,pizza,exact
+2705788,Topping from vegetable pizza,Pizza,pizza,exact
+2705789,Topping from meat pizza,Pizza,pizza,exact
+2705790,Topping from meat and vegetable pizza,Pizza,pizza,exact
+2705791,Cheese fondue,"Dips, gravies, other sauces",fondue,exact
+2705792,Cheese souffle,Eggs and omelets,souffle,exact
+2705801,"Grilled cheese sandwich, NFS",Cheese sandwiches,grilled_cheese,exact
+2705802,"Grilled cheese sandwich, American cheese, on white bread",Cheese sandwiches,grilled_cheese,exact
+2705803,"Grilled cheese sandwich, American cheese, on wheat bread",Cheese sandwiches,grilled_cheese,exact
+2705804,"Grilled cheese sandwich, cheddar cheese, on white bread",Cheese sandwiches,grilled_cheese,exact
+2705805,"Grilled cheese sandwich, cheddar cheese, on wheat bread",Cheese sandwiches,grilled_cheese,exact
+2705806,"Grilled cheese sandwich, reduced fat cheese, on white bread",Cheese sandwiches,grilled_cheese,exact
+2705807,"Grilled cheese sandwich, reduced fat cheese, on wheat bread",Cheese sandwiches,grilled_cheese,exact
+2705823,"Steak, NS as to type of meat, NS as to fat eaten","Beef, excludes ground",steak,exact
+2705824,"Beef, steak, NFS","Beef, excludes ground",steak,exact
+2705825,"Beef, steak, chuck","Beef, excludes ground",steak,exact
+2705826,"Beef, steak, cube","Beef, excludes ground",steak,exact
+2705827,"Beef, steak, flank","Beef, excludes ground",steak,exact
+2705828,"Beef, steak, ribeye, NS as to fat eaten","Beef, excludes ground",steak,exact
+2705829,"Beef, steak, ribeye, lean and fat eaten","Beef, excludes ground",steak,exact
+2705830,"Beef, steak, ribeye, lean only eaten","Beef, excludes ground",steak,exact
+2705831,"Beef, steak, round","Beef, excludes ground",steak,exact
+2705832,"Beef, steak, sirloin, NS as to fat eaten","Beef, excludes ground",steak,exact
+2705833,"Beef, steak, sirloin, lean and fat eaten","Beef, excludes ground",steak,exact
+2705834,"Beef, steak, sirloin, lean only eaten","Beef, excludes ground",steak,exact
+2705835,"Beef, steak, strip, NS as to fat eaten","Beef, excludes ground",steak,exact
+2705836,"Beef, steak, strip, lean and fat eaten","Beef, excludes ground",steak,exact
+2705837,"Beef, steak, strip, lean only eaten","Beef, excludes ground",steak,exact
+2705838,"Beef, steak, T-bone, NS as to fat eaten","Beef, excludes ground",steak,exact
+2705839,"Beef, steak, T-bone,  lean and fat eaten","Beef, excludes ground",steak,exact
+2705840,"Beef, steak, T-bone, lean only eaten","Beef, excludes ground",steak,exact
+2705841,"Beef, steak, tenderloin","Beef, excludes ground",steak,exact
+2705842,"Beef, steak, country fried","Beef, excludes ground",steak,exact
+2705845,"Beef, shortribs","Beef, excludes ground",ribs,exact
+2705848,"Beef, pot roast","Beef, excludes ground",pot_roast,exact
+2705851,"Beef, brisket","Beef, excludes ground",brisket,exact
+2705852,"Beef, sandwich steak","Beef, excludes ground",steak,exact
+2705864,"Pork, carnitas",Pork,carnitas,exact
+2705873,"Pork, steak, NS as to fat eaten",Pork,steak,exact
+2705874,"Pork, steak, lean and fat eaten",Pork,steak,exact
+2705875,"Pork, steak, lean only eaten",Pork,steak,exact
+2705876,"Pork, steak, coated",Pork,steak,exact
+2705879,"Ham, prosciutto",Cold cuts and cured meats,prosciutto,exact
+2705893,"Ribs, NFS",Pork,ribs,exact
+2705894,"Pork, ribs",Pork,ribs,exact
+2705914,"Venison, steak","Lamb, goat, game",steak,exact
+2705949,"Chicken, NS as to part, fried, coated, skin / coating eaten","Chicken, whole pieces",fried_chicken,all_keywords
+2705950,"Chicken, NS as to part, fried, coated, skin / coating not eaten","Chicken, whole pieces",fried_chicken,all_keywords
+2705973,"Chicken breast, fried, coated, skin / coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2705974,"Chicken breast, fried, coated, skin / coating not eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2705975,"Chicken breast, fried, coated, prepared skinless, coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2705976,"Chicken breast, fried, coated, skin / coating eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2705977,"Chicken breast, fried, coated, skin / coating not eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2705978,"Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2705979,"Chicken breast, fried, coated, skin / coating not eaten, from fast food / restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2705996,"Chicken leg, drumstick and thigh, fried, coated, skin / coating eaten","Chicken, whole pieces",fried_chicken,all_keywords
+2705997,"Chicken leg, drumstick and thigh, fried, coated, skin / coating not eaten","Chicken, whole pieces",fried_chicken,all_keywords
+2706018,"Chicken drumstick, fried, coated, skin / coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706019,"Chicken drumstick, fried, coated, skin / coating not eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706020,"Chicken drumstick, fried, coated, prepared skinless, coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706021,"Chicken drumstick, fried, coated, skin / coating eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2706022,"Chicken drumstick, fried, coated, skin / coating not eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2706023,"Chicken drumstick, fried, coated, skin / coating eaten, from fast food / restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2706024,"Chicken drumstick, fried, coated, skin / coating not eaten, from fast food / restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2706045,"Chicken thigh, fried, coated, skin / coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706046,"Chicken thigh, fried, coated, skin / coating not eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706047,"Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706048,"Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2706049,"Chicken thigh, fried, coated, skin / coating not eaten, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2706050,"Chicken thigh, fried, coated, skin / coating eaten, from fast food","Chicken, whole pieces",fried_chicken,all_keywords
+2706051,"Chicken thigh, fried, coated, skin / coating not eaten, from fast food","Chicken, whole pieces",fried_chicken,all_keywords
+2706052,"Chicken thigh, fried, coated, skin / coating eaten, from restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2706053,"Chicken thigh, fried, coated, skin / coating not eaten, from restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2706065,"Chicken wing, fried, coated, from raw","Chicken, whole pieces",fried_chicken,all_keywords
+2706066,"Chicken wing, fried, coated, from pre-cooked","Chicken, whole pieces",fried_chicken,all_keywords
+2706067,"Chicken wing, fried, coated, from fast food","Chicken, whole pieces",fried_chicken,all_keywords
+2706068,"Chicken wing, fried, coated, from restaurant","Chicken, whole pieces",fried_chicken,all_keywords
+2706082,"Chicken, neck or ribs","Chicken, whole pieces",ribs,exact
+2706141,"Duck, Peking","Turkey, duck, other poultry",peking_duck,all_keywords
+2706161,"Tongue pot roast, Puerto Rican style",Liver and organ meats,pot_roast,exact
+2706166,"Hot dog, NFS",Frankfurters,hot_dog,exact
+2706167,"Hot dog, beef",Frankfurters,hot_dog,exact
+2706168,"Hot dog, meat and poultry",Frankfurters,hot_dog,exact
+2706169,"Hot dog, reduced fat",Frankfurters,hot_dog,exact
+2706170,"Hot dog, turkey",Frankfurters,hot_dog,exact
+2706174,Bratwurst,Sausages,bratwurst,exact
+2706175,"Bratwurst, with cheese",Sausages,bratwurst,exact
+2706221,Chicken salad spread,Cold cuts and cured meats,chicken_salad,exact
+2706368,Escargot,Shellfish,escargot,exact
+2706373,"Chili, NFS",Meat mixed dishes,chili,exact
+2706374,"Chili with meat, from restaurant",Meat mixed dishes,chili,exact
+2706375,Chili with meat and beans,Meat mixed dishes,chili,exact
+2706376,"Chili with meat, canned",Meat mixed dishes,chili,exact
+2706377,Chili with meat,Meat mixed dishes,chili,exact
+2706380,Salisbury steak with gravy,Meat mixed dishes,steak,exact
+2706382,Beef stroganoff,Meat mixed dishes,stroganoff,exact
+2706387,Steak teriyaki,Stir-fry and soy-based sauce mixtures,steak,exact
+2706387,Steak teriyaki,Stir-fry and soy-based sauce mixtures,teriyaki,exact
+2706392,Beef with sweet and sour sauce,Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706394,Steak tartare,Meat mixed dishes,steak,exact
+2706401,Sweet and sour pork,Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706402,Ham stroganoff,Meat mixed dishes,stroganoff,exact
+2706409,"Chili hot dog, no bun",Meat mixed dishes,chili,exact
+2706409,"Chili hot dog, no bun",Meat mixed dishes,hot_dog,exact
+2706410,Frankfurters or hot dogs with tomato-based sauce,Meat mixed dishes,hot_dog,exact
+2706411,Pork with chili and tomatoes,Meat mixed dishes,chili,exact
+2706425,Chili with chicken and beans,Poultry mixed dishes,chili,exact
+2706426,Chili with chicken,Poultry mixed dishes,chili,exact
+2706427,"Chili, white",Poultry mixed dishes,chili,exact
+2706433,Chicken or turkey with teriyaki,Stir-fry and soy-based sauce mixtures,teriyaki,exact
+2706435,Sweet and sour chicken or turkey,Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706436,"Sweet and sour chicken or turkey, without vegetables",Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706439,Chicken with mole sauce,Poultry mixed dishes,mole,exact
+2706443,Orange chicken,Stir-fry and soy-based sauce mixtures,orange_chicken,exact
+2706456,Sweet and sour shrimp,Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706462,Shrimp teriyaki,Stir-fry and soy-based sauce mixtures,teriyaki,exact
+2706463,Ceviche,Seafood mixed dishes,ceviche,exact
+2706481,Beef and macaroni with cheese sauce,Meat mixed dishes,mac_and_cheese,all_keywords
+2706483,Chili with macaroni,Meat mixed dishes,chili,exact
+2706486,Beef stroganoff with noodles,Meat mixed dishes,stroganoff,exact
+2706490,Biryani with meat,Rice mixed dishes,biryani,exact
+2706494,Beef and rice with cream sauce,Meat mixed dishes,ice_cream,all_keywords
+2706538,Biryani with chicken,Rice mixed dishes,biryani,exact
+2706539,Chicken or turkey and rice with cream sauce,Poultry mixed dishes,ice_cream,all_keywords
+2706543,Chicken or turkey with dumplings,Poultry mixed dishes,dumplings,exact
+2706546,Chicken or turkey souffle,Poultry mixed dishes,souffle,exact
+2706569,Seafood souffle,Seafood mixed dishes,souffle,exact
+2706574,Fish and rice with cream sauce,Seafood mixed dishes,ice_cream,all_keywords
+2706607,Beef chow mein or chop suey with noodles,Fried rice and lo/chow mein,chow_mein,exact
+2706631,"Beef, dumplings, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",Meat mixed dishes,dumplings,exact
+2706632,"Beef, dumplings, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",Meat mixed dishes,dumplings,exact
+2706648,Pork chow mein or chop suey with noodles,Fried rice and lo/chow mein,chow_mein,exact
+2706655,Sweet and sour pork with rice,Stir-fry and soy-based sauce mixtures,sweet_and_sour,exact
+2706687,Chicken or turkey chow mein or chop suey with noodles,Fried rice and lo/chow mein,chow_mein,exact
+2706697,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",Poultry mixed dishes,ice_cream,all_keywords
+2706698,"Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cream sauce, white sauce, or mushroom sauce",Poultry mixed dishes,ice_cream,all_keywords
+2706708,"Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy",Poultry mixed dishes,dumplings,exact
+2706709,"Chicken or turkey, dumplings, and vegetables excluding carrots, broccoli, and dark green leafy; gravy",Poultry mixed dishes,dumplings,exact
+2706711,Paella with seafood,Rice mixed dishes,paella,exact
+2706712,Shrimp chow mein or chop suey with noodles,Fried rice and lo/chow mein,chow_mein,exact
+2706717,"Soup, bouillabaisse",Seafood mixed dishes,bouillabaisse,exact
+2706717,"Soup, bouillabaisse",Seafood mixed dishes,soup,exact
+2706722,"Chow mein or chop suey, NS as to type of meat, with noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706723,"Paella, NFS",Rice mixed dishes,paella,exact
+2706724,"Chow mein or chop suey, various types of meat, with noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706732,Swiss steak,Meat mixed dishes,steak,exact
+2706742,"Beef chow mein or chop suey, no noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706747,Pepper steak,Meat mixed dishes,steak,exact
+2706750,"Beef taco filling: beef, cheese, tomato, taco sauce",Burritos and tacos,taco,exact
+2706754,"Beef steak with onions, Puerto Rican style",Meat mixed dishes,steak,exact
+2706757,Frankfurters or hot dogs and sauerkraut,Meat mixed dishes,hot_dog,exact
+2706764,"Moo Shu pork, without Chinese pancake",Stir-fry and soy-based sauce mixtures,pancake,exact
+2706771,"Pork chow mein or chop suey, no noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706787,"Chicken or turkey a la king with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cream, white, or soup-based sauce",Poultry mixed dishes,soup,exact
+2706788,"Chicken or turkey a la king with vegetables excluding carrorts, broccoli, and dark-green leafy; no potatoes, cream, white, or soup-based sauce",Poultry mixed dishes,soup,exact
+2706794,General Tso chicken,Stir-fry and soy-based sauce mixtures,general_tso,exact
+2706796,Kung pao chicken,Stir-fry and soy-based sauce mixtures,kung_pao_chicken,exact
+2706798,"Chicken or turkey chow mein or chop suey, no noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706799,"Chicken or turkey salad, made with mayonnaise",Poultry mixed dishes,chicken_salad,all_keywords
+2706800,Chicken or turkey salad with nuts and/or fruits,Poultry mixed dishes,chicken_salad,all_keywords
+2706801,Chicken or turkey salad with egg,Poultry mixed dishes,chicken_salad,all_keywords
+2706802,"Chicken or turkey salad, made with light mayonnaise",Poultry mixed dishes,chicken_salad,all_keywords
+2706803,"Chicken or turkey salad, made with mayonnaise-type salad dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706804,"Chicken or turkey salad, made with light mayonnaise-type salad dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706805,"Chicken or turkey salad, made with creamy dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706806,"Chicken or turkey salad, made with light creamy dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706807,"Chicken or turkey salad, made with Italian dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706808,"Chicken or turkey salad, made with light Italian dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706809,"Chicken or turkey salad, made with any type of fat free dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706810,"Chicken or turkey garden salad, chicken and/or turkey, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706811,"Chicken or turkey garden salad, chicken and/or turkey, other vegetables excluding tomato and carrots, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706812,"Chicken or turkey garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706813,"Chicken or turkey, breaded, fried, garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706813,"Chicken or turkey, breaded, fried, garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,fried_chicken,all_keywords
+2706814,"Chicken or turkey garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706815,"Chicken or turkey, breaded, fried, garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706815,"Chicken or turkey, breaded, fried, garden salad with cheese, chicken and/or turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing",Poultry mixed dishes,fried_chicken,all_keywords
+2706816,"Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706817,"Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706818,"Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",Poultry mixed dishes,caesar_salad,all_keywords
+2706818,"Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706819,"Chicken or turkey, breaded, fried, caesar garden salad, chicken and/or turkey, lettuce, tomatoes, cheese, no dressing",Poultry mixed dishes,caesar_salad,all_keywords
+2706819,"Chicken or turkey, breaded, fried, caesar garden salad, chicken and/or turkey, lettuce, tomatoes, cheese, no dressing",Poultry mixed dishes,chicken_salad,all_keywords
+2706819,"Chicken or turkey, breaded, fried, caesar garden salad, chicken and/or turkey, lettuce, tomatoes, cheese, no dressing",Poultry mixed dishes,fried_chicken,all_keywords
+2706827,"Shrimp chow mein or chop suey, no noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706844,"Fish, tofu, and vegetables, tempura",Seafood mixed dishes,tempura,exact
+2706872,"Chow mein or chop suey, NS as to type of meat, no noodles",Fried rice and lo/chow mein,chow_mein,exact
+2706919,"Hamburger slider, from fast food",Burgers,hamburger,exact
+2706920,"Hamburger, NFS",Burgers,hamburger,exact
+2706921,"Hamburger, from fast food, 1 small patty",Burgers,hamburger,exact
+2706922,Hamburger (Burger King),Burgers,hamburger,exact
+2706924,Hamburger (McDonalds),Burgers,hamburger,exact
+2706925,"Hamburger, from school cafeteria",Burgers,hamburger,exact
+2706926,Hamburger slider,Burgers,hamburger,exact
+2706927,"Hamburger, on white bun, 1 small patty",Burgers,hamburger,exact
+2706928,"Hamburger, on wheat bun, 1 small patty",Burgers,hamburger,exact
+2706929,"Hamburger, from fast food, 1 medium patty",Burgers,hamburger,exact
+2706930,"Hamburger, from fast food, 1 large patty",Burgers,hamburger,exact
+2706932,"Hamburger, on white bun, 1 medium patty",Burgers,hamburger,exact
+2706933,"Hamburger, on wheat bun, 1 medium patty",Burgers,hamburger,exact
+2706934,"Hamburger, on white bun, 1 large patty",Burgers,hamburger,exact
+2706935,"Hamburger, on wheat bun, 1 large patty",Burgers,hamburger,exact
+2706936,"Double hamburger, on white bun, 2 small patties",Burgers,hamburger,exact
+2706937,"Double hamburger, on wheat bun, 2 small patties",Burgers,hamburger,exact
+2706938,"Double hamburger, on white bun, 2 medium patties",Burgers,hamburger,exact
+2706939,"Double hamburger, on wheat bun, 2 medium patties",Burgers,hamburger,exact
+2706940,"Double hamburger, on white bun, 2 large patties",Burgers,hamburger,exact
+2706941,"Double hamburger, on wheat bun, 2 large patties",Burgers,hamburger,exact
+2706942,"Double hamburger, from fast food, 2 small patties",Burgers,hamburger,exact
+2706943,"Double hamburger, from fast food, 2 medium patties",Burgers,hamburger,exact
+2706944,"Double hamburger, from fast food, 2 large patties",Burgers,hamburger,exact
+2706946,Meatloaf sandwich,Meat and BBQ sandwiches,meatloaf,exact
+2706947,"Chiliburger, with or without cheese, on bun",Burgers,chili,exact
+2706958,Steak sandwich or sub on white,Meat and BBQ sandwiches,steak,exact
+2706959,Steak sandwich or sub on wheat,Meat and BBQ sandwiches,steak,exact
+2706960,Cheese steak sandwich or sub on white,Meat and BBQ sandwiches,steak,exact
+2706961,Cheese steak sandwich or sub on wheat,Meat and BBQ sandwiches,steak,exact
+2706962,Gyro sandwich,Meat and BBQ sandwiches,gyro,exact
+2706963,"Hamburger wrap sandwich, from fast food",Burgers,hamburger,exact
+2706988,"Chicken deli sandwich or sub, restaurant",Deli and cured meat sandwiches,chicken_sandwich,all_keywords
+2706989,"Chicken deli sandwich or sub, with cheese, restaurant",Deli and cured meat sandwiches,chicken_sandwich,all_keywords
+2706990,Chicken salad sandwich on white,Chicken fillet sandwiches,chicken_salad,exact
+2706990,Chicken salad sandwich on white,Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2706991,Chicken salad sandwich on wheat,Chicken fillet sandwiches,chicken_salad,exact
+2706991,Chicken salad sandwich on wheat,Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2706992,Chicken salad sandwich wrap,Chicken fillet sandwiches,chicken_salad,exact
+2706992,Chicken salad sandwich wrap,Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2706993,Club sandwich on white,Deli and cured meat sandwiches,club_sandwich,exact
+2706994,"Club sandwich on white, with cheese",Deli and cured meat sandwiches,club_sandwich,exact
+2706995,Club sandwich on wheat,Deli and cured meat sandwiches,club_sandwich,exact
+2706996,"Club sandwich on wheat, with cheese",Deli and cured meat sandwiches,club_sandwich,exact
+2706997,"Club sandwich or sub, restaurant",Deli and cured meat sandwiches,club_sandwich,exact
+2706998,"Barbecue chicken sandwich, on white bun",Meat and BBQ sandwiches,chicken_sandwich,exact
+2706999,"Barbecue chicken sandwich, on wheat bun",Meat and BBQ sandwiches,chicken_sandwich,exact
+2707000,"Chicken fillet sandwich, NFS",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707001,"Chicken fillet sandwich, from school cafeteria",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707003,"Chicken fillet sandwich, fried, from fast food",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707003,"Chicken fillet sandwich, fried, from fast food",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707004,"Chicken fillet sandwich, fried, from fast food, with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707004,"Chicken fillet sandwich, fried, from fast food, with cheese",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707005,"Chicken fillet sandwich, grilled, from fast food",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707006,"Chicken fillet sandwich, grilled, from fast food, with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707006,"Chicken fillet sandwich, grilled, from fast food, with cheese",Chicken fillet sandwiches,grilled_cheese,all_keywords
+2707007,"Chicken fillet sandwich, NS as to fried or grilled, from fast food",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707007,"Chicken fillet sandwich, NS as to fried or grilled, from fast food",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707008,"Chicken fillet sandwich, fried, on white bun",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707008,"Chicken fillet sandwich, fried, on white bun",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707009,"Chicken fillet sandwich, fried, on white bun; with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707009,"Chicken fillet sandwich, fried, on white bun; with cheese",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707010,"Chicken fillet sandwich, fried, on wheat bun",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707010,"Chicken fillet sandwich, fried, on wheat bun",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707011,"Chicken fillet sandwich, fried, on wheat bun, with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707011,"Chicken fillet sandwich, fried, on wheat bun, with cheese",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707012,"Chicken fillet sandwich, grilled, on white bun",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707013,"Chicken fillet sandwich, grilled, on white bun, with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707013,"Chicken fillet sandwich, grilled, on white bun, with cheese",Chicken fillet sandwiches,grilled_cheese,all_keywords
+2707014,"Chicken fillet sandwich, grilled, on wheat bun",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707015,"Chicken fillet sandwich, grilled, on wheat bun, with cheese",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707015,"Chicken fillet sandwich, grilled, on wheat bun, with cheese",Chicken fillet sandwiches,grilled_cheese,all_keywords
+2707016,"Chicken fillet wrap sandwich, fried, from fast food",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707016,"Chicken fillet wrap sandwich, fried, from fast food",Chicken fillet sandwiches,fried_chicken,all_keywords
+2707017,"Chicken fillet wrap sandwich, grilled, from fast food",Chicken fillet sandwiches,chicken_sandwich,all_keywords
+2707056,"Hot dog sandwich, NFS, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707057,"Hot dog sandwich, NFS, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707058,"Hot dog sandwich, NFS, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707059,"Hot dog sandwich, NFS, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707060,"Hot dog sandwich, beef, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707061,"Hot dog sandwich, beef, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707062,"Hot dog sandwich, beef, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707063,"Hot dog sandwich, beef, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707064,"Hot dog sandwich, meat and poultry, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707065,"Hot dog sandwich, meat and poultry, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707066,"Hot dog sandwich, meat and poultry, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707067,"Hot dog sandwich, meat and poultry, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707068,"Hot dog sandwich, turkey, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707069,"Hot dog sandwich, turkey, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707070,"Hot dog sandwich, turkey, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707071,"Hot dog sandwich, turkey, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707072,"Hot dog sandwich, reduced fat, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707073,"Hot dog sandwich, reduced fat, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707074,"Hot dog sandwich, reduced fat, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707075,"Hot dog sandwich, reduced fat, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707076,"Hot dog sandwich, vegetarian, on bun",Frankfurter sandwiches,hot_dog,exact
+2707077,"Hot dog sandwich, vegetarian, on bread",Frankfurter sandwiches,hot_dog,exact
+2707078,"Chili hot dog sandwich, on white bun",Frankfurter sandwiches,chili,exact
+2707078,"Chili hot dog sandwich, on white bun",Frankfurter sandwiches,hot_dog,exact
+2707079,"Chili hot dog sandwich, on wheat bun",Frankfurter sandwiches,chili,exact
+2707079,"Chili hot dog sandwich, on wheat bun",Frankfurter sandwiches,hot_dog,exact
+2707080,"Chili hot dog sandwich, on white bread",Frankfurter sandwiches,chili,exact
+2707080,"Chili hot dog sandwich, on white bread",Frankfurter sandwiches,hot_dog,exact
+2707081,"Chili hot dog sandwich, on wheat bread",Frankfurter sandwiches,chili,exact
+2707081,"Chili hot dog sandwich, on wheat bread",Frankfurter sandwiches,hot_dog,exact
+2707098,"Salisbury steak dinner, NFS, frozen meal",Meat mixed dishes,steak,exact
+2707099,"Salisbury steak with gravy, potatoes, vegetable, frozen meal",Meat mixed dishes,steak,exact
+2707100,"Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal",Meat mixed dishes,steak,exact
+2707101,"Salisbury steak with gravy, macaroni and cheese, frozen meal",Meat mixed dishes,mac_and_cheese,all_keywords
+2707101,"Salisbury steak with gravy, macaroni and cheese, frozen meal",Meat mixed dishes,steak,exact
+2707104,"Beef with spaetzle or rice, vegetable, frozen meal",Meat mixed dishes,spaetzle,exact
+2707106,"Chicken, fried, with potatoes, vegetable, frozen meal",Poultry mixed dishes,fried_chicken,all_keywords
+2707108,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",Poultry mixed dishes,fried_chicken,all_keywords
+2707109,"Teriyaki chicken with rice and vegetable, diet frozen meal",Stir-fry and soy-based sauce mixtures,teriyaki,exact
+2707123,"Soup, meatball","Soups, broth-based",soup,exact
+2707124,"Soup, pho, with meat",Ramen and Asian broth-based soups,pho,exact
+2707124,"Soup, pho, with meat",Ramen and Asian broth-based soups,soup,exact
+2707125,"Soup, pho, no meat",Ramen and Asian broth-based soups,pho,exact
+2707125,"Soup, pho, no meat",Ramen and Asian broth-based soups,soup,exact
+2707126,"Soup, pepperpot","Soups, cream-based",soup,exact
+2707127,"Soup, beef, canned","Soups, broth-based",soup,exact
+2707128,"Soup, sopa or caldo de res","Soups, broth-based",soup,exact
+2707129,"Soup, pozole","Soups, broth-based",pozole,exact
+2707129,"Soup, pozole","Soups, broth-based",soup,exact
+2707130,"Soup, Italian wedding","Soups, broth-based",soup,exact
+2707131,"Soup, pork or ham","Soups, broth-based",soup,exact
+2707132,"Soup, broth","Soups, broth-based",soup,exact
+2707133,"Soup, chicken, canned","Soups, broth-based",soup,exact
+2707134,"Soup, chicken","Soups, broth-based",soup,exact
+2707135,"Soup, sopa or caldo de pollo","Soups, broth-based",soup,exact
+2707136,"Soup, hot and sour",Ramen and Asian broth-based soups,hot_and_sour_soup,all_keywords
+2707136,"Soup, hot and sour",Ramen and Asian broth-based soups,soup,exact
+2707137,"Soup, cream of chicken","Soups, cream-based",soup,exact
+2707138,"Soup, Manhattan clam chowder","Soups, broth-based",clam_chowder,exact
+2707138,"Soup, Manhattan clam chowder","Soups, broth-based",soup,exact
+2707139,"Soup, New England clam chowder","Soups, cream-based",clam_chowder,exact
+2707139,"Soup, New England clam chowder","Soups, cream-based",soup,exact
+2707140,"Soup, bisque","Soups, cream-based",soup,exact
+2707143,"Soup, fish or shrimp","Soups, broth-based",soup,exact
+2707151,Mole sauce,"Dips, gravies, other sauces",mole,exact
+2707282,"Soup, egg drop",Ramen and Asian broth-based soups,soup,exact
+2707319,Egg sandwich on croissant,Egg/breakfast sandwiches,croissant,exact
+2707320,"Egg sandwich on croissant, with sausage",Egg/breakfast sandwiches,croissant,exact
+2707321,"Egg sandwich on croissant, with bacon",Egg/breakfast sandwiches,croissant,exact
+2707322,"Egg sandwich on croissant, with ham",Egg/breakfast sandwiches,croissant,exact
+2707332,Egg sandwich on griddle/pancake,Egg/breakfast sandwiches,pancake,exact
+2707333,"Egg sandwich on griddle/pancake, with meat",Egg/breakfast sandwiches,pancake,exact
+2707342,Sausage griddle/pancake sandwich,Egg/breakfast sandwiches,pancake,exact
+2707343,Egg burrito,Egg/breakfast sandwiches,burrito,exact
+2707344,"Egg burrito, with sausage",Egg/breakfast sandwiches,burrito,exact
+2707345,"Egg burrito, with bacon",Egg/breakfast sandwiches,burrito,exact
+2707346,"Egg burrito, with ham",Egg/breakfast sandwiches,burrito,exact
+2707402,"Hummus, plain","Dips, gravies, other sauces",hummus,exact
+2707403,"Hummus, flavored","Dips, gravies, other sauces",hummus,exact
+2707408,Falafel,"Bean, pea, legume dishes",falafel,exact
+2707411,"Chili, vegetarian","Bean, pea, legume dishes",chili,exact
+2707427,Dal,"Beans, peas, legumes",dal,exact
+2707436,"Edamame, cooked","Beans, peas, legumes",edamame,exact
+2707445,Teriyaki sauce,Soy-based condiments,teriyaki,exact
+2707446,"Teriyaki sauce, reduced sodium",Soy-based condiments,teriyaki,exact
+2707453,"Soup, bean","Soups, broth-based",soup,exact
+2707454,"Soup, bean, canned","Soups, broth-based",soup,exact
+2707455,"Soup, miso or tofu",Ramen and Asian broth-based soups,miso_soup,all_keywords
+2707455,"Soup, miso or tofu",Ramen and Asian broth-based soups,soup,exact
+2707456,"Soup, bean, canned, reduced sodium","Soups, broth-based",soup,exact
+2707457,"Soup, bean, with meat","Soups, broth-based",soup,exact
+2707458,"Soup, split pea, with meat","Soups, broth-based",soup,exact
+2707459,"Soup, split pea","Soups, broth-based",soup,exact
+2707460,"Soup, lentil, canned","Soups, broth-based",soup,exact
+2707461,"Soup, lentil, canned, reduced sodium","Soups, broth-based",soup,exact
+2707462,"Soup, lentil","Soups, broth-based",soup,exact
+2707463,"Soup, lentil, with meat","Soups, broth-based",soup,exact
+2707464,"Soup, mulligatawany","Soups, broth-based",soup,exact
+2707469,"Chicken, meatless, breaded, fried",Soy and meat-alternative products,fried_chicken,all_keywords
+2707470,"Hot dog, vegetarian",Soy and meat-alternative products,hot_dog,exact
+2707474,"Swiss steak, with gravy, meatless","Bean, pea, legume dishes",steak,exact
+2707480,Vegetarian stroganoff,"Bean, pea, legume dishes",stroganoff,exact
+2707483,Falafel sandwich,Vegetable sandwiches/burgers,falafel,exact
+2707547,"Soup, peanut","Soups, cream-based",soup,exact
+2707578,"Trail mix with pretzels, cereal, or granola",Nuts and seeds,pretzel,exact
+2707612,"Focaccia, Italian, plain",Yeast breads,focaccia,exact
+2707613,"Bread, naan",Yeast breads,naan,exact
+2707616,"Bread, pita",Yeast breads,pita,exact
+2707617,"Bread, pita with fruit",Yeast breads,pita,exact
+2707652,Bruschetta,Vegetable sandwiches/burgers,bruschetta,exact
+2707656,"Roll, white, hot dog bun",Rolls and buns,hot_dog,exact
+2707657,"Roll, white, hamburger bun",Rolls and buns,hamburger,exact
+2707678,Croissant,"Doughnuts, sweet rolls, pastries",croissant,exact
+2707679,"Croissant, cheese","Doughnuts, sweet rolls, pastries",croissant,exact
+2707680,"Croissant, chocolate","Doughnuts, sweet rolls, pastries",croissant,exact
+2707681,"Croissant, fruit","Doughnuts, sweet rolls, pastries",croissant,exact
+2707730,"Bread, pita, whole wheat",Yeast breads,pita,exact
+2707731,"Bread, pita, wheat or cracked wheat",Yeast breads,pita,exact
+2707747,"Roll, wheat or cracked wheat, hot dog bun",Rolls and buns,hot_dog,exact
+2707748,"Roll, wheat or cracked wheat, hamburger bun",Rolls and buns,hamburger,exact
+2707750,"Roll, whole wheat, hot dog bun",Rolls and buns,hot_dog,exact
+2707751,"Roll, whole wheat, hamburger bun",Rolls and buns,hamburger,exact
+2707753,"Roll, whole grain white, hot dog bun",Rolls and buns,hot_dog,exact
+2707754,"Roll, whole grain white, hamburger bun",Rolls and buns,hamburger,exact
+2707783,"Roll, multigrain, hot dog bun",Rolls and buns,hot_dog,exact
+2707784,"Roll, multigrain, hamburger bun",Rolls and buns,hamburger,exact
+2707796,"Injera, Ethiopian bread",Yeast breads,injera,exact
+2707810,"Cornbread, prepared from mix","Biscuits, muffins, quick breads",cornbread,exact
+2707811,"Cornbread, made from home recipe","Biscuits, muffins, quick breads",cornbread,exact
+2707812,Cornbread stuffing,Turnovers and other grain-based items,cornbread,exact
+2707813,"Cornbread muffin, stick, round","Biscuits, muffins, quick breads",cornbread,exact
+2707814,"Cornbread muffin, stick, round, made from home recipe","Biscuits, muffins, quick breads",cornbread,exact
+2707826,"Taco shell, corn",Tortillas,taco,exact
+2707827,"Taco shell, flour",Tortillas,taco,exact
+2707828,Arepa Dominicana,"Biscuits, muffins, quick breads",arepa,exact
+2707861,"Cheesecake, plain",Cakes and pies,cheesecake,exact
+2707862,"Cheesecake, fruit",Cakes and pies,cheesecake,exact
+2707863,"Cheesecake, chocolate",Cakes and pies,cheesecake,exact
+2707877,Ice cream cake,Cakes and pies,ice_cream,exact
+2707903,"Cookie, brownie, NS as to icing",Cookies and brownies,brownie,exact
+2707904,"Cookie, brownie, without icing",Cookies and brownies,brownie,exact
+2707905,"Cookie, brownie, with icing or filling",Cookies and brownies,brownie,exact
+2707906,"Cookie, brownie, reduced fat, NS as to icing",Cookies and brownies,brownie,exact
+2707907,"Cookie, butterscotch, brownie",Cookies and brownies,brownie,exact
+2707931,"Cookie, cone shell, ice cream type, wafer or cake",Cookies and brownies,ice_cream,exact
+2708008,Dessert pizza,Cakes and pies,pizza,exact
+2708029,"Cream puff, eclair, custard or cream filled, NS as to icing","Doughnuts, sweet rolls, pastries",eclair,exact
+2708030,"Cream puff, eclair, custard or cream filled, not iced","Doughnuts, sweet rolls, pastries",eclair,exact
+2708030,"Cream puff, eclair, custard or cream filled, not iced","Doughnuts, sweet rolls, pastries",ice_cream,all_keywords
+2708031,"Cream puff, eclair, custard or cream filled, iced","Doughnuts, sweet rolls, pastries",eclair,exact
+2708031,"Cream puff, eclair, custard or cream filled, iced","Doughnuts, sweet rolls, pastries",ice_cream,all_keywords
+2708032,"Cream puff, eclair, custard or cream filled, iced, reduced fat","Doughnuts, sweet rolls, pastries",eclair,exact
+2708032,"Cream puff, eclair, custard or cream filled, iced, reduced fat","Doughnuts, sweet rolls, pastries",ice_cream,all_keywords
+2708036,"Crepe, chocolate filled","Pancakes, waffles, French toast",crepe,exact
+2708037,"Crepe, fruit filled","Pancakes, waffles, French toast",crepe,exact
+2708038,"Tamale, sweet","Doughnuts, sweet rolls, pastries",tamale,exact
+2708044,Baklava,Cakes and pies,baklava,exact
+2708054,"Pastry, puff, custard or cream filled, iced or not iced","Doughnuts, sweet rolls, pastries",ice_cream,all_keywords
+2708070,Churros,"Doughnuts, sweet rolls, pastries",churro,exact
+2708215,Pita chips,"Crackers, excludes saltines",pita,exact
+2708247,"Pretzels, NFS",Pretzels/snack mix,pretzel,exact
+2708248,"Pretzels, hard, NFS",Pretzels/snack mix,pretzel,exact
+2708249,"Pretzels, hard, plain, salted",Pretzels/snack mix,pretzel,exact
+2708250,"Pretzels, hard, plain, lightly salted",Pretzels/snack mix,pretzel,exact
+2708251,"Pretzels, hard, plain, unsalted",Pretzels/snack mix,pretzel,exact
+2708252,"Pretzels, hard, flavored",Pretzels/snack mix,pretzel,exact
+2708253,"Pretzels, hard, multigrain",Pretzels/snack mix,pretzel,exact
+2708254,"Pretzels, hard, plain, gluten free",Pretzels/snack mix,pretzel,exact
+2708255,"Pretzels, hard, flavored, gluten free",Pretzels/snack mix,pretzel,exact
+2708256,"Pretzel chips, hard, plain",Pretzels/snack mix,pretzel,exact
+2708257,"Pretzel chips, hard, flavored",Pretzels/snack mix,pretzel,exact
+2708258,"Pretzel chips, hard, gluten free",Pretzels/snack mix,pretzel,exact
+2708259,"Pretzels, hard, coated, NFS",Pretzels/snack mix,pretzel,exact
+2708260,"Pretzels, hard, chocolate coated",Pretzels/snack mix,pretzel,exact
+2708261,"Pretzels, hard, white chocolate coated",Pretzels/snack mix,pretzel,exact
+2708262,"Pretzels, hard, yogurt coated",Pretzels/snack mix,pretzel,exact
+2708263,"Pretzels, hard, coated, gluten free",Pretzels/snack mix,pretzel,exact
+2708264,"Pretzels, hard, filled, NFS",Pretzels/snack mix,pretzel,exact
+2708265,"Pretzels, hard, cheese filled",Pretzels/snack mix,pretzel,exact
+2708266,"Pretzels, hard, peanut butter filled",Pretzels/snack mix,pretzel,exact
+2708267,"Pretzels, soft, NFS",Pretzels/snack mix,pretzel,exact
+2708268,"Pretzels, soft, ready-to-eat, NFS",Pretzels/snack mix,pretzel,exact
+2708269,"Pretzels, soft, ready-to-eat, salted, buttered",Pretzels/snack mix,pretzel,exact
+2708270,"Pretzels, soft, ready-to-eat, unsalted, buttered",Pretzels/snack mix,pretzel,exact
+2708271,"Pretzels, soft, ready-to-eat, salted, no butter",Pretzels/snack mix,pretzel,exact
+2708272,"Pretzels, soft, ready-to-eat, unsalted, no butter",Pretzels/snack mix,pretzel,exact
+2708273,"Pretzels, soft, ready-to-eat, cinnamon sugar coated",Pretzels/snack mix,pretzel,exact
+2708274,"Pretzels, soft, ready-to-eat, coated or flavored",Pretzels/snack mix,pretzel,exact
+2708275,"Pretzels, soft, ready-to-eat, topped with meat",Pretzels/snack mix,pretzel,exact
+2708276,"Pretzels, soft, ready-to-eat, topped with cheese",Pretzels/snack mix,pretzel,exact
+2708277,"Pretzels, soft, from frozen, NFS",Pretzels/snack mix,pretzel,exact
+2708278,"Pretzels, soft, from frozen, salted",Pretzels/snack mix,pretzel,exact
+2708279,"Pretzels, soft, from frozen, unsalted",Pretzels/snack mix,pretzel,exact
+2708280,"Pretzels, soft, from frozen, cinnamon sugar coated",Pretzels/snack mix,pretzel,exact
+2708281,"Pretzels, soft, from frozen, coated or flavored",Pretzels/snack mix,pretzel,exact
+2708282,"Pretzels, soft, from frozen, topped with meat",Pretzels/snack mix,pretzel,exact
+2708283,"Pretzels, soft, from frozen, topped with cheese",Pretzels/snack mix,pretzel,exact
+2708284,"Pretzels, soft, filled with cheese",Pretzels/snack mix,pretzel,exact
+2708285,"Pretzels, soft, from school lunch",Pretzels/snack mix,pretzel,exact
+2708286,"Pretzels, soft, multigrain",Pretzels/snack mix,pretzel,exact
+2708287,"Pretzels, soft, gluten free",Pretzels/snack mix,pretzel,exact
+2708288,"Pretzels, soft, gluten free, cinnamon sugar coated",Pretzels/snack mix,pretzel,exact
+2708289,"Pretzels, soft, gluten free, coated or flavored",Pretzels/snack mix,pretzel,exact
+2708294,"Pancakes, NFS","Pancakes, waffles, French toast",pancake,exact
+2708295,"Pancakes, plain, frozen","Pancakes, waffles, French toast",pancake,exact
+2708296,"Pancakes, fruit, frozen","Pancakes, waffles, French toast",pancake,exact
+2708297,"Pancakes, chocolate, frozen","Pancakes, waffles, French toast",pancake,exact
+2708298,"Pancakes, whole grain, frozen","Pancakes, waffles, French toast",pancake,exact
+2708299,"Pancakes, plain, fast food / restaurant","Pancakes, waffles, French toast",pancake,exact
+2708300,"Pancakes, fruit, fast food / restaurant","Pancakes, waffles, French toast",pancake,exact
+2708301,"Pancakes, chocolate, fast food / restaurant","Pancakes, waffles, French toast",pancake,exact
+2708302,"Pancakes, whole grain, fast food / restaurant","Pancakes, waffles, French toast",pancake,exact
+2708303,"Pancakes, school","Pancakes, waffles, French toast",pancake,exact
+2708304,"Pancakes, plain","Pancakes, waffles, French toast",pancake,exact
+2708305,"Pancakes, plain, reduced fat","Pancakes, waffles, French toast",pancake,exact
+2708306,"Pancakes, fruit","Pancakes, waffles, French toast",pancake,exact
+2708307,"Pancakes, pumpkin","Pancakes, waffles, French toast",pancake,exact
+2708308,"Pancakes, chocolate","Pancakes, waffles, French toast",pancake,exact
+2708309,"Pancakes, whole grain","Pancakes, waffles, French toast",pancake,exact
+2708310,"Pancakes, whole grain, reduced fat","Pancakes, waffles, French toast",pancake,exact
+2708311,"Pancakes, gluten free","Pancakes, waffles, French toast",pancake,exact
+2708312,"Waffle, NFS","Pancakes, waffles, French toast",waffle,exact
+2708313,"Waffle, plain, frozen","Pancakes, waffles, French toast",waffle,exact
+2708314,"Waffle, plain, reduced fat","Pancakes, waffles, French toast",waffle,exact
+2708315,"Waffle, fruit, frozen","Pancakes, waffles, French toast",waffle,exact
+2708316,"Waffle, chocolate, frozen","Pancakes, waffles, French toast",waffle,exact
+2708317,"Waffle, whole grain, frozen","Pancakes, waffles, French toast",waffle,exact
+2708318,"Waffle, whole grain, reduced fat","Pancakes, waffles, French toast",waffle,exact
+2708319,"Waffle, whole grain, fruit, frozen","Pancakes, waffles, French toast",waffle,exact
+2708320,"Waffle, plain, fast food / restaurant","Pancakes, waffles, French toast",waffle,exact
+2708321,"Waffle, chocolate, fast food / restaurant","Pancakes, waffles, French toast",waffle,exact
+2708322,"Waffle, fruit, fast food / restaurant","Pancakes, waffles, French toast",waffle,exact
+2708323,"Waffle, whole grain, fast food / restaurant","Pancakes, waffles, French toast",waffle,exact
+2708324,"Waffle, school","Pancakes, waffles, French toast",waffle,exact
+2708325,"Waffle, plain","Pancakes, waffles, French toast",waffle,exact
+2708326,"Waffle, fruit","Pancakes, waffles, French toast",waffle,exact
+2708327,"Waffle, chocolate","Pancakes, waffles, French toast",waffle,exact
+2708328,"Waffle, cinnamon","Pancakes, waffles, French toast",waffle,exact
+2708329,"Waffle, whole grain","Pancakes, waffles, French toast",waffle,exact
+2708330,"Waffle, gluten free","Pancakes, waffles, French toast",waffle,exact
+2708341,"Crepe, NFS","Pancakes, waffles, French toast",crepe,exact
+2708342,"Crepe, plain","Pancakes, waffles, French toast",crepe,exact
+2708343,Chinese pancake,"Pancakes, waffles, French toast",pancake,exact
+2708346,Idli,Rice mixed dishes,idli,exact
+2708347,"Dosa, plain","Pancakes, waffles, French toast",dosa,exact
+2708354,"Noodles, chow mein","Crackers, excludes saltines",chow_mein,exact
+2708415,Cream of rice,Grits and other cooked cereals,ice_cream,all_keywords
+2708418,Congee,Rice,congee,exact
+2708441,"Couscous, plain, cooked","Pasta, noodles, cooked grains",couscous,exact
+2708505,Chilaquiles,Other Mexican mixed dishes,chilaquiles,exact
+2708507,Mexican pizza,Other Mexican mixed dishes,pizza,exact
+2708508,Taco or tostada salad with meat,Burritos and tacos,taco,exact
+2708509,Taco or tostada salad with chicken,Burritos and tacos,chicken_salad,all_keywords
+2708509,Taco or tostada salad with chicken,Burritos and tacos,taco,exact
+2708510,"Taco or tostada salad, meatless",Burritos and tacos,taco,exact
+2708511,Taco or tostada salad with meat and sour cream,Burritos and tacos,taco,exact
+2708512,Taco or tostada salad with chicken and sour cream,Burritos and tacos,chicken_salad,all_keywords
+2708512,Taco or tostada salad with chicken and sour cream,Burritos and tacos,taco,exact
+2708513,"Taco or tostada salad, meatless with sour cream",Burritos and tacos,taco,exact
+2708514,"Taco, NFS",Burritos and tacos,taco,exact
+2708515,"Taco, corn tortilla, beef, cheese",Burritos and tacos,taco,exact
+2708516,"Taco, corn tortilla, beef, with beans, cheese",Burritos and tacos,taco,exact
+2708517,"Taco, corn tortilla, pork, cheese",Burritos and tacos,taco,exact
+2708518,"Taco, corn tortilla, pork, with beans, cheese",Burritos and tacos,taco,exact
+2708519,"Taco, corn tortilla, chicken, cheese",Burritos and tacos,taco,exact
+2708520,"Taco, corn tortilla, chicken, with beans, cheese",Burritos and tacos,taco,exact
+2708521,"Taco, corn tortilla, with beans, cheese",Burritos and tacos,taco,exact
+2708522,"Taco, flour tortilla, beef, cheese",Burritos and tacos,taco,exact
+2708523,"Taco, flour tortilla, beef, with beans, cheese",Burritos and tacos,taco,exact
+2708524,"Taco, flour tortilla, pork, cheese",Burritos and tacos,taco,exact
+2708525,"Taco, flour tortilla, pork, with beans, cheese",Burritos and tacos,taco,exact
+2708526,"Taco, flour tortilla, chicken, cheese",Burritos and tacos,taco,exact
+2708527,"Taco, flour tortilla, chicken, with beans, cheese",Burritos and tacos,taco,exact
+2708528,"Taco, flour tortilla, with beans, cheese",Burritos and tacos,taco,exact
+2708529,"Taco, fish",Burritos and tacos,taco,exact
+2708530,"Taco, meat, no cheese",Burritos and tacos,taco,exact
+2708531,"Taco, meat, with beans, no cheese",Burritos and tacos,taco,exact
+2708532,"Taco, with beans, no cheese",Burritos and tacos,taco,exact
+2708533,"Taco, cheese only",Burritos and tacos,taco,exact
+2708534,"Burrito, NFS",Burritos and tacos,burrito,exact
+2708535,"Burrito, beef, cheese",Burritos and tacos,burrito,exact
+2708536,"Burrito, beef, with rice, cheese",Burritos and tacos,burrito,exact
+2708537,"Burrito, beef, with beans, cheese",Burritos and tacos,burrito,exact
+2708538,"Burrito, beef, with beans and rice, cheese",Burritos and tacos,burrito,exact
+2708539,"Burrito, pork, cheese",Burritos and tacos,burrito,exact
+2708540,"Burrito, pork, with rice, cheese",Burritos and tacos,burrito,exact
+2708541,"Burrito, pork, with beans, cheese",Burritos and tacos,burrito,exact
+2708542,"Burrito, pork, with beans and rice, cheese",Burritos and tacos,burrito,exact
+2708543,"Burrito, chicken, cheese",Burritos and tacos,burrito,exact
+2708544,"Burrito, chicken, with rice, cheese",Burritos and tacos,burrito,exact
+2708545,"Burrito, chicken, with beans, cheese",Burritos and tacos,burrito,exact
+2708546,"Burrito, chicken, with beans and rice, cheese",Burritos and tacos,burrito,exact
+2708547,"Burrito, with beans, no cheese",Burritos and tacos,burrito,exact
+2708548,"Burrito, with beans, cheese",Burritos and tacos,burrito,exact
+2708549,"Burrito, with beans and rice, cheese",Burritos and tacos,burrito,exact
+2708550,"Burrito, meat, no cheese",Burritos and tacos,burrito,exact
+2708551,"Burrito, meat, with rice, no cheese",Burritos and tacos,burrito,exact
+2708552,"Burrito, meat, with beans, no cheese",Burritos and tacos,burrito,exact
+2708553,"Burrito, meat, with beans and rice, no cheese",Burritos and tacos,burrito,exact
+2708554,"Burrito, cheese only",Burritos and tacos,burrito,exact
+2708555,"Burrito bowl, NFS",Other Mexican mixed dishes,burrito,exact
+2708556,"Burrito bowl, beef or pork",Other Mexican mixed dishes,burrito,exact
+2708557,"Burrito bowl, beef or pork, with rice",Other Mexican mixed dishes,burrito,exact
+2708558,"Burrito bowl, beef or pork, with beans",Other Mexican mixed dishes,burrito,exact
+2708559,"Burrito bowl, beef or pork, with beans and rice",Other Mexican mixed dishes,burrito,exact
+2708560,"Burrito bowl, chicken",Other Mexican mixed dishes,burrito,exact
+2708561,"Burrito bowl, chicken, with rice",Other Mexican mixed dishes,burrito,exact
+2708562,"Burrito bowl, chicken, with beans",Other Mexican mixed dishes,burrito,exact
+2708563,"Burrito bowl, chicken, with beans and rice",Other Mexican mixed dishes,burrito,exact
+2708564,"Burrito bowl, with beans",Other Mexican mixed dishes,burrito,exact
+2708565,"Enchilada, NFS",Other Mexican mixed dishes,enchilada,exact
+2708566,"Enchilada, beef",Other Mexican mixed dishes,enchilada,exact
+2708567,"Enchilada, pork",Other Mexican mixed dishes,enchilada,exact
+2708568,"Enchilada, chicken",Other Mexican mixed dishes,enchilada,exact
+2708569,"Enchilada, no meat",Other Mexican mixed dishes,enchilada,exact
+2708570,"Tamale, NFS",Other Mexican mixed dishes,tamale,exact
+2708571,"Tamale, beef",Other Mexican mixed dishes,tamale,exact
+2708572,"Tamale, pork",Other Mexican mixed dishes,tamale,exact
+2708573,"Tamale, chicken",Other Mexican mixed dishes,tamale,exact
+2708574,"Tamale, no meat",Other Mexican mixed dishes,tamale,exact
+2708575,Tamale casserole with meat,Other Mexican mixed dishes,tamale,exact
+2708576,"Nachos, NFS",Nachos,nachos,exact
+2708577,"Nachos, cheese only",Nachos,nachos,exact
+2708578,"Nachos, beef or pork",Nachos,nachos,exact
+2708579,"Nachos, beef or pork, with beans",Nachos,nachos,exact
+2708580,"Nachos, chicken",Nachos,nachos,exact
+2708581,"Nachos, chicken, with beans",Nachos,nachos,exact
+2708582,"Nachos, with beans",Nachos,nachos,exact
+2708590,"Quesadilla, NFS",Other Mexican mixed dishes,quesadilla,exact
+2708591,"Quesadilla, cheese only",Other Mexican mixed dishes,quesadilla,exact
+2708592,"Quesadilla, beef or pork",Other Mexican mixed dishes,quesadilla,exact
+2708593,"Quesadilla, chicken",Other Mexican mixed dishes,quesadilla,exact
+2708594,"Quesadilla, with vegetables",Other Mexican mixed dishes,quesadilla,exact
+2708595,"Quesadilla, beef or pork, with vegetables",Other Mexican mixed dishes,quesadilla,exact
+2708596,"Quesadilla, chicken, with vegetables",Other Mexican mixed dishes,quesadilla,exact
+2708597,"Quesadilla, egg",Egg/breakfast sandwiches,quesadilla,exact
+2708598,"Quesadilla, egg, with meat",Egg/breakfast sandwiches,quesadilla,exact
+2708603,"Fajita, NFS",Other Mexican mixed dishes,fajita,exact
+2708604,"Fajita, chicken",Other Mexican mixed dishes,fajita,exact
+2708605,"Fajita, beef or pork",Other Mexican mixed dishes,fajita,exact
+2708606,"Fajita, shrimp",Other Mexican mixed dishes,fajita,exact
+2708607,"Fajita, vegetable",Other Mexican mixed dishes,fajita,exact
+2708608,"Pupusa, cheese only",Other Mexican mixed dishes,pupusa,exact
+2708609,"Pupusa, with beans",Other Mexican mixed dishes,pupusa,exact
+2708610,"Pupusa, meat",Other Mexican mixed dishes,pupusa,exact
+2708611,"Pupusa, meat, with beans",Other Mexican mixed dishes,pupusa,exact
+2708612,"Pizza, cheese, from frozen, thin crust",Pizza,pizza,exact
+2708613,"Pizza, cheese, from frozen, thick crust",Pizza,pizza,exact
+2708614,"Pizza, cheese, from restaurant or fast food, NS as to type of crust",Pizza,pizza,exact
+2708615,"Pizza, cheese, from restaurant or fast food, thin crust",Pizza,pizza,exact
+2708616,"Pizza, cheese, from restaurant or fast food, medium crust",Pizza,pizza,exact
+2708617,"Pizza, cheese, from restaurant or fast food, thick crust",Pizza,pizza,exact
+2708618,"Pizza, cheese, stuffed crust",Pizza,pizza,exact
+2708619,"Pizza, cheese, from school lunch, medium crust",Pizza,pizza,exact
+2708620,"Pizza, cheese, from school lunch, thin crust",Pizza,pizza,exact
+2708621,"Pizza, cheese, from school lunch, thick crust",Pizza,pizza,exact
+2708622,"Pizza, extra cheese, thin crust",Pizza,pizza,exact
+2708623,"Pizza, extra cheese, thick crust",Pizza,pizza,exact
+2708624,"Pizza, cheese, with vegetables, from frozen, thin crust",Pizza,pizza,exact
+2708625,"Pizza, cheese with vegetables, from frozen, thick crust",Pizza,pizza,exact
+2708626,"Pizza, cheese, with vegetables, from restaurant or fast food, thin crust",Pizza,pizza,exact
+2708627,"Pizza, cheese, with vegetables, from restaurant or fast food, medium crust",Pizza,pizza,exact
+2708628,"Pizza, cheese, with vegetables, from restaurant or fast food, thick crust",Pizza,pizza,exact
+2708629,"Pizza with cheese and extra vegetables, thin crust",Pizza,pizza,exact
+2708630,"Pizza with cheese and extra vegetables, medium crust",Pizza,pizza,exact
+2708631,"Pizza with cheese and extra vegetables, thick crust",Pizza,pizza,exact
+2708632,"Pizza, cheese, with fruit, thin crust",Pizza,pizza,exact
+2708633,"Pizza, cheese, with fruit, medium crust",Pizza,pizza,exact
+2708634,"Pizza, cheese, with fruit, thick crust",Pizza,pizza,exact
+2708635,"Pizza with pepperoni, from frozen, thin crust",Pizza,pizza,exact
+2708636,"Pizza with pepperoni, from frozen, medium crust",Pizza,pizza,exact
+2708637,"Pizza with pepperoni, from frozen, thick crust",Pizza,pizza,exact
+2708638,"Pizza with pepperoni, from restaurant or fast food, NS as to type of crust",Pizza,pizza,exact
+2708639,"Pizza with pepperoni, from restaurant or fast food, thin crust",Pizza,pizza,exact
+2708640,"Pizza with pepperoni, from restaurant or fast food,  medium crust",Pizza,pizza,exact
+2708641,"Pizza with pepperoni, from restaurant or fast food, thick crust",Pizza,pizza,exact
+2708642,"Pizza with pepperoni, stuffed crust",Pizza,pizza,exact
+2708643,"Pizza with pepperoni, from school lunch, thin crust",Pizza,pizza,exact
+2708644,"Pizza, with pepperoni, from school lunch, medium crust",Pizza,pizza,exact
+2708645,"Pizza with pepperoni, from school lunch, thick crust",Pizza,pizza,exact
+2708646,"Pizza with meat other than pepperoni, from frozen, thin crust",Pizza,pizza,exact
+2708647,"Pizza with meat other than pepperoni, from frozen, medium crust",Pizza,pizza,exact
+2708648,"Pizza with meat other than pepperoni, from frozen, thick crust",Pizza,pizza,exact
+2708649,"Pizza with meat other than pepperoni, from restaurant or fast food, NS as to type of crust",Pizza,pizza,exact
+2708650,"Pizza with meat other than pepperoni, from restaurant or fast food, thin crust",Pizza,pizza,exact
+2708651,"Pizza with meat other than pepperoni, from restaurant or fast food, medium crust",Pizza,pizza,exact
+2708652,"Pizza with meat other than pepperoni, from restaurant or fast food, thick crust",Pizza,pizza,exact
+2708653,"Pizza, with meat other than pepperoni, stuffed crust",Pizza,pizza,exact
+2708654,"Pizza, with meat other than pepperoni, from school lunch, medium crust",Pizza,pizza,exact
+2708655,"Pizza, with meat other than pepperoni, from school lunch, thin crust",Pizza,pizza,exact
+2708656,"Pizza, with meat other than pepperoni, from school lunch, thick crust",Pizza,pizza,exact
+2708657,"Pizza with extra meat, thin crust",Pizza,pizza,exact
+2708658,"Pizza with extra meat, medium crust",Pizza,pizza,exact
+2708659,"Pizza with extra meat, thick crust",Pizza,pizza,exact
+2708660,"Pizza with meat and vegetables, from frozen, thin crust",Pizza,pizza,exact
+2708661,"Pizza with meat and vegetables, from frozen, medium crust",Pizza,pizza,exact
+2708662,"Pizza with meat and vegetables, from frozen, thick crust",Pizza,pizza,exact
+2708663,"Pizza with meat and vegetables, from restaurant or fast food, thin crust",Pizza,pizza,exact
+2708664,"Pizza with meat and vegetables, from restaurant or fast food, medium crust",Pizza,pizza,exact
+2708665,"Pizza with meat and vegetables, from restaurant or fast food, thick crust",Pizza,pizza,exact
+2708666,"Pizza with extra meat and extra vegetables, thin crust",Pizza,pizza,exact
+2708667,"Pizza with extra meat and extra vegetables, thick crust",Pizza,pizza,exact
+2708668,"Pizza with extra meat and extra vegetables, medium crust",Pizza,pizza,exact
+2708669,"Pizza with meat and fruit, thin crust",Pizza,pizza,exact
+2708670,"Pizza with meat and fruit, medium crust",Pizza,pizza,exact
+2708671,"Pizza with meat and fruit, thick crust",Pizza,pizza,exact
+2708672,"Pizza with beans and vegetables, thin crust",Pizza,pizza,exact
+2708673,"Pizza with beans and vegetables, thick crust",Pizza,pizza,exact
+2708674,"Pizza, no cheese, thin crust",Pizza,pizza,exact
+2708675,"Pizza, no cheese, thick crust",Pizza,pizza,exact
+2708676,"White pizza, cheese, thin crust",Pizza,pizza,exact
+2708677,"White pizza, cheese, thick crust",Pizza,pizza,exact
+2708678,"White pizza, cheese, with vegetables, thin crust",Pizza,pizza,exact
+2708679,"White pizza, cheese, with vegetables, thick crust",Pizza,pizza,exact
+2708680,"White pizza, cheese, with meat, thin crust",Pizza,pizza,exact
+2708681,"White pizza, cheese, with meat, thick crust",Pizza,pizza,exact
+2708682,"White pizza, cheese, with meat and vegetables, thin crust",Pizza,pizza,exact
+2708683,"White pizza, cheese, with meat and vegetables, thick crust",Pizza,pizza,exact
+2708686,Pizza rolls,Pizza,pizza,exact
+2708687,"Pizza, cheese, whole wheat thin crust",Pizza,pizza,exact
+2708688,"Pizza, cheese, whole wheat thick crust",Pizza,pizza,exact
+2708689,"Pizza, with meat, whole wheat thin crust",Pizza,pizza,exact
+2708690,"Pizza, with meat, whole wheat thick crust",Pizza,pizza,exact
+2708691,"Pizza, cheese and vegetables, whole wheat thin crust",Pizza,pizza,exact
+2708692,"Pizza, cheese and vegetables, whole wheat thick crust",Pizza,pizza,exact
+2708693,"Pizza, cheese, gluten-free thin crust",Pizza,pizza,exact
+2708694,"Pizza, cheese, gluten-free thick crust",Pizza,pizza,exact
+2708695,"Pizza, with meat, gluten-free thin crust",Pizza,pizza,exact
+2708696,"Pizza, with meat, gluten-free thick crust",Pizza,pizza,exact
+2708697,"Pizza, cheese and vegetables, gluten-free thin crust",Pizza,pizza,exact
+2708698,"Pizza, cheese and vegetables, gluten-free thick crust",Pizza,pizza,exact
+2708699,Breakfast pizza with egg,Egg/breakfast sandwiches,pizza,exact
+2708704,"Roll with meat and/or shrimp, vegetables and rice paper, not fried","Egg rolls, dumplings, sushi",fried_rice,all_keywords
+2708719,"Crepe, with meat",Turnovers and other grain-based items,crepe,exact
+2708720,Pierogi,Turnovers and other grain-based items,pierogi,exact
+2708721,"Gnocchi, cheese","Pasta mixed dishes, excludes macaroni and cheese",gnocchi,exact
+2708722,"Gnocchi, potato","Pasta mixed dishes, excludes macaroni and cheese",gnocchi,exact
+2708729,Spanakopita,Turnovers and other grain-based items,pita,exact
+2708729,Spanakopita,Turnovers and other grain-based items,spanakopita,exact
+2708730,Samosa,Turnovers and other grain-based items,samosa,exact
+2708731,"Quiche with meat, poultry or fish",Turnovers and other grain-based items,quiche,exact
+2708732,"Spinach quiche, meatless",Turnovers and other grain-based items,quiche,exact
+2708733,"Cheese quiche, meatless",Turnovers and other grain-based items,quiche,exact
+2708738,"Turnover or hot pocket, pizza pocket, meat",Turnovers and other grain-based items,pizza,exact
+2708739,"Turnover or hot pocket, pizza pocket",Turnovers and other grain-based items,pizza,exact
+2708745,Chicken cornbread,Poultry mixed dishes,cornbread,exact
+2708750,Lasagna with meat,"Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708751,"Lasagna with meat, canned","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708752,"Lasagna with meat, from restaurant","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708753,"Lasagna with meat, home recipe","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708754,"Lasagna with meat, frozen","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708755,Lasagna with meat and spinach,"Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708756,Lasagna with chicken or turkey,"Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708757,"Lasagna, with chicken or turkey, and spinach","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708758,"Lasagna, meatless","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708759,"Lasagna, meatless, with vegetables","Pasta mixed dishes, excludes macaroni and cheese",lasagna,exact
+2708760,"Ravioli, NS as to filling, no sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708761,"Ravioli, NS as to filling, with tomato sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708762,"Ravioli, NS as to filling, with cream sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708763,"Ravioli, meat-filled, no sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708764,"Ravioli, meat-filled, with tomato sauce or meat sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708765,"Ravioli, meat-filled, with tomato sauce or meat sauce, canned","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708766,"Ravioli, meat-filled, with cream sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708767,"Ravioli, cheese-filled, no sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708768,"Ravioli, cheese-filled, with tomato sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708769,"Ravioli, cheese-filled, with tomato sauce, canned","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708770,"Ravioli, cheese-filled, with meat sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708771,"Ravioli, cheese-filled, with cream sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708772,"Ravioli, cheese and spinach-filled, no sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708773,"Ravioli, cheese and spinach-filled, with cream sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708774,"Ravioli, cheese and spinach filled, with tomato sauce","Pasta mixed dishes, excludes macaroni and cheese",ravioli,exact
+2708796,Chow fun noodles with meat and vegetables,Fried rice and lo/chow mein,chow_fun,exact
+2708797,"Chow fun noodles with vegetables, meatless",Fried rice and lo/chow mein,chow_fun,exact
+2708798,"Lo mein, NFS",Fried rice and lo/chow mein,lo_mein,exact
+2708799,"Lo mein, meatless",Fried rice and lo/chow mein,lo_mein,exact
+2708800,"Lo mein, with shrimp",Fried rice and lo/chow mein,lo_mein,exact
+2708801,"Lo mein, with pork",Fried rice and lo/chow mein,lo_mein,exact
+2708802,"Lo mein, with beef",Fried rice and lo/chow mein,lo_mein,exact
+2708803,"Lo mein, with chicken",Fried rice and lo/chow mein,lo_mein,exact
+2708804,"Pad Thai, NFS",Fried rice and lo/chow mein,pad_thai,exact
+2708805,"Pad Thai, meatless",Fried rice and lo/chow mein,pad_thai,exact
+2708806,Pad Thai with chicken,Fried rice and lo/chow mein,pad_thai,exact
+2708807,Pad Thai with seafood,Fried rice and lo/chow mein,pad_thai,exact
+2708808,Pad Thai with meat,Fried rice and lo/chow mein,pad_thai,exact
+2708809,"Adobo, with noodles",Poultry mixed dishes,adobo,exact
+2708817,Macaroni or noodles with cheese and tuna,Macaroni and cheese,mac_and_cheese,all_keywords
+2708818,Macaroni or noodles with cheese and meat,Macaroni and cheese,mac_and_cheese,all_keywords
+2708819,"Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix",Macaroni and cheese,hamburger,exact
+2708819,"Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix",Macaroni and cheese,mac_and_cheese,all_keywords
+2708820,Macaroni or noodles with cheese and tomato,Macaroni and cheese,mac_and_cheese,all_keywords
+2708821,Macaroni or noodles with cheese and frankfurters or hot dogs,Macaroni and cheese,hot_dog,exact
+2708821,Macaroni or noodles with cheese and frankfurters or hot dogs,Macaroni and cheese,mac_and_cheese,all_keywords
+2708822,Macaroni or noodles with cheese and egg,Macaroni and cheese,mac_and_cheese,all_keywords
+2708823,Macaroni or noodles with cheese and chicken or turkey,Macaroni and cheese,mac_and_cheese,all_keywords
+2708929,"Macaroni or noodles, creamed, with cheese and tuna",Macaroni and cheese,mac_and_cheese,all_keywords
+2708946,Macaroni or pasta salad with chicken,"Pasta mixed dishes, excludes macaroni and cheese",chicken_salad,all_keywords
+2708950,"Bibimbap, Korean",Rice mixed dishes,bibimbap,exact
+2708951,"Rice, fried, meatless",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708952,"Rice, fried, NFS",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708953,"Rice, fried, with chicken",Fried rice and lo/chow mein,fried_chicken,all_keywords
+2708953,"Rice, fried, with chicken",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708954,"Rice, fried, with pork",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708955,"Rice, fried, with beef",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708956,"Rice, fried, with shrimp",Fried rice and lo/chow mein,fried_rice,all_keywords
+2708957,"Dukboki or Tteokbokki, Korean",Rice mixed dishes,tteokbokki,exact
+2708958,"Adobo, with rice",Poultry mixed dishes,adobo,exact
+2708959,"Sushi, NFS","Egg rolls, dumplings, sushi",sushi,exact
+2708960,"Sushi roll, avocado","Egg rolls, dumplings, sushi",sushi,exact
+2708961,"Sushi roll, California","Egg rolls, dumplings, sushi",sushi,exact
+2708962,"Sushi roll, eel","Egg rolls, dumplings, sushi",sushi,exact
+2708963,"Sushi roll, salmon","Egg rolls, dumplings, sushi",sushi,exact
+2708964,"Sushi roll, shrimp","Egg rolls, dumplings, sushi",sushi,exact
+2708965,Sushi roll tuna,"Egg rolls, dumplings, sushi",sushi,exact
+2708966,"Sushi roll, vegetable","Egg rolls, dumplings, sushi",sushi,exact
+2708967,"Sushi, topped with crab","Egg rolls, dumplings, sushi",sushi,exact
+2708968,"Sushi, topped with eel","Egg rolls, dumplings, sushi",sushi,exact
+2708969,"Sushi, topped with salmon","Egg rolls, dumplings, sushi",sushi,exact
+2708970,"Sushi, topped with shrimp","Egg rolls, dumplings, sushi",sushi,exact
+2708971,"Sushi, topped with tuna","Egg rolls, dumplings, sushi",sushi,exact
+2708972,"Sushi, topped with egg","Egg rolls, dumplings, sushi",sushi,exact
+2708973,"Seafood paella, Puerto Rican style",Rice mixed dishes,paella,exact
+2708974,"Soupy rice with chicken, Puerto Rican style","Soups, broth-based",soup,exact
+2708975,"Soupy rice mixture with chicken and potatoes, Puerto Rican style","Soups, broth-based",soup,exact
+2708981,"Congee, with meat, poultry, and/or seafood",Rice mixed dishes,congee,exact
+2708982,"Congee, with meat, poultry, and/or seafood, and vegetables",Rice mixed dishes,congee,exact
+2708983,"Congee, with vegetables",Rice mixed dishes,congee,exact
+2708984,"Congee, with egg",Rice mixed dishes,congee,exact
+2708985,Biryani with vegetables,Rice mixed dishes,biryani,exact
+2709005,"Rice, white, with peas and carrots, NS as to fat",Rice mixed dishes,rice_and_peas,all_keywords
+2709006,"Rice, white, with peas and carrots, no added fat",Rice mixed dishes,rice_and_peas,all_keywords
+2709007,"Rice, white, with peas and carrots, fat added",Rice mixed dishes,rice_and_peas,all_keywords
+2709046,"Rice, brown, with peas and carrots, NS as to fat",Rice mixed dishes,rice_and_peas,all_keywords
+2709047,"Rice, brown, with peas and carrots, no added fat",Rice mixed dishes,rice_and_peas,all_keywords
+2709048,"Rice, brown, with peas and carrots, fat added",Rice mixed dishes,rice_and_peas,all_keywords
+2709092,"Rice, white, with cheese and/or cream based sauce, NS as to fat",Rice mixed dishes,ice_cream,all_keywords
+2709093,"Rice, white, with cheese and/or cream based sauce, no added fat",Rice mixed dishes,ice_cream,all_keywords
+2709094,"Rice, white, with cheese and/or cream based sauce, fat added",Rice mixed dishes,ice_cream,all_keywords
+2709101,"Rice, brown, with cheese and/or cream based sauce, NS as to fat",Rice mixed dishes,ice_cream,all_keywords
+2709102,"Rice, brown, with cheese and/or cream based sauce, no added fat",Rice mixed dishes,ice_cream,all_keywords
+2709103,"Rice, brown, with cheese and/or cream based sauce, fat added",Rice mixed dishes,ice_cream,all_keywords
+2709110,"Rice, white, with vegetables, cheese and/or cream based sauce, NS as to fat",Rice mixed dishes,ice_cream,all_keywords
+2709111,"Rice, white, with vegetables, cheese and/or cream based sauce, no added fat",Rice mixed dishes,ice_cream,all_keywords
+2709112,"Rice, white, with vegetables, cheese and/or cream based sauce, fat added",Rice mixed dishes,ice_cream,all_keywords
+2709119,"Rice, brown, with vegetables, cheese and/or cream based sauce, NS as to fat",Rice mixed dishes,ice_cream,all_keywords
+2709120,"Rice, brown, with vegetables, cheese and/or cream based sauce, no added fat",Rice mixed dishes,ice_cream,all_keywords
+2709121,"Rice, brown, with vegetables, cheese and/or cream based sauce, fat added",Rice mixed dishes,ice_cream,all_keywords
+2709129,"Dosa, with filling","Pancakes, waffles, French toast",dosa,exact
+2709131,Tabbouleh,Turnovers and other grain-based items,tabbouleh,exact
+2709143,"Pancakes and sausage, frozen meal",Meat mixed dishes,pancake,exact
+2709144,"Soup, NFS","Soups, broth-based",soup,exact
+2709145,"Soup, noodle, NFS","Soups, broth-based",soup,exact
+2709146,"Soup, rice","Soups, broth-based",soup,exact
+2709147,"Soup, barley","Soups, broth-based",soup,exact
+2709148,"Soup, chicken noodle, canned","Soups, broth-based",soup,exact
+2709149,"Soup, chicken noodle","Soups, broth-based",soup,exact
+2709150,"Soup, chicken, canned, reduced sodium","Soups, broth-based",soup,exact
+2709151,"Soup, Matzo ball","Soups, broth-based",soup,exact
+2709152,"Soup, ramen noodles, water added",Ramen and Asian broth-based soups,ramen,exact
+2709152,"Soup, ramen noodles, water added",Ramen and Asian broth-based soups,soup,exact
+2709153,"Ramen bowl, NFS",Ramen and Asian broth-based soups,ramen,exact
+2709154,Ramen bowl with beef,Ramen and Asian broth-based soups,ramen,exact
+2709155,Ramen bowl with chicken,Ramen and Asian broth-based soups,ramen,exact
+2709156,Ramen bowl with fish,Ramen and Asian broth-based soups,ramen,exact
+2709157,"Ramen bowl, vegetarian",Ramen and Asian broth-based soups,ramen,exact
+2709158,Ramen bowl with meat and egg,Ramen and Asian broth-based soups,ramen,exact
+2709159,"Ramen bowl, vegetarian with egg",Ramen and Asian broth-based soups,ramen,exact
+2709160,"Soup, wonton",Ramen and Asian broth-based soups,soup,exact
+2709160,"Soup, wonton",Ramen and Asian broth-based soups,wonton_soup,all_keywords
+2709161,"Soup, sopa de fideo aguada","Soups, broth-based",soup,exact
+2709162,"Soup, tortilla","Soups, broth-based",soup,exact
+2709306,Lime souffle,Pudding,souffle,exact
+2709307,"Guacamole, NFS","Dips, gravies, other sauces",guacamole,exact
+2709307,"Guacamole, NFS","Dips, gravies, other sauces",mole,exact
+2709308,Guacamole with tomatoes,"Dips, gravies, other sauces",guacamole,exact
+2709308,Guacamole with tomatoes,"Dips, gravies, other sauces",mole,exact
+2709311,"Soup, fruit","Soups, broth-based",soup,exact
+2709402,"Potato, roasted, NFS","White potatoes, baked or boiled",pot_roast,all_keywords
+2709403,"Potato, roasted, from fresh, peel eaten, NS as to fat","White potatoes, baked or boiled",pot_roast,all_keywords
+2709404,"Potato, roasted, from fresh, peel eaten, no added fat","White potatoes, baked or boiled",pot_roast,all_keywords
+2709405,"Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type","White potatoes, baked or boiled",pot_roast,all_keywords
+2709406,"Potato, roasted, from fresh, peel eaten, made with oil","White potatoes, baked or boiled",pot_roast,all_keywords
+2709407,"Potato, roasted, from fresh, peel eaten, made with butter","White potatoes, baked or boiled",pot_roast,all_keywords
+2709408,"Potato, roasted, from fresh, peel eaten, made with margarine","White potatoes, baked or boiled",pot_roast,all_keywords
+2709409,"Potato, roasted, from fresh, peel not eaten, NS as to fat","White potatoes, baked or boiled",pot_roast,all_keywords
+2709410,"Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type","White potatoes, baked or boiled",pot_roast,all_keywords
+2709411,"Potato, roasted, from fresh, peel not eaten, no added fat","White potatoes, baked or boiled",pot_roast,all_keywords
+2709412,"Potato, roasted, from fresh, peel not eaten, made with oil","White potatoes, baked or boiled",pot_roast,all_keywords
+2709413,"Potato, roasted, from fresh, peel not eaten, made with butter","White potatoes, baked or boiled",pot_roast,all_keywords
+2709414,"Potato, roasted, from fresh, peel not eaten, made with margarine","White potatoes, baked or boiled",pot_roast,all_keywords
+2709415,"Potato, roasted, ready-to-heat","White potatoes, baked or boiled",pot_roast,all_keywords
+2709418,"Potato from Puerto Rican style stuffed pot roast, with gravy",Mashed potatoes and white potato mixtures,pot_roast,exact
+2709456,"Potato, french fries, NFS",French fries and other fried white potatoes,french_fries,exact
+2709457,"Potato, french fries, NS as to fresh or frozen",French fries and other fried white potatoes,french_fries,exact
+2709458,"Potato, french fries, from fresh, fried",French fries and other fried white potatoes,french_fries,exact
+2709459,"Potato, french fries, from fresh, baked",French fries and other fried white potatoes,french_fries,exact
+2709460,"Potato, french fries, from frozen, baked",French fries and other fried white potatoes,french_fries,exact
+2709461,"Potato, french fries, fast food",French fries and other fried white potatoes,french_fries,exact
+2709462,"Potato, french fries, restaurant",French fries and other fried white potatoes,french_fries,exact
+2709463,"Potato, french fries, from frozen, fried",French fries and other fried white potatoes,french_fries,exact
+2709464,"Potato, french fries, school",French fries and other fried white potatoes,french_fries,exact
+2709465,"Potato, french fries, with cheese, fast food / restaurant",French fries and other fried white potatoes,french_fries,exact
+2709466,"Potato, french fries, with cheese, school",French fries and other fried white potatoes,french_fries,exact
+2709467,"Potato, french fries, with chili, fast food / restaurant",French fries and other fried white potatoes,chili,exact
+2709467,"Potato, french fries, with chili, fast food / restaurant",French fries and other fried white potatoes,french_fries,exact
+2709468,"Potato, french fries, with chili and cheese, fast food / restaurant",French fries and other fried white potatoes,chili,exact
+2709468,"Potato, french fries, with chili and cheese, fast food / restaurant",French fries and other fried white potatoes,french_fries,exact
+2709469,"Potato, french fries, with cheese",French fries and other fried white potatoes,french_fries,exact
+2709470,"Potato, french fries, with chili and cheese",French fries and other fried white potatoes,chili,exact
+2709470,"Potato, french fries, with chili and cheese",French fries and other fried white potatoes,french_fries,exact
+2709471,"Potato, french fries, with chili",French fries and other fried white potatoes,chili,exact
+2709471,"Potato, french fries, with chili",French fries and other fried white potatoes,french_fries,exact
+2709522,"Potato, baked, peel not eaten, with chili","White potatoes, baked or boiled",chili,exact
+2709529,"Potato, baked, peel eaten, with chili","White potatoes, baked or boiled",chili,exact
+2709552,Potato pancake,Mashed potatoes and white potato mixtures,pancake,exact
+2709556,"Soup, potato","Soups, cream-based",soup,exact
+2709557,"Soup, potato with meat","Soups, cream-based",soup,exact
+2709558,"Plantain, cooked, no added fat",Other starchy vegetables,plantain,exact
+2709559,"Plantain, cooked with oil",Other starchy vegetables,plantain,exact
+2709560,"Plantain, raw",Other starchy vegetables,plantain,exact
+2709561,"Plantain, cooked, fat added, NS as to fat type",Other starchy vegetables,plantain,exact
+2709562,"Plantain, cooked with butter or margarine",Other starchy vegetables,plantain,exact
+2709563,Plantain chips,"Tortilla, corn, other chips",plantain,exact
+2709568,Fufu,Other starchy vegetables,fufu,exact
+2709591,"Caesar salad, with romaine, no dressing",Lettuce and lettuce salads,caesar_salad,exact
+2709629,Spinach souffle,Vegetable dishes,souffle,exact
+2709631,Palak Paneer,Vegetable dishes,palak_paneer,exact
+2709659,"Soup, broccoli cheese","Soups, cream-based",soup,exact
+2709696,"Squash, winter, souffle",Vegetable dishes,souffle,exact
+2709718,"Soup, pumpkin","Soups, cream-based",soup,exact
+2709735,Tomato chili sauce,Tomato-based condiments,chili,exact
+2709740,Taco sauce,Tomato-based condiments,taco,exact
+2709741,"Enchilada sauce, red",Tomato-based condiments,enchilada,exact
+2709742,"Enchilada sauce, green","Dips, gravies, other sauces",enchilada,exact
+2709752,Steak sauce,Tomato-based condiments,steak,exact
+2709757,"Soup, tomato","Soups, broth-based",soup,exact
+2709758,"Soup, cream of tomato","Soups, cream-based",soup,exact
+2709759,"Soup, tomato, canned","Soups, broth-based",soup,exact
+2709760,"Soup, tomato, canned / carton, reduced sodium","Soups, broth-based",soup,exact
+2709814,"Coleslaw, fast food / restaurant","Coleslaw, non-lettuce salads",coleslaw,exact
+2709815,Coleslaw,"Coleslaw, non-lettuce salads",coleslaw,exact
+2709817,"Coleslaw, with fruit","Coleslaw, non-lettuce salads",coleslaw,exact
+2709832,"Cobb salad, no dressing",Vegetable dishes,cobb_salad,exact
+2710028,Ratatouille,Vegetable dishes,ratatouille,exact
+2710043,"Chiles rellenos, cheese-filled",Other Mexican mixed dishes,chile_relleno,all_keywords
+2710044,"Chiles rellenos, filled with meat and cheese",Other Mexican mixed dishes,chile_relleno,all_keywords
+2710050,"Eggplant parmesan casserole, regular",Vegetable dishes,eggplant_parm,exact
+2710062,"Squash, summer, souffle",Vegetable dishes,souffle,exact
+2710064,"Chow mein or chop suey, meatless, no noodles",Stir-fry and soy-based sauce mixtures,chow_mein,exact
+2710065,Vegetable tempura,Fried vegetables,tempura,exact
+2710069,"Chow mein or chop suey, meatless, with noodles",Fried rice and lo/chow mein,chow_mein,exact
+2710077,Kimchi,"Olives, pickles, pickled vegetables",kimchi,exact
+2710105,"Soup, borscht","Soups, broth-based",borscht,exact
+2710105,"Soup, borscht","Soups, broth-based",soup,exact
+2710106,"Soup, gazpacho","Soups, broth-based",gazpacho,exact
+2710106,"Soup, gazpacho","Soups, broth-based",soup,exact
+2710107,"Soup, cream of mushroom","Soups, cream-based",soup,exact
+2710108,"Soup, French onion","Soups, cream-based",french_onion_soup,all_keywords
+2710108,"Soup, French onion","Soups, cream-based",soup,exact
+2710109,"Soup, cream of vegetable","Soups, cream-based",soup,exact
+2710110,"Soup, seaweed",Ramen and Asian broth-based soups,soup,exact
+2710111,"Soup, vegetable, canned","Soups, broth-based",soup,exact
+2710112,"Soup, vegetable, canned, reduced sodium","Soups, broth-based",soup,exact
+2710113,"Soup, vegetable","Soups, broth-based",soup,exact
+2710114,"Soup, minestrone","Soups, broth-based",minestrone,exact
+2710114,"Soup, minestrone","Soups, broth-based",soup,exact
+2710115,"Soup, beef","Soups, broth-based",soup,exact
+2710116,"Soup, vegetable, with meat","Soups, broth-based",soup,exact
+2710139,"Green plantain with cracklings, Puerto Rican style",Other starchy vegetables,plantain,exact
+2710140,"Ripe plantain meat pie, Puerto Rican style",Meat mixed dishes,plantain,exact
+2710200,Coleslaw dressing,Salad dressings and vegetable oils,coleslaw,exact
+2710273,Pancake syrup,"Jams, syrups, toppings",pancake,exact
+2710280,"Pancake syrup, light","Jams, syrups, toppings",pancake,exact
+2710296,Sweet and sour sauce,Mustard and other condiments,sweet_and_sour,exact
+2710810,Vegetables as ingredient in curry,Not included in a food category,red_curry,all_keywords
+2710811,Vegetables as ingredient in soups,Not included in a food category,soup,exact
+2710813,Sauce as ingredient in hamburgers,Not included in a food category,hamburger,exact

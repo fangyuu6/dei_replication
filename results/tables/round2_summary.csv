@@ -1,0 +1,10 @@
+Scenario,E_contribution,rank_stability
+Original E dominance,99.8%,—
+After proxy-bias control (R1),99.9%,rho=0.999
+After H decompression CV=20% (R1),91.5%,rho=0.950
+After NDI addition alpha=0.5 (R1),—,rho=0.931 vs original
+"After survivorship ghosts K=334,D=2 (R2)",87.2%,—
+After satiety w=0.3 (R2),99.5%,rho=0.998
+Within Full Mains (R2),99.5%,—
+Meal-level combos (R2),99.4%,—
+State-level DEI (R2),—,rho>0.993

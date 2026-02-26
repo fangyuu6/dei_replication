@@ -1,0 +1,810 @@
+dish_id,name,primary_cuisine,primary_coarse,description
+soto_bandung,Soto Bandung,Indonesian,soup,"The soup is a clear beef soto that has pieces of meat, white radish, and fried soybeans."
+soto_banjar,Soto Banjar,Indonesian,soup,"The soup is spiced with star anise, clove, cassia and lemongrass, and sour hot sambal, served with potato cakes."
+pindang_patin,Pindang patin,Indonesian,soup,This spicy and savory soup where the main ingredients of this dish are usually catfish with herbs and spices
+dhansak,Dhansak,Indian,stew,The stew is made by cooking mutton or goat meat with a mixture of lentils and vegetable
+yin_yang_fried_rice,Yin yang fried rice,Chinese,rice,This dish is a fried rice featuring bechamel sauce and tomato sauce.
+arroz_caldoso,Arroz caldoso,Spanish,rice,"The dish consists of rice cooked in broth, with various seasonings and ingredients. The recipe varies by region, ranging from a risotto-like consistency to a rice soup or a dish resembling paella."
+arroz_con_huevo_frito,Arroz con huevo frito,Central American,rice,The dish is made with rice with fried egg.
+arroz_con_maiz,Arroz con maiz,Latin American,rice,The dish is made with rice and corn cooked in one pot.
+arroz_de_lisa,Arroz de lisa,Colombian,rice,"The dish is made with mullet, typically including Vegetable, and spices. It is usually served in a leaf with minced chives, accompanied by bollo, avocado salad, and guarapo. "
+baghali_polo,Baghali polo,Iranian,rice,"The dish consists of rice, fava beans and dill. It is made by cooking rice and green broad beans in boiling water. When cooked, the rice and beans are layered with dill in a pan, and everything is baked in an oven until ready. Saffron water can also be added to the rice.[1] It is typically served with meat. Like other Iranian traditional foods, the dish may be served at special occasions and family gatherings."
+bnh_chng,Bánh chưng,Vietnamese,rice,"The dish is made from glutinous rice, mung beans, pork and other ingredients."
+bhakri,Bhakri,Indian,bread,The dish is a round flatbread. It is coarser than a regular wheat flatbread. It can be either soft or hard in texture.
+chazuke,Chazuke,Japanese,rice,"The dish is made by pouring green tea, dashi, or hot water over cooked rice. This dish provides a way to use leftover rice as a quick snack because it is easy to make."
+chelow,Chelow,Iranian,rice,"The dish is made with rice that is carefully prepared through soaking and parboiling, at which point the water is drained and the rice is steamed. This method results in an exceptionally fluffy rice with the grains separated and not sticky; it also results in a golden rice crust at the bottom of the pot."
+cm_tm,Cơm tấm,Vietnamese,rice,The dish is made of rice with fractured rice grains.
+dal_bhat,Dal bhat,Indian Subcontinent,rice,The dish consists of steamed rice and a cooked lentil or other pulses stew called dal.
+gaifan,Gaifan,Chinese,rice,"The dish consists of a fish, meat, or vegetable topping served over rice. The dish can be either freshly cooked or previously cooked, such as char siu."
+gimbap,Gimbap,Korean,rice,"The dish is made from cooked rice, Vegetable, fish, and meat rolled in gim—dried sheets of seaweed—and served in bite-sized slices."
+jiuniang,Jiuniang,Chinese,rice,"The dish consists of a mixture of partially digested rice grains floating in a sweet saccharified liquid, with small amounts of alcohol and lactic acid. It is made by fermenting glutinous rice with a starter called jiuqu containing Rhizopus oryzae or Aspergillus oryzae and often yeast and bacteria. "
+jhalmuri,Jhalmuri,Bangladeshi,rice,"The dish is a popular street snack, made of puffed rice and an assortment of Indian spices, Vegetable, Bombay mix and mustard oil.."
+kabuli_pulao,Kabuli pulao,Afghan,rice,"The dish core ingredients are steamed rice mixed with caramelized carrots and dry raisins as well as marinated lamb meat. Qabeli palaw is commonly garnished with almonds and pistachios. Saffron may be added to either the rice, the sauce or the garnishes."
+ketupat,Ketupat,Indonesian,rice,The dish packed inside a diamond-shaped container of woven palm leaf pouch. It  is cut open until its skin (woven palm leaf) is totally removed. The inner rice cake is then cut into pieces and served as a staple food in place of plain steamed rice.
+khao_lam,Khao lam,Thai,rice,The dish consists of sticky rice roasted inside specially prepared bamboo sections of different diameters and lengths.
+kongbap,Kongbap,Korean,rice,The dish consists of white or brown rice cooked together with one or more varieties of soybeans. It may be made from scratch by combining and cooking together dried rice and soybeans—usually black soybeans.
+madumongso,Madumongso,Javanese,rice,The dish is a snack made from black sticky rice as the main ingredient. The sweet flavour is a result of fermenting black sticky rice into tapai and then it is cooked to become dodol.
+tapai,Tapai,South East Asian,rice,"The dish is a traditional fermented preparation of rice or other starchy foods. It has a sweet or sour taste[1] and can be eaten as is, as ingredients for traditional recipes, or fermented further to make rice wine."
+jaynagarer_moa,Jaynagarer Moa,Indian,sweets,The dish is made from date palm jaggery and aromatic rice.
+mochi_ice_cream,Mochi ice cream,American,dessert,The dish is made from pounded sticky rice with an ice cream filling.
+moffle,Moffle,Japanese,dessert,"The dish consisting of mochi rice cake cooked in a waffle iron, which creates a waffle."
+nasi_bogana,Nasi bogana,Indonesian,rice,"The dish is rice wrapped in banana leaves and served with a variety of side dishes. It is a type of mixed rice, which features rice accompanied by multiple side dishes."
+nasi_jinggo,Nasi jinggo,Indonesian,rice,The dish consists of rice packaged in small portions of banana leaves.
+nasi_kandar,Nasi kandar,Malaysian,rice,"The dish consists of steamed rice combined with an array of distinct curries, sides dishes, and gravies. The selection of curries consists of various blends of Vegetable, seafood or meat."
+nasi_kapau,Nasi kapau,Indonesian,rice,The dish is a steamed rice topped with various choices of dishes.
+nasi_timbel,Nasi timbel,Indonesian,rice,The dish consisting of steamed rice wrapped inside a banana leaf.The heat of the hot-cooked rice touches the banana leaf and produces a unique aroma.
+nasi_tutug_oncom,Nasi tutug oncom,Indonesian,rice,The dish is made of rice mixed with oncom fermented beans. It is usually wrapped in banana leaves and served with various side dishes.
+nurungji,Nurungji,Korean,rice,"The dish is made of scorched rice. After boiling and serving rice, a thin crust of scorched rice will usually be left in the bottom of the cooking pot. "
+ofada_rice,Ofada rice,Yoruba,rice,The dish is a type of rice. It is used in making a variety of dishes.
+okowa,Okowa,Japanese,rice,The is a steamed rice dish made with glutinous rice mixed with meat or Vegetable.
+orez_shuit,Orez Shu'it,Israeli,rice,"The dish consisting of white beans cooked in a tomato paste, served on white rice."
+pabelln_criollo,Pabellón criollo,Venezuelan,rice,"It is a plate of rice, shredded beef in stew and stewed black beans."
+pinipig,Pinipig,Filipino,dessert,"The dish is a flattened rice ingredient. It is made of immature grains of glutinous rice pounded until flat before being toasted. It is commonly used as toppings for various desserts, but can also be eaten plain, made into cakes, or mixed with drinks and other dishes."
+pus,Pusô,Filipino,rice,"The dish is a rice cake made by boiling rice in a woven pouch of palm leaves. It is most commonly found in octahedral, diamond, or rectangular shapes, but it can also come in various other intricately woven complex forms."
+puto_bumbong,Puto bumbong,Filipino,dessert,The dish is a purple rice cake steamed in bamboo tubes.
+rice_and_gravy,Rice and gravy,American,rice,"The dish is made by deglazing a pan to make brown gravy, simmering with extra seasonings, and serving over steamed or boiled rice."
+rice_krispies,Rice Krispies,Global,cereal,"The dish is a breakfast cereal made of crisped rice. When milk is added to the cereal the rice tends to collapse, creating the characteristic ""snap"", ""crackle and pop"" sounds."
+sel_roti,Sel roti,Nepalese,bread,The dish is a ring-shaped sweet fried dough made from rice flour.
+shirin_polo,Shirin polo,Iranian,rice,"The dish is typically served at celebrations such as weddings, birthdays, and holidays. It is steamed rice topped with nuts and dried fruits such as barberries, apricots, and dates."
+thalassery_biryani,Thalassery biryani,Indian,rice,The dish is a rice-based dish blended with spices and chicken.
+tinapayan,Tinapayan,Filipino,rice,The dish consists of tapay (fermented cooked rice) and dried fish.
+tube_rice_pudding,Tube rice pudding,Taiwanese,rice,The dish consists of a stir-fried glutinous rice mixture that is seasoned and steamed in a bamboo tube. This dish is a cylindrical shape caused by the steaming process in a tube.
+waakye,Waakye,Ghanaian,rice,The dish is a cooked rice and beans covered with leaf sheaths.
+xi,Xôi,Vietnamese,rice,The dish is a savory glutinous rice covered with eggs and Vegetable.
+yakimochi,Yakimochi,Japanese,rice,"The dish is is grilled or broiled mochi or pounded rice cake. Traditionally, it is prepared using a small charcoal grill, but in modern times a gas grill can be used. During the time of the Autumn Moon, it is traditional to eat this dish while sipping sake and enjoying the view of the full moon. "
+zosui,Zosui,Japanese,rice,"The dish is a mild and thin rice soup akin to a rice-based vegetable soup. It is made from pre-cooked rice and dashi or water seasoned with either soy sauce or miso and cooked with other ingredients such as meat, seafood, mushrooms, and Vegetable."
+ciba_cake,Ciba cake,Chinese,snack,The dish is made of glutinous rice pounded into paste and is often fried or steamed before being served. It is often molded into shapes of balls or cuboids.
+funing_big_cake,Funing big cake,Chinese,cake,"The dish traditionally use sticky rice, white sugar, and refined lard as  raw materials. Sometimes the dish also contains pine nuts, walnuts, or other ingredients as garnishes."
+qingtuan,Qingtuan,Chinese,dumpling,"The dish is made of glutinous rice mixed with matcha, with a wider variety of fillings, such as rousong or salted egg yolk."
+white_sugar_sponge_cake,White sugar sponge cake,Chinese,cake,"The dish is white in color, with a spongy and soft consistency. The taste is sweet, and sometimes has a slightly sour taste due to fermentation of the batter prior to cooking."
+senbei,Senbei,Japanese,snack,"The dish is a rice cracker. They come in various shapes, sizes, and flavors, usually savory but sometimes sweet. This dish is often eaten with green tea as a casual snack and offered to visiting house guests as a courtesy refreshment."
+sirutteok,Siru-tteok,Korean,snack,The dish is a steamed rice cake made with red bean and rice.
+hwajeon,Hwajeon,Korean,snack,The dish is a pan-fried rice cake covered with edible petals.
+bnh_t,Bánh tổ,Chinese,cake,The dish is made from glutinus irce flour with sticky sweet texture with brown color.
+chwee_kueh,Chwee kueh,Teochew,rice,This is a steamed rice cake dish is served with preserved radish.
+rijstevlaai,Rijstevlaai,Dutch,rice,The dish is a pie with a filling based on rice pudding.
+tangyuan,Tangyuan,Chinese,dessert,"The dish is made of glutinous rice shaped into balls that are served in a hot broth or syrup. They come in varying sizes, anything between a marble to a ping pong ball, and are sometimes stuffed with filling."
+meghli,Meghli,Levantine,dessert,"The dish is based on a floured rice pudding and spiced with anise, caraway, and cinnamon. The dish is often garnished with dried coconut flakes and various nuts including almonds, walnuts, pine nuts, and pistachios."
+ch,Chè,Vietnamese,dessert,"The dish is any sweet beverage, dessert soup or stew, or pudding. It includes a wide variety of distinct soups or puddings."
+ifumi,Ifumi,Indonesian,noodle,The dish served in a thick savoury sauce with pieces of meat or seafood and Vegetable. The dishes are to be served hot while the noodles are still crisp until the noodles are softened by the sauce and are ready to be eaten.
+buldak_ramen,Buldak Ramen,South Korean,noodle,"The dish is a type of 'stir-fried' dry noodle: after boiling, the noodles are drained, and mixed with a spicy sauce and a topping."
+maggi_goreng,Maggi goreng,Malaysian,noodle,"The dish uses Maggi brand of instant noodles, prepared with hot water before stir-frying, instead of fresh yellow noodles."
+biangbiang_noodles,Biangbiang noodles,Chinese,noodle,"The dish usually made using noodles that are thick and belt-like, and are usually hand-made."
+cart_noodle,Cart noodle,Hong Kong,noodle,"The dish is typically based upon the diner choosing various ingredients they would like, including the type of noodles, various soup broths, and toppings.Examples of types of noodles and toppings, which may vary considerably from stall to stall."
+ht,Hōtō,Japanese,noodle,"The dish is made by stewing flat udon noodles and Vegetable in miso soup. Though this dish is commonly recognized as a variant of udon, locals do not consider it to be an udon dish because the dough is prepared in the style of dumplings rather than noodles."
+otaru_ankake_yakisoba,Otaru Ankake Yakisoba,Japanese,noodle,"The dish is a variety of stir-fried noodles with a starchy sauce. Each restaurant uses different recipes and ways of serving the dish, resulting in a wide range of flavours and variations on the dish."
+shirataki_noodles,Shirataki noodles,Japanese,noodle,"The dish is gelatinous noodles made from the corm of the konjac plant. In traditional cuisine, they are eaten in soups or stir-fried. The texture is chewy, similar to a tough jelly, and has little flavor before seasoning."
+tensoba,Tensoba,Japanese,noodle,"There are two varieties of the dish: one is served with a hot broth of dashi and soy sauce; the other is served with cooled soba and dipped in tsukejiru (lit. ""dipping sauce""), either chilled or hot and usually strongly flavored."
+bibim_guksu,Bibim guksu,Korean,noodle,The dish is a cold spicy noodle dish made with very thin wheat flour noodles called somyeon with added flavorings.
+toshikoshi_soba,Toshikoshi soba,Japanese,noodle,The dish is a noodle soup dish traditionally eaten on omisoka (new year's eve).
+jatguksu,Jat-guksu,Korean,noodle,The dish consists of wheat flour or buckwheat noodles in a bowl of cold broth made from ground pine nuts.
+naengmyeon,Naengmyeon,Korean,noodle,"The dish consists of long and thin handmade noodles made from the flour and starch of various ingredients, including buckwheat (메밀, memil), potatoes, sweet potatoes, arrowroot starch (darker color and chewier than buckwheat noodles), and kudzu (칡, chik). The dish usually served with cold broth."
+milmyeon,Milmyeon,Korean,noodle,"The dish consists of wheat noodles in a cold meat broth or a spicy sauce, and topped with Vegetable and garnish."
+chow_mein_sandwich,Chow mein sandwich,American,bread,The dish consists of a brown gravy-based chow mein mixture placed between halves of a hamburger-style bun.
+ksesptzle,Käsespätzle,German,noodle,"Hot spätzle and grated cheese such as Emmentaler or granular cheese are layered alternately and finally topped with fried onions. After adding each layer, the dish is baked until all the cheese is melted. Accompanying side dishes are green salads or potato salad."
+kraft_dinner,Kraft Dinner,American,pasta,"The dish is a nonperishable, packaged macaroni and cheese product."
+bn_c,Bún ốc,Vietnamese,noodle,"The dish contains broth, snails, and tofu as its basic characteristics but it can also contain green bananas, some fresh Vegetable or chopped water spinach, bean sprouts, water dropwort, tomatoes, and other ingredients."
+tsukemen,Tsukemen,Japanese,noodle,The dish consists of noodles that are eaten after being dipped in a separate bowl of soup or broth.
+abura_soba,Abura Soba,Japanese,noodle,The dish consists of dry noodle made with a sauce of soy sauce and lard.
+thenthuk,Thenthuk,Tibetan,noodle,"The noodle dish is made of wheat flour dough, mixed Vegetable and some pieces of mutton or yak meat."
+thukpa_bhatuk,Thukpa bhatuk,Tibetan,noodle,"The dish is made of noodle. Meat is usually a main ingredient in this soup, commonly mutton, beef or yak; however, this soup can also be made vegetarian with a vegetable bouillon."
+saimin,Saimin,Hawaiian,noodle,"The dish is made of soft wheat egg noodles served in a hot dashi garnished with diced green onions and a thin slice of kamaboko. It may also include additional toppings such as char siu, sliced Spam, sliced egg, bok choy, mushrooms, or shredded nori. "
+cotoletta_alla_milanese,Cotoletta alla milanese,Italian,cutlet,"The dish consists of veal rib chop or sirloin bone-in and made into a breaded cutlet, fried in butter."
+krupuk,Krupuk,Indonesian,snack,The dish is a deep fried crackers made from starch and other ingredients that serve as flavouring.
+khinkali,Khinkali,Georgian,side dish,"The dish is made of twisted knobs of dough, stuffed with meat, fish or Vegetable and spices."
+momo,Momo,Tibetan,side dish,"The dumplings are prepared with ground/minced meat, potatoes, and leek filling."
+buuz,Buuz,Mongolian,side dish,The dish is steamed dumpling filled with meat.
+siomay,Siomay,Indonesian,dumpling,The dish is a steamed fish dumpling with Vegetable served in peanut sauce.
+dorayaki,Dorayaki,Japanese,pancake,The dish consists of two small pancake-like patties made from castella wrapped around a filling of sweet bean paste.
+buchimgae,Buchimgae,Korean,pancake,The dish made by pan-frying a thick batter mixed with egg and other ingredients until a thin flat pancake-shaped fritter is formed.
+bindaetteok,Bindae-tteok,Korean,pancake,"The dish is made by grinding soaked mung beans, adding vegetable and meat and pan-frying it into a round, flat shape."
+murtabak,Murtabak,Yemeni,pancake,"The dish is often described as spicy folded omelette pancake with bits of vegetable. The most common form of this dish is made from pan fried crepes usually stuffed with beaten eggs, chopped leeks, chives, or green onion (scallions) and minced meat, which is then folded and cut to squares."
+chataamari,Chataamari,Nepalese,crepe,The dish is made of rice crepe with meat and egg topping.
+pisang_molen,Pisang Molen,Indian Subcontinent,snack,The dish is a fritter made by deep frying battered banana or plantain in hot cooking oil.
+maruya,Maruya,Filipino,fritter,The dish is made by bananas cooked with batter.
+kluai_khaek,Kluai khaek,Thai,fritter,"The dish is made from fried, floured banana commonly topped with white sesame."
+chui_chin,chuối chiên,Vietnamese,fritter,"The dish after deep frying, banana fritters are drizzled with rum or rice wine and ignited to further crisp them."
+doenjang_jjigae,Doenjang jjigae,Korean,stew,"This dish is made from the primary ingredient of soybean paste, and additional optional ingredients Vegetable, seafood, and meat."
+douhua,Douhua,Chinese,pudding,"This dish is a sweet or savoury snack made with silken tofu. It is also referred to as tofu pudding, soybean pudding, or tofu brains."
+ganmodoki,Ganmodoki,Japanese,fritter,"The dish is a fried tofu fritter made with Vegetable such as carrots, lotus roots, and burdock with sometimes egg."
+kupat_tahu,Kupat tahu,Indonesian,tofu,The dish is a rice cake served with peanut sauce topped with crispy crackers.
+stinky_tofu,Stinky tofu,Chinese,tofu,"This dish is a form of fermented tofu that has a strong odor. It is usually sold at night markets or roadside stands as a snack, or in lunch bars as a side dish, rather than in restaurants. Traditionally the dish is fermented in a brine with Vegetable and meat, sometimes for months."
+taho,Taho,Filipino,dessert,The dish is made from soft tofu with sweet brown-colored sugar syrup and sago pearls.
+tahu_sumedang,Tahu sumedang,Indonesian,tofu,"The dish is made of deep-fried tofu, usually served with separate green chili."
+corunda,Corunda,Mexican,corn,"The dish is wrapped in a long corn or reed plant leaf, and folded, making a triangular shape or spherical shape. They are typically steamed until golden and eaten with sour cream and red salsa."
+andong_jjimdak,Andong jjimdak,Korean,stir fry,"This dish is a stew made with chicken, various Vegetable marinated in a soy sauce based sauce."
+galbijjim,Galbi-jjim,Korean,stew,"This dish is a stew made with short rib, generally beef or pork."
+urap,Urap,Indonesian,vegetable,The dish is a salad dish of steamed Vegetable mixed with seasoned and spiced grated coconut for dressing.
+mantau,Mantau,Chinese,bread,"The dish is a white and soft type of steamed bread or bun. It is made with milled wheat flour, water and leavening agents."
+tingmo,Tingmo,Chinese,bread,The dish is a steamed bun with shape similar to flower rolls with soft and fluffy texture.
+wotou,Wotou,Chinese,bread,The dish is a type of steamed bread made from cornmeal.
+baozi,Baozi,Chinese,bread,"This dish is a type of yeast-leavened filled bun. There are many variations in fillings (meat or vegetarian) and preparations, though the buns are most often steamed."
+gaobuli,Gaobuli,Chinese,bread,This dish is a bun with wrinkles on the outside.
+shengjian_mantou,Shengjian mantou,Chinese,bread,"This dish is a small, pan-fried bun with pork filling."
+tangbao,Tangbao,Chinese,bread,"This dish is a soup buns, a large, soup-filled buns made by wrapping dough which then steamed into soup."
+hoppang,Hoppang,Korean,bread,"This dish is a convenience food version of steamed bread and is typically filled with smooth, sweetened red bean paste."
+jjinppang,Jjinppang,Korean,bread,"This dish is a steamed bun, typically filled with red bean paste with bits of broken beans and bean husk."
+lotus_seed_bun,Lotus seed bun,Chinese,bread,This dish is a steamed yeast-leavened dough that contains lotus seed paste.
+longevity_peach,Longevity peach,Chinese,bread,"This dish is a white bun with red dyed tip with a crease along the side, mimicking shape of the peach."
+mandarin_roll,Mandarin roll,Chinese,bread,The dish is a steamed white-colored bun with a twisted shape.
+taro_cake,Taro cake,Chinese,cake,"The dish is a dense texture cake made from vegetable taro, cut into rectangular slices and pan-fried."
+treacle_sponge_pudding,Treacle sponge pudding,British,dessert,The dish is a steamed sponge cake with treacle cooked on top of it.
+karukan,Karukan,Japanese,rice,The dish is a traditional confection in the form of a long block.
+kue_mangkok,Kue mangkok,Indonesian,dessert,"The dish is a traditional steamed cupcake that requires few ingredients, typically around four to five, and is cooked by steaming."
+seri_muka,Seri muka,Indonesian,dessert,The dish is a two-layered dessert with steamed glutinous rice at the bottom and a green pandan-flavored custard on top.
+lucky_tattie,Lucky tattie,Scottish,sweets,"The dish is made of a white fondant solid core flavoured with cassia, and steamed and covered with cinnamon powder."
+chawanmushi,Chawanmushi,Japanese,egg,"The dish is a savory egg custard made by steaming an egg mixture flavored with soy sauce, dashi, and mirin."
+eomandu,Eo-mandu,Korean,dumpling,"The dish is a half-moon-shaped dumpling prepared with filleted whitefish, most typically brown croakers, instead of flour dough as the wrapping."
+har_gow,Har gow,Cantonese,dim sum,"The dish is a traditional dumpling served as dim sum. It is made of shrimp meat, and steamed in a flour wrapper. After cooking, the wrapper becomes somewhat translucent."
+steamed_cheeseburger,Steamed cheeseburger,American,bread,This dish is a type of hamburger topped with cheese that is cooked via steaming.
+cabinet_pudding,Cabinet pudding,British,pudding,"The dish is a steamed, sweet, moulded pudding made from some combination of bread or sponge cake or similar ingredients in custard, cooked in a mould faced with decorative fruit pieces such as cherries or raisins, served with some form of sweet sauce."
+jeungpyeon,Jeungpyeon,Korean,rice,The dish is made by steaming rice flour dough prepared with makgeolli (rice wine).
+mujigaetteok,Mujigae-tteok,Korean,rice,The dish is a layered tteok (rice cake) of different colors resembling a rainbow.
+bappir,Bappir,Iraqi,bread,The dish is a twice-baked barley bread.
+fat_rascal,Fat rascal,English,cake,"The dish baked as a buttery, flat cake baked in a covered pan among the ashes of a peat fire."
+paximathia,Paximathia,Greek,bread,"The dish is a hard bread that is prepared with whole wheat, chick pea or barley flour."
+aachener_printen,Aachener Printen,German,cake,"This pastry is originally sweetened with honey, but are now generally sweetened with a syrup made from sugar beets."
+abernethy_biscuit,Abernethy biscuit,British,snack,"The dish is a type of digestive biscuit, a baked good originally designed to be eaten as a support to proper digestion."
+acbadem_kurabiyesi,Acıbadem kurabiyesi,Turkish,snack,"The dish is a biscuit made of almonds, sugar and egg whites. The traditional recipes include a small amount of bitter almonds"
+amaretti_di_saronno,Amaretti di Saronno,Italian,snack,"The dish is a type of amaretto, a bitter-sweet flavored macaroon. It is one of many types of traditional amaretti, but the only one made with apricot kernels (the others are usually made with almonds)."
+aparon,Aparon,Filipino,snack,"This dish is a wafer drizzled with caramelized sugar and optionally, sesame seeds. It is uniquely made from unconsecrated communion wafers."
+basler_lckerli,Basler Läckerli,Swiss,dessert,"The dish is made by baking a thin layer of dough, which is then topped with a sugar glaze while still hot and cut into rectangular pieces."
+berger_cookies,Berger Cookies,American,dessert,"The dish is frosted on its flat bottom, giving the final cookie an overall rounded shape. Each weighs 1.25 ounces, with the cake-like under-cookie weighing a quarter of an ounce, and the chocolate/fudge frosting weighing an ounce."
+bourbon_biscuit,Bourbon biscuit,British,dessert,The dish is a sandwich biscuit consisting of two thin rectangular dark chocolate-flavoured biscuits with a chocolate buttercream filling.
+camachile_cookie,Camachile cookie,Filipino,dessert,The dish is characteristically shaped like the fruits of the camachile tree (Pithecellobium dulce).
+carrot_cake_cookie,Carrot cake cookie,British,dessert,The dish is cake that contains carrots mixed into the batter.
+cat_tongue,Cat tongue,French,snack,"The dish is a small, long, and flat biscuit resembling a cat's tongue."
+caycay,Caycay,Filipino,snack,The dish is a crunchy layered cookie coated in syrup (latik) or honey and rolled in coarsely ground toasted peanuts.
+chocolatecoated_marshmallow_treats,Chocolate-coated marshmallow treats,Danish,dessert,The dish is a confection consisting of a biscuit base topped with marshmallow-like filling and then coated in a hard shell of chocolate.
+custard_cream,Custard cream,British,snack,"The dish is a type of sandwich biscuit filled with a creamy, custard-flavoured centre."
+drabbelkoek,Drabbelkoek,Dutch,snack,The dish is a sort of round and hard cookie which made by dribbling strings of the liquid dough in hot butter.
+fig_roll,Fig roll,Middle Eastern,snack,The dish is a biscuit or cookie consisting of a rolled cake or pastry filled with fig paste.
+finskepinner,Finskepinner,Swedish,snack,"The dish is a shortbread cookie characterized by its long shape, crispy texture, and its frequent consumption during Christmas."
+fudge_cookie,Fudge cookie,Global,snack,"The dish is a is a cookie that is prepared with fudge or that has the flavor, consistency or texture of fudge."
+galletas_de_patatas,Galletas de patatas,Filipino,snack,The dish is a thick and square-shaped biscuit with upturned edges.
+garibaldi_biscuit,Garibaldi biscuit,British,snack,The dish consists of currants squashed and sandwiched between two thin oblongs of biscuit dough before baking.
+gazelle_ankles,Gazelle ankles,Algerian,snack,The dish is a crescent-shaped cookies made of flour-based dough filled with almond paste aromatized with orange blossom water.
+qurabiya,Qurabiya,Arabic,snack,"The dish is a shortbread-type biscuit, usually made with ground almonds."
+gingerbread_man,Gingerbread man,English,snack,"The dish is a biscuit or cookie made from gingerbread, usually in the shape of a stylized human being following seasonal themes."
+halfmoon_cookie,Half-moon cookie,Filipino,snack,The dish  is a semicircle- or crescent-shaped butter cookie. It has a soft crumbly texture and a sweet flavor with a salty aftertaste.
+jacobina,Jacobina,Filipino,snack,The dish is a biscuit that are distinctively cubical in shape.
+jammie_dodgers,Jammie Dodgers,British,snack,The dish is a  biscuit made from shortcake with a raspberry or strawberry flavoured jam filling.
+jodenkoek,Jodenkoek,Dutch,snack,"The dish is a big, flat, round shortbread biscuit with a diameter of about 10 centimeters (4"")."
+kaasstengels,Kaasstengels,Dutch,snack,The dish is a cheese snack in the shape of sticks. It tastes savoury and salty instead of sweet.
+kahk,Kahk,Egyptian,snack,"The dish is a small circular biscuit. It is covered with powdered sugar and can be stuffed with ʿagameyya (a mixture of honey, nuts, and ghee), lokum, walnuts, pistachios, or dates, or simply served plain."
+kimpinn,Kiâm-piánn,Taiwanese,snack,"The dish is a biscuit which is characterized by a crispy texture and a savory taste with a hint of pepper, which becomes subtly sweet upon chewing."
+kue_gapit,Kue gapit,Indonesian,snack,"This dish is a kind of cracker generally made from tapioca flour. Its name comes from the cooking process, in which it is grilled between iron molds like a waffle."
+kue_satu,Kue satu,Indonesian,snack,This dish is a traditional cookie made of sweet white-colored mung bean powder that crumbles when bitten.
+lincoln_biscuit,Lincoln biscuit,Irish,snack,"The dish is a circular shortcake biscuit, most commonly decorated on one side with a pattern of raised dots."
+maple_leaf_cream_cookie,Maple leaf cream cookie,Canadian,dessert,"The dish is a sandwich cookies. The cream filling is maple-flavoured, and may contain real maple syrup."
+paciencia,Paciencia,Filipino,snack,"The dish is made from beaten egg whites, flour, and calamansi with hemispherical shape."
+petitbeurre,Petit-Beurre,French,snack,The dish is a type of shortbread surface of the biscuit is smooth and has twenty-four indents (four lines with six columns) intermixed with the inscription of the dish name in three lines.
+pepernoot,Pepernoot,Dutch,snack,"The dish is light brown, square shaped, and made from the same ingredients as taai-taai: rye flour, sugar and anise, and sometimes also cinnamon, and clove. They are fairly chewy, though they harden gradually when exposed to the air. "
+pinolate,Pinolate,Italian,snack,"The dish is a type of cookie light golden color and studded with golden pine nuts (pinoli in Italian). Made with almond paste and egg whites, they are moist, soft and chewy."
+piata_cookie,Piñata cookie,Mexican,snack,The dish is a sugar cookie that is shaped and colored like a rainbow colored horse and filled with various small candies which spill out when the cookie is broken.
+kue_putri_salju,Kue putri salju,Indonesian,snack,The dish is dried cake shaped like crescents and covered with powdered sugar.
+kue_semprong,Kue semprong,Indonesian,biscuit,The dish is a wafer snack made by clasping egg batter using an iron mold (Waffle iron) which is heated up on a charcoal stove.
+silvana,Silvana,Filipino,cookies,The dish is frozen cookie consisting of a layer of buttercream sandwiched between two cashew-meringue wafers coated with cookie crumbs.
+spritzgebck,Spritzgebäck,German,cookies,"The dish is a type biscuit or cookie made of a rich shortcrust pastry. When made correctly, the cookies are crisp, fragile, somewhat dry, and buttery."
+teiglach,Teiglach,German,dessert,"The dish is small, knotted pastries boiled in a honeyed syrup."
+tirggel,Tirggel,Swiss,biscuit,"The dish is made from flour and honey, they are thin, hard, and sweet."
+ugoyugoy,Ugoy-ugoy,Filipino,biscuit,The dish is a type of layered biscuits. They are typically rectangular or ribbon-like in shape and are topped with granulated sugar.
+uraro,Uraro,Filipino,cookies,The dish is made from cassava like flour. They have a dry and powdery texture and are usually flower-shaped.
+el_fudge,E.L. Fudge,American,cookies,The dish is a type of butter-flavored shortbread sandwich cookies with a fudge creme filling.
+hello_panda,Hello Panda,Japanese,biscuit,"The dish is a type of filling biscuits, each biscuit consists of a small hollow shortbread layer, filled with crème of various flavors. On some biscuits are printed cartoon style depictions of giant pandas doing various activities, such as fencing and archery, and also in the United States, other activities such as hockey and baseball."
+lorna_doone,Lorna Doone,Irish,cookies,"The dish is a brand of golden, square-shaped shortbread cookie."
+viennese_whirls,Viennese whirls,British,biscuit,The dish is a type of biscuit consisting of soft shortbread cakes piped into a whirl shape and come in various shapes with different fillings and decorations.
+alexandertorte,Alexandertorte,Russian,cake,"The dish is a cake that consists of pastry strips filled with raspberry preserves or raspberry jam. It is traditionally eaten as a dessert after lunch or dinner, but it can also be served at tea time. It should be made a day or so before it is planned to serve, because the icing must be hard before the cake is cut."
+bahulu,Bahulu,Malaysian,cake,"The dish is a type of pastry. There are three versions available, the most common being star-shaped and the more elusive shaped like rolls and layered."
+bakewell_pudding,Bakewell pudding,English,dessert,The dish is a type of dessert consisting of a flaky pastry base with a layer of sieved jam and topped with a filling made of egg and almond paste.
+bakpia_pathok,Bakpia pathok,Indonesian,dessert,"The dish usually stuffed with mung beans, but have recently come in other fillings as well, e.g. chocolate, durian and cheese."
+bichon_au_citron,Bichon au citron,French,pastry,The dish is a pastry that it is made of puff pastry. A major distinguishing feature is that it is filled with lemon curd. The outer layer of sugar is sometimes partially caramelized.
+birnbrot,Birnbrot,Swiss,bread,"The dish is a bread with a filling of dried pears. Besides dried pears the filling also contains raisins, walnuts and other dried fruit such as apples or figs. The filling is additionally flavored with candied fruit, coriander, cinnamon, star anise, anise, clove and some sort of alcohol."
+bizcocho,Bizcocho,Spanish,pastry,"The dish is the name given range of pastries, cakes or cookies."
+bossche_bol,Bossche bol,Dutch,pastry,"The dish is effectively a large filled choux pastry, about 12 cm in diameter, filled with whipped cream and coated entirely or almost entirely with (usually dark) chocolate fondant icing."
+bougatsa,Bougatsa,Greek,pastry,"The dish is a breakfast food (sweet or savoury), or mid-morning snack, or midday snack. It has several versions with their own filling, with the most popular the cream that has semolina custard filling used as a sweet food and dessert. "
+boyoz,Boyoz,Turkish,pastry,"The dish is a pastry. The most widely preferred is plain, without addition of meat or cheese or spinach stuffings."
+cheesymite_scroll,Cheesymite scroll,Australian,roll,"The dish is a savoury baked food. It consists of a spiral of baked bread similar to a pain aux raisins with a thick, dark brown food spread and cheese in place of raisins."
+chouquette,Chouquette,French,pastry,"The dish are small pieces of pastry consisting of small spheres of choux pastry, sugared and baked. The dish was known in the 16th century, and was originally applied to small savoury spheres. Since the late 17th century it have been sweet. "
+conversation_tart,Conversation tart,French,dessert,The dish is a type of tart made with puff pastry that is filled with sweet almond custard cream and topped with royal icing.
+crpes_suzette,Crêpes Suzette,French,dessert,"The dish is a dessert consisting of crepes with a sauce of caramelized sugar and butter, tangerine or orange juice, zest, and orange liqueur on top."
+crocetta_di_caltanissetta,Crocetta di Caltanissetta,Italian,pastry,"The dish is a traditional sweet pastry. It is made by almonds, sugar, sweet lemon purée, oranges or other fruit typical of the area, pistachio and icing sugar. "
+flaugnarde,Flaugnarde,French,pancake,"The dish is a baked dessert with fruit arranged in a buttered dish and covered with a thick flan-like batter. It is made with apples, peaches, pears, plums, prunes or other fruits. Resembling a sweet batter pudding or large pancake, the dish is dusted with confectioner's sugar and can be served either warm or cold."
+flies_graveyard,Flies' graveyard,British,pastry,"The dish is nicknames of pastry, for sweet pastries filled with currants or raisins, which are jokingly said to resemble dead flies."
+gibanica,Gibanica,Yugoslavian,pastry,"The dish is usually made with cottage cheese and eggs. Recipes can range from sweet to savoury, and from simple to festive and elaborate multi-layered cakes."
+gustavus_adolphus_pastry,Gustavus Adolphus pastry,Swedish,pastry,"The dish is a pastry. Recipes for the pastry vary locally but most versions have a portrait of the king on the top, usually made of chocolate or marzipan."
+hwangnamppang,Hwangnam-ppang,Korean,pastry,"The dish is a small pastry with a filling of red bean paste. It is made from a mixture of eggs and wheat flour, with the red bean filling being almost 70% of the pastry. A chrysanthemum would be traditionally imprinted on the top."
+haddekuche,Haddekuche,German,pastry,The dish is a traditional pastry that resembles with a diamond-themed pattern imprinted on the pastry itself.
+heong_peng,Heong Peng,Malaysian,pastry,"These pastries, which resemble slightly flattened balls, contain a sweet sticky filling made from malt and shallots, which is covered by a flaky baked crust and garnished with sesame seeds on the surface."
+joulutorttu,Joulutorttu,Finnish,pastry,The dish is a pastry. It is traditionally made from puff pastry in the shape of a star or pinwheel and filled with prune jam and often dusted with icing sugar. The pastries can be in other shapes and apple used in place of the prune jam.
+karakudamono,Karakudamono,Japanese,pastry,The dish is a term used to refer to various pastry desserts originating from another country.
+kok,Kok,Greek,pastry,"The dish is a profiterole consisting of pastry cream, chocolate glaze and syrup. It is sometimes additionally topped with nuts or flakes of various kinds."
+kringlea,Kringlea,Danish,pastry,"The dish is a pastry, a variety of pretzel. It denotes the pretzel-like knotted shape rather than the pretzel pastry type. It may be made from puff pastry (like Danish pastry) or yeast dough, filled with remonce or marzipan and raisins, sprinkled with coarse sugar, nut flakes or icing. "
+krotule,Kroštule,Croatian,pastry,The dish is a traditional pastry. It is made from deep frying dough.
+kiukai,Kūčiukai,Lithuanian,pastry,"The dish is small, slightly sweet pastries made from leavened dough and poppy seeds. They vary in sweetness and are usually eaten dry but can be served soaked in poppy milk or with cranberry pudding. "
+ladys_navel,Lady's navel,Turkish,pastry,"The dish is a type of sweet pastry. They are made from balls of choux pastry which are given a dimple, deep-fried and then soaked in syrup."
+leipziger_lerche,Leipziger Lerche,German,pastry,"The dish is a pastry. The dish used the actual songbird lark, which was roasted with herbs and eggs and served as a filling in a pastry crust. Today's version consists of a shortcrust filled with a mixture of crushed almonds, nuts and a cherry. The cherry symbolises the heart of the bird. It is topped with a grid of two crossed dough strips."
+lektuphng,Le̍k-tāu-phòng,Taiwanese,pastry,"It is a traditional mooncake. The filling is made of sweet green gram paste stuffed with lard and shallots and baked, and sometimes a little pork is added. In recent years, due to the emphasis on health, many operators have also introduced versions that do not contain pork, lard and other ingredients, and are purely filled with mung bean puree."
+makroudh,Makroudh,Maghrebi,cookies,"The dish is a cookie. It is filled with dates and nuts or almond paste, that has a diamond shape – the name derives from this characteristic shape. The dough is made with a combination of semolina and flour, which gives the pastry a very specific texture and flavor."
+naiyou_subing,Naiyou subing,Taiwanese,pastry,"The dish is a buttery flaky pastry made into a thin circle. The dough has many layers, of which each is very thin and crisp. The filling is composed of butter and maltose."
+oxtongue_pastry,Ox-tongue pastry,Cantonese,doughnut,"The dish is a pastry. It is a fried dough food that is elliptical in shape and resembles an ox tongue or a horse ear. The pastry texture is chewy, with a soft interior and a crunchy crust. It is lightly sweetened, and eaten as part of breakfast with soy milk."
+pain_aux_raisins,Pain aux raisins,French,pastry,The dish is a spiral pastry often eaten for breakfast. It is typically made with a leavened butter pastry with raisins added and shaped in a spiral with custard filling.
+paper_wrapped_cake,Paper wrapped cake,Chinese,cake,"The dish is a type of cake. In essence, it is a chiffon cake baked in a paper cup. Traditionally prepared wrapped cakes are usually steamed in a wok pan. The cakes are typically prepared by separating the egg yolks and whites, and whisking them separately as well."
+pastizz,Pastizz,Maltese,pastry,"The dish is a traditional savoury pastry. It is usually have a filling either of cheese or curried peas. They are usually diamond-shaped or round. The pastry is folded in different ways according to the filling, as a means of identification. Traditionally, the cheese one are folded down the middle, whereas pea one are folded down the side."
+plcint,Plăcintă,Romanian,pastry,"This dish is a and traditional pastry resembling a thin, small round or square-shaped cake, usually filled with apples or a soft cheese such. "
+prekmurska_gibanica,Prekmurska gibanica,Slovenian,pastry,"The dish is a type of layered pastry. It contains poppy seeds, walnuts, apples, raisins and quark fillings."
+punschroll,Punsch-roll,Swedish,pastry,"The dish is a small cylindrical pastry covered with green marzipan with the ends dipped in chocolate, with an interior consisting of a mix of crushed biscuits, butter, and cocoa, flavoured with punsch liqueur. "
+punschkrapfen,Punschkrapfen,Austrian,cake,"The dish is a nougat and jam filled sponge cake soaked with rum. It is a cake consisting of either sponge cake or cake crumbs, nougat chocolate and apricot jam. The Cake layers are soaked with rum."
+roze_koek,Roze koek,Dutch,pastry,"The dish is a pastry. It consists of a round, flat, dense cake with a layer of pink fondant icing, similar to black and white cookies. On occasion the cakes are sold in alternative varieties, with the pink icing replaced by a different colour."
+runeberg_torte,Runeberg torte,Finnish,pastry,The dish is a torte flavored with almonds and arrack or rum and weighing about 100 grams. It usually has raspberry jam encircled by a ring of icing on top.
+xuixo,Xuixo,Spanish,pastry,"The dish is a deep-fried, sugar-coated cylindrical pastry filled with crema catalana. Commonly eaten for breakfast or tea."
+schaumrolle,Schaumrolle,Austrian,pastry,"The dish is a confection. They consist of a cone or tube of puff pastry filled with whipped cream or meringue. They are about 3 inches (7.6 cm) wide. The pastries are made by wrapping thin pastry strips around a cone shaped metal tube. After baking, they are filled with the ""foam"", which is usually sweetened whipped cream or meringue. The pastry tubes are often rolled in coarse sugar or powdered sugar before baking, for extra sweetness and a crunchy texture."
+schneeball,Schneeball,German,pastry,"The dish is a deep-fried pastry made from shortcrust pastry. Its name derives from its round, ball-like shape, its diameter of about eight to ten centimeters, and its traditional decoration with white confectioner's sugar."
+schuxen,Schuxen,German,pastry,"The dish is an elongate fried dough pastry made from rye flour and yeast. Nowadays they are rare, and few bakers produce them."
+sfiniori,Sfințișori,Romanian,pastry,"The dish is traditional pastry. Shape the dough into large shapes of the figure 8, bake and coat with honey and walnuts."
+stutenkerl,Stutenkerl,German,pastry,"The dish is a pastry made of sweet leavened dough, in the form of a man. The pastry often features raisins in the place of eyes and a clay pipe."
+sufganiyah,Sufganiyah,Israeli,doughnut,"The dish is a round jelly doughnut. The doughnut is deep-fried, injected with jam or custard, and then topped with powdered sugar."
+suncake,Suncake,Taichung,dessert,"The dish is a popular dessert. The typical fillings consist of maltose (condensed malt sugar), and they are usually sold in special gift boxes as souvenirs for visitors. They are round, and they may vary in size. They are characterized by flaky crusts. Most people eat them with tea, and some people dissolve them in hot water to make a porridge-like dessert."
+taro_pastry,Taro pastry,Taichung,pastry,The dish is a shortbread snack with a spherical shape and made with taro as sweet filling. The main method of making it is to wrap the pastry made with flour and butter with the filling made of taro puree and place it in the oven.
+roscn,Roscón,Spanish,dessert,The dish is a sweet bread-based ring-shaped dessert.
+tortita_negra,Tortita negra,Argentinian,pastry,"The dish is a pastry which is flat at its base and round on the sides. Traditionally they have dark brown sugar on the top.They are usually the perfect accompaniment to mate in the morning or in the afternoon during ""tea time"". They are a popular food at children's parties"
+yau_gok,Yau gok,Chinese,pastry,A dumpling which its wrap is first made of glutinous rice dough. A crescent shape is formed to hold the fried ingredients used as filling. A batch of the pastries are either baked or deep fried in a wok.
+killie_pie,Killie pie,Scottish,pastry,A steak and gravy pie.
+blackberry_pie,Blackberry pie,American,pastry,"A pie composed of blackberry filling, usually in the form of either blackberry jam, actual blackberries themselves, or some combination thereof."
+buko_pie,Buko pie,Filipino,pastry,"A pie made with young coconuts, and uses sweetened condensed milk, which makes it denser than cream-based custard pies."
+bndner_nusstorte,Bündner Nusstorte,Swiss,pastry,"A traditional sweet, caramelised nut-filled pastry (generally walnut)."
+chicken_and_mushroom_pie,Chicken and mushroom pie,English,pastry,"The outside is usually a full top and bottom crust, with the filling made up of small pieces of chicken and sliced mushrooms in a creamy sauce. The top crust is typically puff pastry. Variations on the theme can use nutmeg or spring onion as part of the creamy filling. "
+chicken_pastel,Chicken pastel,Filipino,pastry,"A traditional stew or pie made with chicken, sausages, mushrooms, peas, carrots, potatoes, soy sauce, and various spices in a creamy sauce."
+fleischkuekle,Fleischkuekle,Ukrainian,pastry,A deep fried turnover which has typically ground or minced meat and onions as a filling.
+grape_hull_pie,Grape hull pie,American,pastry,"The pie is prepared by simmering the skins of muscadine grapes together with sugar, grape pulp and lemon juice. Seeds are removed from the mixture by straining or picking them out. The filling is then poured into a double pie crust and baked."
+homity_pie,Homity pie,English,pastry,"Open vegetable pie which case contains a filling of potatoes and an onion and leek mixture, which is then covered with cheese."
+jamaican_patty,Jamaican patty,Jamaican,pastry,"A semicircular pastry that contains various fillings and spices baked inside a flaky shell, often tinted golden yellow with an egg yolk mixture or turmeric."
+manchester_tart,Manchester tart,English,pastry,"A shortcrust pastry shell spread with raspberry jam, covered with a custard filling and topped with flakes of coconut and a Maraschino cherry."
+melton_mowbray_pork_pie,Melton Mowbray pork pie,English,pastry,"The uncured meat of this pie is grey in colour when cooked and the meat is chopped, rather than minced. As the pies are baked free-standing, the sides bow outwards, rather than being vertical as with mould-baked pies."
+moravian_chicken_pie,Moravian chicken pie,American,pastry,"A savory meat pie which is a double crusted pie made with flaky shortcrust pastry filled with only chunks of poached chicken meat and a thick broth-based sauce. Unlike chicken pot pies, Vegetable are never included in the filling. The pie is served in slices with hot chicken gravy on top, and extra gravy on the side."
+pie_la_mode,Pie à la Mode,American,pastry,A pie served with ice cream.
+rhubarb_pie,Rhubarb pie,English,pastry,A pie with a rhubarb filling.
+soparnik,Soparnik,Croatian,pastry,"It is a savoury pie made from common ingredients from the region: Chard with onions and parsley between two layers of simplest dough. Among the numerous local variations there are also sweet ones, for example with nuts, dried fruits or caramel."
+speraui,Speķrauši,Latvian,pastry,Oblong or crescent-shaped baked bread rolls or pastries filled with finely chopped fatty bacon cubes and onions.
+stargazy_pie,Stargazy pie,English,pastry,"A pastry-based fish pie which, by tradition, is filled with whole pilchards. It is critical that the pilchards retain their heads, so they poke through the pastry top. The appearance of the fish heads makes them look like they are ""gazing at the stars"". The position of the fish allows the oil that is released during cooking to drain into the pie, adding a fuller flavour and ensuring the pie is moist."
+tarta_capuchina,Tarta capuchina,Spanish,pastry,"A cake made mainly with egg yolk and syryp using water bath. The cake is usually presented in a cylindrical or rectangle shape, depending on the mold. It is commonly served at room temperature."
+whe,Wähe,Swiss,pastry,"This dish consists of a casing (typically made of shortcrust pastry, but sometimes yeast dough or puff pastry) and a topping of a custard enveloping either fruit, Vegetable or cheese."
+woolton_pie,Woolton pie,British,pastry,"A pastry dish of Vegetable. The recipe involved dicing and cooking potatoes (or parsnips), cauliflower, carrots and possibly turnip. Other Vegetable were added where available."
+anpan,Anpan,Japanese,roll,"Sweet roll most commonly filled with red bean paste. It can also be prepared with other fillings, including white beans, green beans, sesame, and chestnuts."
+balep_korkun,Balep korkun,Chinese,bread,"A type of bread that is round, flat and relatively easy to make. The ingredients are barley flour, water and baking powder. It is cooked in a frying pan."
+barm_cake,Barm cake,English,bread,"A soft, round, flattish bread item, traditionally leavened with barm."
+saj_bread,Saj bread,Middle Eastern,bread,Unleavened flatbread baked on a metal griddle.
+vienna_bread,Vienna bread,Austrian,bread,"Bread that used high milling of Hungarian grain, and cereal press-yeast for leavening."
+tiger_bread,Tiger bread,Dutch,bread,"The bread is generally made with a pattern baked onto the top made by painting rice paste onto the surface prior to baking.The rice paste that imparts the bread's characteristic flavour dries and cracks during the baking process. The bread itself has a crusty exterior, but is soft inside. Typically, it is made as a white bread bloomer loaf or bread roll, but the technique can be applied to any shape of bread."
+tandoor_bread,Tandoor bread,West Asian,bread,"A bread baked in a clay oven which is distinguishable based on the aroma, smell, appearance, color, size and overall texture."
+taboon_bread,Taboon bread,Palestinian,bread,"A flatbread baked in a clay oven. It is used as a base or wrap in many cuisines, and eaten with different accompaniments."
+sprouted_bread,Sprouted bread,Global,bread,"A type of bread made from whole grains that have been allowed to sprout (i.e., to germinate before being milled into flour). There are a few different types, some are made with additional added flour, some are made with added gluten, etc."
+spelt_bread,Spelt bread,German,bread,Bread made from unripe spelt flour.
+shuangbaotai,Shuangbaotai,Chinese,bread,"A sweet fried dough containing large air pockets on the inside and a crisp crust on the outside. It is made by twisting two small pieces of dough together and frying them, causing them to separate slightly while remaining connected."
+bolani,Bolani,Afghan,bread,"A stuffed flat-bread, fried with a filling. It has a thin crust and can be stuffed with a variety of ingredients, such as potatoes or leeks but also grated pumpkin, chives, red lentils or with minced meat."
+bolillo,Bolillo,Mexican,bread,"A type of savory bread, often baked in a stone oven. It is roughly 15 centimeters (5.9 in) long, in the shape of an ovoid, with a crunchy crust and a soft inside. It has a slash on top made with a slashing tool or bread lame, which permits the exhaust of steam and the expansion of bread without stressing its skin."
+carrot_bread,Carrot bread,Global,bread,"A quick bread or yeast-leavened bread, that uses carrots as the primary ingredient. It may be prepared with grated, shredded carrots, or carrot juice. Baking times can vary depending on the amount of juice in the carrots used, and it may be a moist bread."
+esnica,Česnica,Serbian,bread,Bread made with wheat flour and water. A coin is often put into the dough during the kneading; other small objects may also be inserted.
+christmas_wafer,Christmas wafer,Polish,bread,"This dish is baked from pure wheat flour and water, are usually rectangular in shape and very thin; they are identical in composition to the altar bread."
+cottage_loaf,Cottage loaf,English,bread,"The bread is characterised by its shape, which is essentially that of two round loaves, one on top of the other, with the upper one being smaller"
+egg_waffle,Egg waffle,Chinese,bread,"A spherical waffle consisting of an eggy leavened batter cooked between two plates of semi-spherical cells. They are usually served hot, and often eaten plain, although they may be served with fruit and flavors such as strawberry, coconut or chocolate."
+flatkaka,Flatkaka,Icelandic,bread,"Unleavened rye flatbread that is soft, round, thin and dark with a characteristic pattern from the pan. Traditionally, it was baked on hot stones or straight on the embers of the fire, later on small but heavy cast iron frying pans, and today, when making the dish at home, people sometimes bake them directly on an electric hot plate to get the desired result."
+fugazza,Fugazza,Argentinian,bread,"A thick pizza crust topped with onions, cheese, and sometimes olives. It is derived from a combination of Neapolitan pizza with Italian focaccia bread."
+guokui,Guokui,Shaanxi,bread,"The dish is a kind of flatbread made from flour. The dish is said to have been invented by a laborer who cooked flatbread in his iron helmet over a wood fire. It is round in shape, about a foot long in diameter, an inch in thickness, and weighs about 2.5 kg."
+hardtack,Hardtack,Global,biscuit,"The dish is a type of dense biscuit or cracker made from flour, water, and sometimes salt. It is inexpensive and long-lasting. It is used for sustenance in the absence of perishable foods, commonly during long sea voyages, land migrations, and military campaigns."
+kaak,Ka'ak,Middle Eastern,pastry,The dish refer to several different types of baked goods. The bread is similar to a dry and hardened biscuit and mostly ring-shaped.
+khanom_bueang,Khanom bueang,Thai,pancake,"The dish is an ancient snack known as crispy pancakes. It is a popular form of street food. These crepes resemble tacos. They are usually first topped or filled with meringue, followed by sweet or salty toppings such as shredded coconut, strips of fried eggs or egg yolks, or chopped scallions. "
+khakhra,Khakhra,Indian,biscuit,"The dish is a thin cracker. It is made from mat bean, wheat flour and oil. "
+lagana,Lagana,Greek,bread,"The dish is a flatbread. Traditionally, it was prepared unleavened (without the yeast), but leavened is nowadays more common. It is typically flat, oval-shaped, with surface decorated by impressing fingertips."
+laufabrau,Laufabrauð,Icelandic,bread,"The dish is a traditional kind of bread. It consists of round, very thin flat cakes with a diameter of about 15 to 20 cm (6 to 8 inches), decorated with leaf-like, geometric patterns and fried briefly in hot tallow or oil."
+lavash,Lavash,Armenian,bread,"This dish is a thin flatbread that is usually leavened. Traditionally the dough is rolled out flat and slapped against the hot walls of a clay oven, but modern recipes may adapt for cooking on a wok."
+lye_roll,Lye roll,German,bread,"The dish is typically covered with salt, preferably pretzel salt."
+mohnflesserl,Mohnflesserl,Austrian,bread,"The dish is in the form of a braided bun. It is typically sprinkled with poppy seeds , salt, and sometimes served glazed."
+michetta,Michetta,Italian,bread,The dish is a bread recognizable by its bulged shape.
+melonpan,Melonpan,Japanese,bread,The dish is a sweetbun covered in a layer of crispy cookie dough.
+shotis_puri,Shotis puri,Georgian,bread,The dish is a bread made of white flour and shaped like a canoe.
+shaobing,Shaobing,Chinese,bread,"The dish is a type of baked, unleavened, layered flatbread. It is can be made with or without stuffing, and with or without sesame on top."
+sangak,Sangak,Iranian,bread,"The dish is is a plain, rectangular or triangular whole wheat leavened flatbread."
+saltrising_bread,Salt-rising bread,American,bread,The dish is a dense white bread leavened by naturally occurring wild bacteria rather than by yeast.
+samoon,Samoon,Iraqi,bread,The dish is a type of yeast bread. It is baked in traditional stone ovens.
+manda_roti,Manda roti,Indian,bread,"This dish is extremely thin and limp, and served folded like a handkerchief. "
+rugbrd,Rugbrød,Danish,bread,"The dish is made with rye flour as the basic ingredient, which produces a plain or ""old-fashioned"" bread with a uniform, somewhat heavy structure. "
+roti_buaya,Roti buaya,Indonesian,dessert,The dish is two piece sweetened bread in the shape of a crocodile.
+pane_di_altamura,Pane di Altamura,Italian,bread,The dish is a type of naturally leavened bread made from remilled durum wheat semolina.
+pain_de_mie,Pain de mie,French,bread,"The dish is a white or brown bread with a thin, soft crust."
+papadam,Papadam,Indian,snack,"The dish is made from dough of black gram bean flour, which is either deep fried or cooked with dry heat by being flipped over an open flame until crunchy."
+peg_bread,Peg bread,Jamaican,bread,The dish is a bread that usually served along with tea in the morning.
+potbrood,Potbrood,South African,bread,The dish is a bread traditionally baked in a cast-iron pot in a pit made in the ground and lined with hot coals.
+rggelchen,Röggelchen,German,bread,The dish is a small pastry in the form of a double roll made from two pieces of dough. The rye content must be at least 50% of the flour. The rye dough consists of a bread roll dough to which rye flour or sourdough is added.
+roti,Roti,Indian,bread,The dish is a round flatbread made from stoneground whole wheat flour
+arsik,Arsik,Indonesian,stew,"The dish is a kind of spicy fish stew, usually using common carp."
+gizzada,Gizzada,Jamaican,pastry,"The dish is contained in a small, crisp pastry shell with a pinched crust and filled with a sweet and spiced coconut filling."
+water_biscuit,Water biscuit,British,biscuit,"The dish is a kind of thin, hard and brittle biscuit, and usually served with cheese or wine."
+taro_dumpling,Taro dumpling,Chinese,dim sum,"The dish is made from a thick layer of taro that has been boiled and mashed. The filling is made from seasoned ground pork. The dumpling is deep fried, and the outermost layer of taro becomes crisp, light, and fluffy."
+solomon_gundy,Solomon Gundy,Jamaican,fish,The dish  is made with smoked red herring and is minced and spiced with Scotch Bonnet peppers and seasonings.
+rum_cake,Rum cake,Caribbean,cake,"The dish is similar to a fruitcake, with a lighter texture."
+bulla_cake,Bulla cake,Jamaican,cake,"The dish is a rich cake made with molasses and spiced with ginger and nutmeg, sometimes dark-colored and other times light-colored."
+rock_cake,Rock cake,British,cake,The dish is a small cake with a rough surface resembling a rock.
+kholodets,Kholodets,Russian,meat,"The dish is a savory gelatin made with a meat stock or broth, set in a mold to encase other ingredients.These often include pieces of meat, seafood, vegetable, or eggs."
+salo,Salo,European,meat,The dish consists of salt-cured slabs of pork subcutaneous fat with or without skin and with or without layers of meat.
+stroganina,Stroganina,Russian,fish,"The dish consists of raw, thin, long-sliced frozen fish."
+zakuski,Zakuski,Eurasian,side dish,"The dish may include cold cuts, cured fishes, mixed salads, kholodets, pirogs or pirozhki, various pickled vegetables such as beets, cucumbers, sauerkraut, pickled mushrooms, deviled eggs, hard cheeses, caviar, canapés, open sandwiches, and breads."
+rassolnik,Rassolnik,Russian,soup,"The dish is a kind of soup made from pickled cucumbers, pearl barley, and pork or beef kidneys."
+solyanka,Solyanka,Russian,soup,"A thick sour soup with cabbage, salted cucumbers, meat, poultry, fish, or mushrooms"
+dressed_herring,Dressed herring,Russian,salad,"A layered salad composed of diced spekesild covered with layers of grated boiled eggs, Vegetable (potatoes, carrots, beetroots), chopped onions, and mayonnaise"
+vinegret,Vinegret,Russian,salad,"Salad dish consisted of diced cooked Vegetable (red beets, potatoes, carrots), chopped onions, as well as sauerkraut and/or brined pickles."
+veal_orloff,Veal Orloff,French,meat,"The dish consists of thinly sliced braised loin of veal, with duxelles and soubise layered between the slices, topped with Mornay sauce, and browned in the oven."
+pozharsky_cutlet,Pozharsky cutlet,Russian,cutlet,A breaded ground chicken or veal patty
+korovai,Korovai,Bulgarian,bread,"A large round braided bread, traditionally baked from wheat flour and decorated with symbolic flags and figurines, such as suns, moons, birds, animals, and pine cones"
+varenye,Varenye,Russian,dessert,"Whole fruit preservation made by cooking berries, other fruits, or more rarely nuts, Vegetable, or flowers, in sugar syrup (sometimes honey)"
+pyshka,Pyshka,Russian,dessert,"This dish is similar to doughnut, either ring-shaped or without a hole."
+angel_wings,Angel wings,Bulgarian,pastry,"A traditional sweet crisp pastry made out of dough that has been shaped into thin twisted ribbons, deep-fried and sprinkled with powdered sugar."
+smetana,Smetana,Central European,dairy,A dairy product produced by souring heavy cream
+kutia,Kutia,Belarusian,grain,"This dish is a ceremonial grain dish with sweet gravy traditionally served during the Christmas – Feast of Jordan holiday season or as part of a funeral feast. The main ingredients are wheatberries, poppy seeds, honey or sugar, various nuts and sometimes raisins."
+guryev_porridge,Guryev porridge,Russian,porridge,"This dish is a sweet porridge prepared from semolina and milk with the addition of candied nuts (hazelnut, walnuts, almonds), honey and dried fruits (or fruit preserves)."
+medovik,Medovik,Russian,cake,"It is a dessert which is known for its lengthy preparation time. It consists of layers of cake with a cream filling and is often covered with nuts or crumbs made from leftover cake. While the thin layers harden shortly after coming out of the oven, the moisture of the filling softens it again over time."
+pastila,Pastila,Russian,sweets,"It is a small squares of pressed fruit paste or a light, airy puffs with a delicate apple flavor."
+pryanik,Pryanik,Russian,sweets,These sweets refer to a range of traditional sweet-baked goods and are made from flour and honey.
+ahriche,Ahriche,Moroccan,skewer,"It is a dish of tripe usually consisting of ganglion, caul, lung or heart of an animal wound with intestines on a stick of oak and cooked on hot coals"
+alloco,Alloco,Ivorian,banana,"It is commonly made from cut plantains in slices, fry them until they are yellow, smash them between two plates and fry them again."
+bichak,Bichak,Uzbek,pastry,"This dish is a stuffed baked or fried pastry that comes in different forms (round, triangle, quadrangle) appetizer."
+waterblommetjiebredie,Waterblommetjiebredie,South African,meat,"This dish is made of meat, typically lamb, stewed together with the Aponogeton distachyos flowers."
+chakalaka,Chakalaka,South African,vegetable,"This dish is usually spicy, that is traditionally served with bread, pap, samp, stews, or curries."
+chakhchoukha,Chakhchoukha,Algerian,stew,This stew is made from torn or rolled pieces of cooked semolina dough that are served in a flavorful tomato-based sauce.
+cocada_amarela,Cocada amarela,Angolan,dessert,This dessert is made from eggs and coconut. It has a distinctive yellow colour due to the large quantity of eggs used.
+dabo_kolo,Dabo kolo,Ethiopian,snack,This dish is a finger food consisting of small pieces of spiced fried dough. It is prepared by frying small pieces of dough cut from rolls.
+delele,Delele,Zimbabwean,side dish,"This dish is prepared with baking soda and well known for its slimy texture. It can be dried before cooking, but more frequently it is cooked fresh."
+draw_soup,Draw soup,Nigerian,soup,"This dish is made from okra, ogbono (Irvingia gabonensis), or ewedu leaves (jute). The name derives from the thick viscosity characteristic of the broth as it draws out of the bowl when eaten either with a spoon or, more characteristically, by dipping a small piece of solid sticky dough into it."
+eba,Eba,Nigerian,vegetable,"This dish is rich in starch and carbohydrates. It is a cooked starchy vegetable food made from dried grated cassava flour. It is often eaten with rich soups and stews, with beef, stockfish or mutton. The dish is often described as having a slightly sour, sharp taste."
+fesikh,Fesikh,Egyptian,fish,The dish is a salted pickled fermented and dried gray mullet or whitefish.
+fitfit,Fit-fit,Ethiopian,bread,The dish is a shredded flat bread with spiced butter and jalapeno peppers.
+genfo,Genfo,Ethiopian,porridge,The dish is a stiff porridge served with dipping sauce and mixture of butter and red peppers.
+mugoyo,Mugoyo,Ugandan,potato,The dish is a sweet potates and beans.
+ogi,Ogi,Nigerian,pudding,The dish is a maize or corn pudding soaked in water and grinded to remove husks.
+shark_chutney,Shark chutney,Seychellois,fish,"The dish is a boiled skinned shark, mashed and cooked with juice and lime."
+mala_mogodu,Mala Mogodu,Botswana,stew,The dish is a combination of chopped tripe and intestines served with dumpling.
+kapana,Kapana,Namibian,meat,The dish is a grilled meat by grilling it on an open fire.
+kamounia,Kamounia,Sudanese,stew,The dish is a beef and liver stew prepared with cumin.
+hertzoggie,Hertzoggie,South African,dessert,The dish is a jam-fileed tartlet or cookie commonly served on a cup pastry base.
+gored_gored,Gored gored,Ethiopian,meat,The dish is a raw beef dish with cube shape.
+gatsby,Gatsby,South African,bread,"The dish is a bread roll filled with chips, calamaris, seafood, and fillings with sauces."
+kokonte,Kokonte,Ghanaian,stew,"The dish is a brow, grey, and deep grean stew made of dried cassava or yam."
+mchoui,Méchoui,Maghrebi,meat,The dish is a whole sheep or lamb spit-roasted on a barbecue.
+shahan_ful,Shahan ful,Sudanese,beans,"The dish is a slow-cooked fava beans in water, cruhed into a coarse paste."
+seswaa,Seswaa,Botswana,meat,"The dish is made of beef or goat leftover cuts, boiled in a pot."
+shish_taouk,Shish taouk,Ottoman,chicken,The dish is a chicken kebab ccoked in a satay form.
+qatayef,Qatayef,Middle Eastern,pancake,"The dish is a sweet dumpling filled with cream or nuts, or a folded pancake."
+spicy_cow_feet,Spicy cow feet,Nigerian,soup,"The dish is a soup made of upper cut of cow feet with palm oil, potash, nutmegs, and seasonings."
+mrouzia,Mrouzia,Moroccan,meat,"The dish is a sweet and salty meat with blend of spices of honey, cinnamon, and almonds."
+moambe_chicken,Moambe chicken,Central African,stew,The dish is a savory chicken with spices and palm butter.
+kulikuli,Kuli-kuli,Nigerian,snack,"The dish is a crispy snack made from peanuts with a mixture of cassave flakes, sugar and water."
+koeksister,Koeksister,South African,pastry,The dish is a confectionery made of fried dough infused in syrup or honey.
+kelewele,Kelewele,Ghanaian,snack,"The dish is a fried plaintains seasoned with spices, with crisp textures."
+kedjenou,Kedjenou,Ivorian,stew,"The dish is a spicy stew with a slow-cooked in a sealed pot, prepared with chicken or hen and Vegetable."
+iru,Iru,Nigerian,beans,The dish is a type of fermented of processed locust bens used as a condiment in cooking.
+kibbeh_nayyeh,Kibbeh nayyeh,Syrian,meat,The dish is a minced raw lamb or beef mixed with fine spices.
+kashk_bademjan,Kashk bademjan,Iranian,salad,"The dish is made with eggplant and dairy products served as a dip and garnished with saffron, sauteed onions, garlic, and often walnuts."
+ageh,Ageh,Taiwanese,tofu,The dish is a piece of fried tofu stuffed with noodles.
+tihlo,Tihlo,Ethiopian,snack,The dish is a barley dough balls covered with meat and sauce.
+ghapama,Ghapama,Armenian,stew,The dish is a stuffed pumpkin stew prepared by removing the guts of the pumpkin and stuffed with boiled rice and dried fruits.
+sakhu_sai_mu,Sakhu sai mu,Thai,snack,The dish is a tapioca balls made with starch with pork fillings.
+stuffed_crust_pizza,Stuffed crust pizza,American,pizza,The dish is a pizza with other ingredients added into the outer edge of the crust.
+tufahije,Tufahije,Balkan,dessert,The dish is a walnut-stuffed apples poached in sugar water.
+stuffed_quinces,Stuffed quinces,Turkish,fruit,The dish is made from quinces stuffed with meat lamb and rice.
+pizza_snack_rolls,Pizza snack rolls,American,pizza,"The dish is a rolled pizza consisting of bite-sized breaded pizza pockets with a fillings of tomato sauce, imitation cheese, and various pizza toppings."
+pavese_agnolotti,Pavese agnolotti,Italian,pasta,The dish is a egg-based stuffed pasta served dry or using goose broth.
+casunziei,Casunziei,Italian,pasta,"The dish is a stuffed pasta, consisting of filling sealed between two layers of thin pasta dough, folded in a typical half-moon shape."
+bnh_l,Bánh lá,Vietnamese,dumpling,"The dish is a leaf cake, consisting of parcel of a variety of rice stuffed with some fillings and wrapped in a leaf or leaves."
+b_nng_l_lt,Bò nướng lá lốt,Vietnamese,meat,The dish is a grilled beef served on a leaf which has a spicy smell but medicinal taste.. It is commonly served in a barbecue technique.
+barbajuan,Barbajuan,French,fritter,"The dish is a fritter stuffed with chard, rice, cheese, and other fillings."
+gyeranmari,Gyeran-mari,South Korean,egg,"The dish is made with beaten eggs mixed with several finely diced ingredients, fried and rolled."
+poornalu,Poornalu,Indian,dessert,The dish is a sweet and dumpling made from rice flour stuffed with jagger paste and dry fruits.
+pootharekulu,Pootharekulu,Indian,snack,"The dish is a sweet wrapped in a wafer-thin rice starch layer resembling paper and is stuffed with sugar, dry fruits, and nuts."
+bagel_dog,Bagel dog,American,sandwich,The dish is a hot dog wrapped in bagel-style breading before or after cooking.
+sorullos,Sorullos,Puerto Rican,fritter,The dish is a fried cornmeal-based with stuffed cheese.
+chebureki,Chebureki,Crimean Tatar,pastry,The dish is a fried turnovers with a filling of ground or minced meat and onions.
+gobi_paratha,Gobi paratha,Indian Subcontinent,bread,The dish is a flatbread stuffed with flavoured cauliflower and other vegetable.
+levengi,Levengi,Azerbaijani,fish,"The dish is a fish or chicken stuffed with walnuts, onions, and various condiments, and baked in the oven."
+jalangkote,Jalangkote,Indonesian,pastry,"The dish is a fried dumpling stuffed with rice, vegetable, potatoes, and eggs. Spicy, sweet and sour sauce will be dipped into prior to be eaten."
+jalapeo_popper,Jalapeño popper,American,snack,"The dish are jalapeno peppers that have been hollowed out, stuffed with a mixture of cheese, spices, ground meat, and breaded and deep-fried."
+kalitsounia,Kalitsounia,Greek,snack,The dish is a small cheese or herb snacks with different filling and serving variations.
+karaoreva_nicla,Karađorđeva šnicla,Serbian,cutlet,"The dish is a breaded cutlet dish with rolled veal, pork, or chicken steak, stuffed with dairy then breaded and fried."
+kibinai,Kibinai,Lithuanian,pastry,The dish is a pastry filled with mutton and onion.
+krautshuptchen,Krautshäuptchen,German,vegetable,"This dish is a stuffed cabbage, served with boiled potatoes and mustard sauce or bechamel sauce."
+szczecin_pasztecik,Szczecin pasztecik,Polish,snack,"This dish is a variety of pastry, a machine-produced deep-fried yeast dough stuffed with a meat or vegetarian filling, served in specialised bars as a fast food."
+pltanos_rellenos,Plátanos rellenos,Latin American,snack,This dish consists of plantain stuffed with meat and seasonings and fried.
+porchetta,Porchetta,Italian,meat,"This dish is a is a savory, fatty, and moist boneless pork roast. The carcass is deboned and spitted or roasted traditionally over wood for at least eight hours, fat and skin still on."
+tortang_talong,Tortang talong,Filipino,omelette,This dish is an omelette made by pan-frying grilled whole eggplants dipped in an egg mixture.
+buttered_pineapple_bun,Buttered pineapple bun,Cantonese,bread,This dish is a sweet bun made to resemble a pineapple with a slice of butter stuffed inside.
+pampushka,Pampushka,Ukrainian,doughnut,"This dish is a small savoury or sweet yeast-raised bun or doughnut. Traditionally they are baked, but may also be fried. The savoury version have no filling, while the sweet version may be filled with fruits, berries, or poppy seeds, and topped with powdered sugar."
+stuffed_racuchy,Stuffed racuchy,Polish,pancake,"This dish is a type of pancake stuffed with slices of apple and served with sugar. In more modern versions, other druit can be used like bananas. There is also a savoury sweet version of this dish, filled with potatoes."
+rellenitos_de_pltano,Rellenitos de plátano,Guatemalan,dessert,"This is a dish of sweet mashed plantains stuffed with a mixture of refried beans, chocolate, and cinnamon."
+turon,Turon,Filipino,snack,"This dish is a snack made of thinly sliced bananas, rolled in a spring roll wrapper, fried till the wrapper is crisp and coated with caramelized brown sugar."
+unnakai,Unnakai,Indian,dessert,This dish is a spindle shaped sweet dessert made chiefly of banana.
+egg_in_the_basket,Egg in the basket,Global,bread,This dish is an egg fried in a hole in a slice of bread.
+chorley_cake,Chorley cake,British,cake,"This dish is made using currants, sandwiched between two layers of unsweetened shortcrust pastry."
+hot_pockets,Hot Pockets,American,pastry,"This dish is a brand of microwaveable turnovers generally containing one or more types of cheese, meat, or Vegetable."
+chicken_fillet_roll,Chicken fillet roll,Irish,sandwich,This dish is a baguette filled with a fillet of processed chicken.
+galettesaucisse,Galette-saucisse,French,pancake,"This dish is a street food item consisting of a hot sausage, traditionally grilled, wrapped in a buckwheat crepe."
+kati_roll,Kati roll,Indian,roll,This street food dish is a skewer-roasted kebab wrapped in a flatbread.
+prawn_roll,Prawn roll,Australian,bread,"This dish is made using a soft white roll approximately 6 inches or 15 cm long, stuffed with a dozen or more peeled prawns, lettuce and remoulade, Thousand Island or cocktail-style sauce."
+popiah,Popiah,Chinese,roll,"This dish is a fresh spring roll filled with an assortment of fresh, dried, and cooked ingredients, eaten during a festival and other celebratory occasions."
+cachopo,Cachopo,Spanish,meat,"This dish consists of two large veal fillets and includes ham and cheese, and typically has a side of french fries. It is eaten fried and hot after being breaded in eggs and breadcrumbs, and it is usually served garnished with potatoes, peppers, or mushrooms."
+jucy_lucy,Jucy Lucy,American,bread,"This dish is a stuffed cheeseburger with the cheese inside of the meat instead of on top, resulting in a melted core of cheese."
+sapu_mhicha,Sapu Mhicha,Nepalese,meat,This dish is made up of buffalo leaf tripe stuffed with bone marrow.
+tripoux,Tripoux,French,meat,"This dish is made with small bundles of sheep tripe, usually stuffed with sheep's feet, sweetbreads and various herbs and garden Vegetable. There are a number of variations on this dish, but they generally all involve savoury ingredients held together with sheep tripe and braised over low heat."
+stuffed_cucumber,Stuffed cucumber,Global,vegetable,"This dish is used in various cuisines around the world. The main ingredient is cucumber, which is stuffed with various fillings depending on the region. Some dishes incorporate preserved cucumbers, while others use fresh cucumbers."
+arctic_roll,Arctic roll,British,dessert,"This dish is an ice cream cake made of vanilla ice cream wrapped in a thin layer of sponge cake to form a roll, with a layer of raspberry flavoured sauce between the sponge and the ice cream."
+black_sesame_roll,Black sesame roll,Cantonese,pastry,"This dish is a refrigerated dessert. The dessert preparation starts by drying a thin layer of black sesame paste, which forms a refrigerated sheet. Once set, each sheet is rolled up individually into a sesame roll."
+salted_nut_roll,Salted Nut Roll,American,snack,A candy bar surrounded in a layer of caramel and then covered with salted Virginia peanuts
+makizushi,Makizushi,Japanese,rice,"This dish is generally roll-wrapped in nori (seaweed) but is occasionally wrapped in a thin omelette, soy paper, cucumber, or shiso (perilla) leaves. This dish is often cut into six or eight pieces, constituting a single roll order."
+minnesota_sushi,Minnesota sushi,American,roll,"This dish is a type of roll made by wrapping a slice of ham with cream cheese around a pickle, and then slicing it into bite-sized pieces."
+fruit_rollups,Fruit Roll-Ups,American,snack,"This dish is a brand of snack. It is a flat, corn syrup-based, fruit-flavored snack rolled into a tube, spread on a backing sheet of cellophane to prevent the product from sticking to itself."
+farsu_magru,Farsu magru,Italian,roll,"This dish is a traditional meat roll prepared using relatively small amount of meat ingredients. It is also characterized by the way in which the lean, low-fat cuts of meat that are typically used in the dish contrast with the stuffing, which has a higher fat content."
+calfs_liver_and_bacon,Calf's liver and bacon,American,meat,"This dish is made with slices of bacon that are fried, and slices of veal liver (often covered in flour) are sauteed in the rendered fat. The bacon and slices of liver are placed in a dish and covered with a gravy made with the fond."
+hortobgyi_palacsinta,Hortobágyi palacsinta,Hungarian,pancake,"This dish is a savoury crepe filled with meat (usually veal or beef). The crepes are filled with a stew, tucking in the ends."
+wallenbergare,Wallenbergare,Swedish,meat,"A dish consisting of a breaded ground veal patty, flavored with cream and egg yolk, pan-fried until golden and traditionally served with potatoes, lingonberries, and peas."
+zrcher_geschnetzeltes,Zürcher Geschnetzeltes,Swiss,meat,"It is a dish made with thin slices of sautéed veal, white wine, cream, onions, and sometimes mushrooms, often served with rösti."
+asam_pedas,Asam pedas,Southeast Asian,stew,This dish is a sour and spicy fish stew dish. It is often cooked with asam (tamarind) fruit juice with chilli and spices.
+balbacua,Balbacua,Filipino,stew,"This dish is a beef stew made from beef, collagen-rich beef parts (oxtail, skin, and joints), and various spices cooked for several hours until very tender. "
+flaki,Flaki,Polish,soup,"This dish is a soup usually made with thin, cleaned strips of beef tripe."
+fzelk,Főzelék,Hungarian,stew,"This dish is a vegetable stew or soup, similar to pottage. It is simply cooked, typically by simmering, not mashing."
+gaisburger_marsch,Gaisburger Marsch,German,stew,"This dish is a beef stew where the meat, cooked in a strong beef broth, is cut into cubes and served with cooked potatoes and Spätzle."
+galinhada,Galinhada,Brazilian,stew,This dish is a stew of rice with chicken.
+guatita,Guatita,Ecuadorian,stew,This dish is a a stew whose main ingredient is pieces of tripe (cow stomach). There are various vegetarian versions of the dish in which wheat gluten is substituted for tripe.
+guyanese_pepperpot,Guyanese pepperpot,Guyanese,stew,"This dish is a stew that is usually reserved for special occasions because it needs to cook for several hours, and mostly eaten on Christmas Day or during the Christmas holiday season, and sometimes on Boxing Day."
+hamin,Hamin,Spanish,stew,"This dish is a Sabbath stew made from whole grains, cubes of meat, chickpeas or beans, onion and cumin."
+hochepot,Hochepot,French,stew,"This dish is a stew made with oxtail, shoulder of mutton, salted bacon, and vegetables. The stewed vegetables are served whole."
+kaldereta,Kaldereta,Filipino,stew,"This dish is a stew where the goat meat is stewed with vegetables and liver paste. Vegetables may include tomatoes, potatoes, olives, bell peppers, and hot peppers."
+kapuska,Kapuska,Turkish,stew,This dish is a cabbage stew that is known to be a dish for the poor.
+khoresh_karafs,Khoresh karafs,Iranian,stew,This dish is a traditional stew with celerty as the main part of the dish.
+kig_ha_farz,Kig ha farz,British,stew,This dish is a cooked dish consisting of various meats simmered in a broth with a buckwheat flour based pudding.
+kuurdak,Kuurdak,Kazakh,stew,This dish is usually described as stewed brown meat.
+lancashire_hotpot,Lancashire hotpot,British,stew,"This dish consists of lamb or mutton and onion, topped with sliced potatoes and slowly baked in a pot at a low heat."
+maconochie,Maconochie,Scottish,stew,"The dish is a canned stew of sliced turnips, carrots, potatoes, onions, haricot beans, and beef in a thin broth."
+mocot,Mocotó,Brazilian,stew,"The dish is made from cow's feet, stewed with beans and Vegetable."
+tuna_pot,Tuna pot,Basque,stew,"The dish is a simple dish with tuna, potatoes, onions, peppers, and tomatoes."
+tocan,Tocană,Romanian,stew,"The dish is a stew prepared with tomato, garlic and sweet paprika. Traditionally, it is consumed with a cornmeal mush."
+tharid,Tharid,Arab,stew,"The dish is a simple meal of broth and bread, in this instance crumbled flatbread moistened with broth or stew."
+tatws_pum_munud,Tatws Pum Munud,British,stew,"The dish is a traditional stew, made with smoked bacon, stock, potatoes and other Vegetable."
+skirts_and_kidneys,Skirts and kidneys,Irish,stew,The dish is a stew made from pork and pork kidneys.
+saltah,Saltah,Yemeni,stew,"The dish is based off a brown meat stew called maraq, a dollop of fenugreek froth, and sahawiq (a mixture of chillies, tomatoes, garlic, and herbs ground into a salsa)."
+rssypottu,Rössypottu,Finnish,stew,"The dish is a stew made using potatoes (pottu, peruna), some pork and the main ingredient, so-called ""rössy"" i.e. blodpalt made of blood, beer, rye flour and some spices."
+navarin,Navarin,French,stew,The dish is a ragoût (stew) of lamb or mutton.
+pottage,Pottage,European,soup,"The dish is a thick soup or stew made by boiling Vegetable, grains, and, if available, meat or fish."
+prklt,Pörkölt,Hungarian,stew,"This dish is a meat stew with boneless meat, paprika, and some vegetables."
+pasulj,Pasulj,Balkan,stew,"This dish is a bean stew made of usually white, cranberry or pinto beans, and more rarely kidney beans. It is normally prepared with meat, particularly smoked meat such as smoked bacon, sausage, and ham hock, and is a typical winter dish."
+paila_marina,Paila marina,Chilean,soup,This dish is a seafood soup usually served in a earthenware bowl. It usually contains a shellfish stock base cooked with different kinds of shellfish and fish.
+paya,Paya,South Asian,soup,"This dish consists of the trotters (hooves) of a cow, goat, buffalo, or sheep, cooked with various spices. It is served at various festivals and gatherings, or made for special guests."
+butajiru,Butajiru,Japanese,soup,"This dish is a soup made with pork and vegetables, flavoured with a type of fermented soybeans paste."
+porra_antequerana,Porra antequerana,Spanish,soup,This dish is a thick soup consists of tomato and dried bread.
+fabes_con_almejas,Fabes con almejas,Spanish,stew,"This dish is a clam and bean stew. It is a lighter variation of other stew whose primary ingredients are sausage, beans and pork."
+escudella,Escudella,Catalan,soup,"The dish is a traditional Catalan meat and vegetable stew, often served with a side of pasta, rice, or both"
+cocido_montas,Cocido montañés,Spanish,stew,"The dish is a traditional stew from the Cantabria region in northern Spain. It is made with large white beans, chorizo, and pork, and is a hearty and filling meal."
+caparrones,Caparrones,Spanish,stew,"The dish is a Spanish stew made of caparrón, a variety of red kidney bean, and a spicy sausage chorizo, both of which are local specialties of the Spanish La Rioja region"
+cocido_madrileo,Cocido madrileño,Spanish,stew,The dish is a traditional chickpea-based stew associated to the Madrid region.[1] It is most popular during the winter
+caldo_galego,Caldo galego,Spanish,soup,"The dish is a regional derivative (with added beans and turnip greens) of the very similar caldo verde, the traditional soup dish of neighbouring Portugal."
+kenchinjiru,Kenchin-jiru,Japanese,soup,The dish is a popular Japanese vegetable soup prepared using root Vegetable and tofu prepared in various manners using myriad ingredients.
+hong_dou_tang,Hong dou tang,Chinese,soup,"The dish is a sweet Chinese dessert made from azuki beans served in Mainland China, Taiwan, Hong Kong, Macau, and places with Chinese diaspora. "
+zni,Zōni,Japanese,soup,The dish is a Japanese soup containing mochi rice cakes associated with the Japanese New Year and its tradition of osechi ceremonial foods.
+cup_noodles,Cup Noodles,Japanese,noodle,"The dish is a cup instant ramen developed in 1971 and manufactured by Japanese food company Nissin Foods packaged in foam, plastic, or paper cups and are prepared by adding boiling water."
+chankonabe,Chankonabe,Japanese,stew,The dish  is a Japanese stew (a type of nabemono or one-pot dish) commonly eaten in vast quantity by sumo wrestlers as part of a weight-gain diet.
+doj_nabe,Dojō nabe,Japanese,hot pot,The dish is a Japanese nabemono dish cooked in a hot pot with pond loaches as it main ingridients
+fugu_chiri,Fugu chiri,Japanese,soup,The dish is a pufferfish soup
+hariharinabe,Harihari-nabe,Japanese,soup,The dish is a type of nabemono made with minke whale meat and mizuna.
+hayashi_rice,Hayashi rice,Japanese,curry,"The dish is a popular dish in Japan as a Western-style dish, or yōshoku, that usually contains beef, onions, and button mushrooms in a thick demi-glace sauce, which often contains red wine and tomato sauce."
+kiritanpo,Kiritanpo,Japanese,soup,"The dish is a Japanese freshly cooked rice pounded until somewhat mashed, then formed into cylinders around Japanese cedar skewers, and toasted over an open hearth."
+motsunabe,Motsunabe,Japanese,soup,"The dish is a type of nabemono in Japanese cuisine, which is made from beef or pork tripe or other offal"
+shabushabu,Shabu-shabu,Japanese,hot pot,The dish is a Japanese nabemono hotpot dish of thinly sliced meat and Vegetable boiled in water and served with dipping sauces.
+kagoshima_ramen,Kagoshima ramen,Japanese,noodle,"The dish is a ramen dish which is offered in Kagoshima Prefecture, in southern Japan."
+hiyashi_chka,Hiyashi chūka,Japanese,noodle,The dish is a Chinese-style Japanese dish consisting of chilled Chinese noodles with various toppings served in the summer.
+chinsuk,Chinsukō,Japanese,biscuit,"The dish is a traditional sweet often sold as a souvenir. It is a small biscuit made of mostly lard and flour, with a mild and sweet flavor similar to shortbread."
+coffee_jelly,Coffee jelly,Japanese,dessert,The dish is a jelly dessert flavored with coffee and sugar.
+hakuto_jelly,Hakuto jelly,Japanese,dessert,"The dish is made using the juice of ripe peaches and mineral-rich spring water. The texture is very smooth and soft, similar to the texture of the fruit itself."
+sata_andagi,Sata andagi,Chinese,doughnut,The dish is a sweet deep fried bun of dough similar to a doughnut. It is typically prepared so that the outside is crispy and browned while the inside is light and cake-like.
+tokyo_banana,Tokyo Banana,Japanese,dessert,The dish is banana-shaped sponge cake with cream filling.
+kakigri,Kakigōri,Japanese,dessert,"The dish is a shaved ice dessert flavored with syrup and a sweetener, often condensed milk."
+muroran_curry_ramen,Muroran curry ramen,Japanese,noodle,The dish is a curry-flavored ramen noodle dish.
+amanatt,Amanattō,Japanese,confectionery,"The dish is a traditional confectionery made of azuki or other beans, covered with refined sugar after simmering with sugar syrup and drying."
+raindrop_cake,Raindrop cake,Japanese,confectionery,The dish is a confection made of water and agar that resembles a large raindrop.
+sakuramochi,Sakuramochi,Japanese,confectionery,"The dish is a confection consisting of sweet, pink-colored rice cake with red bean paste filling, wrapped in a pickled cherry blossom leaf, which may or may not be eaten depending on individual preference."
+tokoroten,Tokoroten,Japanese,confectionery,"The dish is a gelatinous dish in Japanese cuisine, made from agarophyte seaweed."
+shiruko,Shiruko,Japanese,dessert,"The dish is a sweet porridge of red beans boiled and crushed, served in a bowl with mochi."
+namagashi,Namagashi,Japanese,sweets,"This sweet may contain fruit jellies, other gelatines, or sweetened bean paste. It is detailed, designed with using seasonal and natural motifs such as leaves and flowers to reflect the various objects of nature in four seasons."
+wasanbon,Wasanbon,Japanese,sweets,This fine-grained sugar is often used for sweets and made from thin sugarcane plants (Saccharum sinense).
+imagawayaki,Imagawayaki,Japanese,snack,This dessert is often found at festivals. The dessert is made of batter in a special pan and filled with sweet red bean paste.
+amezaiku,Amezaiku,Japanese,candy,"This candy craft artistry is sculpted of multi-coloured sweetener that is clear, thick, and sticky made by converting starch to sugars."
+anmitsu,Anmitsu,Japanese,dessert,"This dessert is made of small cubes of agar jelly, a white translucent jelly made from red algae. It is served in a bowl with sweet red bean paste, boiled peas, and a variety of fruits such as peach slices, oranges, pieces of pineapples, and/or cherries"
+arare,Arare,Japanese,snack,This snack is a type of bite-sized cracker made from glutinous rice and flavored with soy sauce.
+botamochi,Botamochi,Japanese,dessert,"This confection is made with glutinous rice and white rice with ratio of 7:3, or only glutinous rice, plus sweet red bean paste."
+beika,Beika,Japanese,snack,The name refers to a dry confectionery that is made out of rice.
+chitose_ame,Chitose ame,Japanese,candy,"This candy is given to children on the festival that celebrates the passage of their children into middle childhood. This candy is long, thin, red and white candy, and is wrapped in a thin, clear, and edible rice paper film that resembles plastic. This candy is usually given with a bag decorated with a crane and a turtle."
+daifuku,Daifuku,Japanese,snack,"This confection is a small round rice cake stuffed with a sweet filling, most commonly a sweetened red bean paste. It is often served along with a green tea."
+ykan,Yōkan,Japanese,dessert,"The dish is made of red bean paste, agar, and sugar. It is usually sold in a block form, and eaten in slices. "
+monaka,Monaka,Japanese,sweets,"The dish consists of red bean paste sandwiched between two thin, crisp wafers made from rice cake. The wafers can be square, triangle, or complicated shapes such as cultural landmarks or symbols. The dish is a type of dessert served with tea. "
+hanabiramochi,Hanabiramochi,Japanese,sweets,"This dessert is usually eaten at the beginning of the year. The exact shape of the dish is strictly defined by tradition. The white rice cake covering is flat and round, folded over to form a semicircular shape, and must have a pink colour showing through in the centre of the confection, fading to a white at the edge. "
+higashi,Higashi,Japanese,sweets,"The dish recipe is one or more kinds of sugar, with a particular sort of flour and some other additives, while there is some variants made solely of sugar, with no flour content. "
+hishi_mochi,Hishi mochi,Japanese,sweets,"The sweet is diamond-shaped and typically formed from three layers of red (pink), white, and green rice cake, from top to bottom. Depending on the region, red may be substituted for yellow, or the sweet may have five or seven layers instead. It is usually presented with traditional dolls. "
+karint,Karintō,Japanese,snack,"This is a sweet, deep-fried snack. It is made primarily of flour, yeast, and brown sugar. It has a deep brown and pitted appearance and takes the form of a bite-sized pillow or short cylinder."
+konpeit,Konpeitō,Japanese,sweets,"It takes the form of a small sphere with a bumpy surface, and comes in a variety of colors and flavors."
+kusa_mochi,Kusa mochi,Japanese,dessert,"It is made from rice cake and leaves of mugwort. The leaves are kneaded into the mochi, giving it a vivid green colour. The greenness depends on the amount of mugwort blended in the mochi. "
+kuzumochi,Kuzumochi,Japanese,cake,"A dessert that can be either mochi cake made from kudzu powder, starch derived from the root of the kudzu plant, or rice cakes made from Lactobacillales-fermented wheat starch. The usual preparation consists in combining kudzu powder with water and sugar, and cooking it over a gentle heat, stirring continuously until the mixture thickens and becomes transparent. This process also imparts an elastic texture to the kudzu. The transparent appearance of the final product contributes to a cool sensation, making it a popular choice for consumption during warmer months."
+momiji_manj,Momiji manjū,Japanese,dessert,"A buckwheat and rice cake shaped like a maple leaf, and it is typically filled with red bean paste."
+kamameshi,Kamameshi,Japanese,rice,"A rice dish traditionally cooked in an iron pot. Many varieties exist, but most consist of rice seasoned with soy sauce or mirin, and cooked with meats and vegetables."
+katemeshi,Katemeshi,Japanese,rice,"Typical ingredients in the preparation of this dish included rice, barley, millet, chopped daikon radish root and leaves, and other greens. The use of daikon in the dish was very common. Other ingredients used in the dish, when available, included wheat, carrots, turnips, burdock, taro, pumpkin, soybeans, mushrooms, kidney beans, and adzuki beans, among others."
+red_bean_rice,Red bean rice,Japanese,rice,Rice dish consisting of rice cooked with red beans.
+tenmusu,Tenmusu,Japanese,rice,Rice ball wrapped with nori that is filled with deep-fried tempura shrimp.
+nanakusanosekku,Nanakusa-no-sekku,Japanese,rice,"Seven-herb rice porridge consisting of Japanese parsley, sheperd's purse, cudweed, chickweed, nipplewort, turnip, and radish."
+tekkadon,Tekkadon,Japanese,rice,"Rice dish topped with thin-sliced raw tuna. The spicy version is made with what can be a mix of spicy ingredients, a spicy orange sauce, or both, usually incorporating spring onions."
+tendon,Tendon,Japanese,rice,Fried shrimp on a bowl of rice.
+unadon,Unadon,Japanese,rice,"Typically served in a large bowl filled with steamed white rice, and topped with fillets of eel grilled. The fillets are glazed with a sweetened soy-based sauce, called tare and caramelized, preferably over charcoal fire. The fillets are not flayed, and the grayish skin side is placed faced down."
+wappameshi,Wappameshi,Japanese,rice,"Rice dish in special round containers seasoned with lightly-salted dashi broth, topped with steamed seasonal seafood. "
+chirashizushi,Chirashizushi,Japanese,rice,"The dish serves the rice in a bowl and tops it with a variety of raw fish and vegetable garnishes. The dish""s name has the meaning of ""scattered sushi""."
+oshizushi,Oshizushi,Japanese,rice,"The chef lines the bottom a block-shaped mold with the toppings(cooked fish or cured fish), covers them with sushi rice, and then presses the mold's lid to create a compact block. The block is removed from the mold and then cut into bite-sized pieces"
+katsusando,Katsu-sando,Japanese,sandwich,This dish is a sandwich which made of deep-fried pork cutlet between slices of bread.
+yakisobapan,Yakisoba-pan,Japanese,sandwich,This dish consists of fried wheat noodles that is sandwiched between a white bread roll bun.
+kaki_furai,Kaki furai,Japanese,seafood,The dish consisting of panko-breaded deep-fried oysters
+kakiage,Kakiage,Japanese,seafood,"The dish is made by batter-dipping and deep-frying a batch of ingredients such as shrimp bits  It may use other seafood such as small scallops, shredded vegetables or a combination of such ingredients."
+dovga,Dovga,Azerbaijani,soup,"soup made from plain yoghurt and herbs. The soup ingredients can vary seasonally and regionally, the soup usually includes coriander, dill, mint, and spinach."
+joshpara,Joshpara,Azerbaijani,dumpling,made of unleavened wheat dough squares filled with ground meat and condiments.
+piti,Piti,Armenian,meat,"It is made with mutton and vegetables (tomatoes, potatoes, chickpeas), infused with saffron water to add flavour and colour, all covered by a lump of fat, and cooked in a sealed crock"
+khash,Khash,Armenian,soup,"This dish consists of boiled cow or sheep parts, which might include the head, feet, and stomach (tripe)."
+water_chestnut_cake,Water chestnut cake,Chinese,dim sum,This dish is a sweet dim sum made of water chestnut.
+chicken_feet,Chicken feet,Chinese,meat,This dish is a part of chicken which cooked and eaten in many countries. This dish has a distinct gelatinous texture different from the rest of the chicken meat.
+tong_sui,Tong sui,Chinese,soup,The dish is a collective term for any sweet soup served as a dessert typically at the end of a meal.
+belgian_bun,Belgian bun,British,bread,"The dish is a sweet bun containing sultanas and usually topped with fondant icing and half a glace cherry. Some recipes also include lemon curd. The bun is round or square shaped, with rounded off edges"
+buuelo,Buñuelo,Spanish,fritter,"The dish is a fried dough fritter. They typically consist of a simple, wheat-based yeast dough, often flavored with anise, that is thinly rolled, cut or shaped into individual pieces, then fried and finished off with a sweet topping. It may be filled with a variety of things, sweet or savory. They can be round in ball shapes or disc-shaped."
+finger_bun,Finger bun,Australian,bread,The dish is a fruit bun. At one time it was a bakery and school staple but its popularity has waned.
+fruit_bun,Fruit bun,British,bread,"The dish is a type of sweet roll made with fruit, fruit peel, spices and sometimes nuts. They are made with fruit and fruit peel , which are sprinkled and cooked with sugar nibs."
+tuna_bun,Tuna bun,Hong Kong,bread,The dish is a bun that contains tuna paste.
+ham_and_egg_bun,Ham and egg bun,Hong Kong,sandwich,The dish is a bun or bread that contains a sheet of egg and ham.
+pork_chop_bun,Pork chop bun,Macanese,bread,The dish consists of a bun which is extremely crisp outside and very soft inside. A fried pork chop is filled into the bun horizontally.
+manchet,Manchet,British,bread,"The dish is a wheaten, yeast-leavened bread of very good quality, or a small flat circular loaf. It was a bread that was small enough to be held in the hand."
+pineapple_bun,Pineapple bun,Hong Kong,bread,"The dish is a kind of sweet bun. Despite the name, it does not traditionally contain pineapple; rather, the name refers to the look of the characteristic topping (which resembles the texture of a pineapple)."
+christmas_ham,Christmas ham,Northern European,meat,The dish is a ham often served for special occassion dinner.
+ham_and_eggs,Ham and eggs,American,egg,The dish is a dish combining various preparations of ham and egg.
+jambonbeurre,Jambon-beurre,French,bread,"The dish is a ham sandwich made of a fresh baguette sliced open, spread with butter (salted or unsalted) and filled with slices of ham."
+bunny_chow,Bunny chow,South African,bread,The dish consisting of a hollowed-out loaf of white bread filled with curry and a serving of salad on the side.
+schnitz_un_knepp,Schnitz un knepp,American,meat,The dish consists of ham or pork shoulder with dried apples and dumplings.
+toast_hawaii,Toast Hawaii,German,bread,"The dish is an open sandwich consisting of a slice of toast with ham and cheese, and a maraschino cherry in the middle of a pineapple slice, baked so that the cheese starts to melt."
+crispy_pata,Crispy pata,Filipino,meat,The dish consists of deep fried pig trotters or knuckles served with a soy-vinegar dip.
+akashiyaki,Akashiyaki,Japanese,dumpling,The dish is a small round dumpling. The dumpling is made of an egg-rich batter and octopus dipped into a thin fish broth before eating.
+aletria,Aletria,Portuguese,dessert,The dish is a custardy dessert based on thin like pasta.
+balut,Balut,Filipino,egg,The dish is a fertilized developing egg embryo that is boiled or steamed and eaten from the shell.
+coddled_egg,Coddled egg,Global,egg,"The dish refers to eggs that have been cracked into a ramekin or another small container, placed in a water bath or bain-marie and gently or lightly cooked just below boiling temperature. They can be partially cooked, mostly cooked, or hardly cooked at all"
+telur_gulung,Telur gulung,Indonesian,egg,The dish is a food in which an egg is fried and then rolled using a skewer which is usually made of bamboo.
+iron_egg,Iron egg,Taiwanese,egg,"The dish consists of small eggs that have been repeatedly stewed in a mix of spices and air-dried. The resulting eggs are dark brown on the outside, chewy in texture, and very flavourful compared to standard boiled eggs."
+eggs_and_brains,Eggs and brains,Portuguese,egg,The dish consists of pork brains (or those of another mammal) and scrambled eggs.
+haminados,Haminados,Spanish,egg,"The dish consists of eggs that are cooked for a long time, resulting in red-brown whites and darkened yolks."
+hangtown_fry,Hangtown fry,American,egg,"The most common version of the dish includes bacon and oysters combined with eggs, and fried together."
+masala_omelette,Masala omelette,Indian,egg,"The dish is a variant of the omelette. Its main ingredients are eggs, herbs, tomatoes and spices that vary by region."
+silog,Silog,Filipino,rice,"The dish is a class of breakfast dishes containing fried rice and fried egg. They are served with various side dish, often fried as well, and usually meat dishes such as tapa, longganisa or ham."
+chhurpi,Chhurpi,Nepalese,cheese,"This is a dairy product made from buttermilk, which is boiled, and the solid mass is separated from the liquid and drained in a cloth. The resulting soft, white product resembles ricotta and has a neutral taste, often fermented for a tangy flavor. To make the hard variety, the soft chhurpi is pressed in a jute bag to remove excess water, dried, cut into cubes, and hung over fire to further harden.
+"
+sha_phaley,Sha phaley,Tibetan,bread,"The dish consists of bread stuffed with seasoned meat and cabbage, which is then fashioned into semi-circular or circular shapes and which according to regional variations is either deep fried or pan fried like pot stickers."
+sinki,Sinki,Nepalese,vegetable,"This dish is a preserved fermented vegetable made from radish tap roots. To prepare the dish, aged radish slivers are pressed into a hole lined with bamboo and straw, covered with vegetation, rocks, wood, and mud, and then allowed to cure for about a month. After curing, the preserved radish is sun-dried and can be stored for several years."
+gundruk,Gundruk,Nepalese,vegetable,The dish is obtained from the fermentation of leafy vegetables sometimes mixed with the roots as well. It is served as a side dish with the main meal and is also used as an appetizer.
+dhindo,Dhindo,Nepalese,porridge,"This dish is made by gradually adding flour to boiling water while stirring, typically using buckwheat or millet flour. It is served with various accompaniments, such as lentils, curries, and condiments, and is eaten by forming small balls and dipping them into soups or liquids."
+bap,Bap,Korean,rice,"This dish is a term for cooked rice made by boiling rice or other grains, such as black rice, barley, sorghum, millets, and beans, until the water is absorbed. Various ingredients like vegetables, seafood, and meat can be added to create different variants of this dish."
+wandouhuang,Wandouhuang,Chinese,sweets,"This is a light and refreshing paste-like cake made from yellow peas or yellow pea flour, water, and sugar, with a slightly sweet taste. Traditionally associated with spring."
+tomato_omelette,Tomato omelette,Maharashtrian,pancake,"This is a vegan breakfast dish, made primarily from chickpea flour or batter with added tomatoes, onions, and green chillies. The batter is cooked on a skillet until golden and is typically served hot with condiments."
+tave_grave,Tavče gravče,North Macedonian,beans,"This dish is made with fresh beans, often served baked in an unglazed earthenware pot. "
+ragda_pattice,Ragda pattice,Indian,potato,The dish is made of mashed potato patties and pea sauce.
+peabutter,Peabutter,Canadian,nuts,This is a savory spread used as an alternative to peanut butter.
+red_bean_cake,Red bean cake,Chinese,beans,This is a cake with a sweet red bean paste filling.
+fasole_cu_crnai,Fasole cu cârnați,Romanian,beans,"This dish is a baked beans and sausages, often added with smoked pork, carrots, onions, tomatoes, parsnip, tomato sauce and bay leaf."
+matev,Matevž,Slovenian,beans,"This dish is a beans and potatoes dish, usually eaten with pickled cabbage or turnips."
+pie_floater,Pie floater,South Australian,soup,"This dish commonly consists of a traditional meat pie, usually sitting, but sometimes submerged (traditionally upside down) in a bowl of thick pea soup made from blue boiler peas."
+msabbaha,Msabbaha,Levantine,beans,This dish is a variation of hummus made up of whole garbanzo beans and tahini.
+chhena_matar_tarkari,Chhena Matar Tarkari,Indian,peas,"It is a vegetarian dish. It generally consists of peas and acid-set cheese in a tomato-based sauce, spiced with garam masala."
+grey_peas,Grey peas,Latvian,beans,"This dish is usually a snack served on a plate, sprinkled with salt, mixed with cracklings and onions. Soak the peas and cook them gently (it is important not to overcook so that the peas do not come out of their skin). Chopped bacon and onions are fried in a pan."
+githeri,Githeri,Kenyan,beans,"This is a meal consisting of maize and legumes (primarily beans) mixed and boiled together. The maize and beans are mixed in a type of pot, with water added, and the mixture is boiled until fully cooked."
+douzhi,Douzhi,Chinese,beans,"It is similar to soy milk, but made from mung beans. It is generally slightly sour, with an rotten egg-like smell."
+dilly_beans,Dilly beans,American,beans,"The dish preserves this summer legume. Often flavoured with dill, it may contain garlic, Tabasco sauce, and red pepper. Best kept in glass jars for safekeeping over the winter months, it can be served on its own as a snack, alongside a main dish, or in salad."
+dalcha,Dalcha,Indian,meat,"Primary ingredients are lentils, can be chick pea or sometimes pigeon pea. Vegetables or meats, both chicken or mutton, may also be added to the stew."
+ciceri_e_tria,Ciceri e tria,Italian,pasta,"The dish is prepared with pasta and chickpeas as primary ingredients and includes fried pasta. Some versions of the dish may have a significant amount of broth, which may be eaten using a spoon. Some of the pasta (from one-third to one-half) is fried in oil as part of its preparation, while the rest of it is boiled."
+bob_chorba,Bob chorba,Bulgarian,soup,"This dish is made from dry beans, onions, tomatoes, spearmint and carrots."
+bouneschlupp,Bouneschlupp,Luxembourgish,soup,"This dish a green bean soup with potatoes, bacon, and onions."
+medisterplse,Medisterpølse,Danish,meat,"This specialty food consist of a thick spiced sausage made of minced pork and lard, stuffed into a casing."
+bondiola_sandwich,Bondiola sandwich,Argentinian,sandwich,This dish is a sandwich made with thick slices of pork shoulder. The meat consists of slices of roasted or cured pork shoulder and it is usually served on crispy brioche bread. It can be topped with a variety of condiments and vegetables.
+ksekrainer,Käsekrainer,Austrian,meat,This dish is a type of lightly smoked sausages containing roughly torn bits of pork and 10% to 20% cheese (for example Emmentaler) cut into small cubes.
+cervelat,Cervelat,Swiss,meat,"This dish is a sausage produced in Switzerland, France, Belgium, the Netherlands, and parts of Germany. The recipe and preparation of the sausage vary regionally."
+salchichn,Salchichón,Spanish,meat,"This dish is a summer sausage that is made by smoking, drying, cooking, or some combination. It is made with pork, although some recipes use other meats including ox, veal, or horse."
+lukanka,Lukanka,Bulgarian,meat,"This dish is semi-dried, has a flattened cylindrical shape, and brownish-red interior in a skin that is normally covered with a white fungus. The mix of small pieces of meat and fat give the interior a grainy structure."
+botifarra,Botifarra,Catalan,meat,"This dish is based on ancient recipes, either the Roman sausage botulu or the lucanica, made of raw pork and spices, with variants today in Italy and in the Portuguese and Brazilian linguiça"
+nem_chua,Nem chua,Vietnamese,meat,"This dish is a fermented pork dish. It is mainly composed of a mixture of lean pork and thin strips of cooked rind, garnished with garlic and chilli."
+sibiu_salami,Sibiu Salami,Romanian,meat,"The dish is a salami made with pork meat, pork fat, salt and condiments, fermented and air-dried."
+botillo,Botillo,Spanish,meat,"This is a dish of meat-stuffed pork intestine. It is a is a meat product made from different pieces left over from the butchering of a pig, including the ribs, tail, and bones with a little meat left on them."
+naem,Naem,Lao,meat,This dish is a pork sausage. It is a fermented food with a sour flavour. It has a short shelf life and is often eaten in raw form after fermentation. It is used as an ingredient in various dishes and is also served as a side dish.
+qaz,Qazı,Bashkir,meat,"This is a traditional sausage-like food made from horse meat. It is a common element on a festive meal table. A reviewer described the dish as smoky and earthy. It is often eaten cold, sometimes sliced, and served as an appetiser."
+jingisukan,Jingisukan,Japanese,mutton,"The dish is a grilled mutton dish prepared on a convex metal skillet or other grill. It is often cooked alongside beansprouts, onions, mushrooms, and bell peppers, and served with a sauce based in either soy sauce or sake."
+tokushima_ramen,Tokushima Ramen,Japanese,noodle,"The dish is a pork broth ramen that is seasoned with soy-sauce, and has topping of thinly sliced pork belly, bamboo shoots, green onions, bean sprouts, and raw eggs."
+qarta,Qarta,Kazakh,meat,"The dishes are boiled and pan-fried horse rectum, taken from the final few inches of the digestive tract before the muscular part of the anus. It is served without sauce or spices. It is prepared in various ways to clean it thoroughly and remove any unpleasant taste due to the provenance of the tissue."
+sundae_sausage,Sundae sausage,Korean,meat,The sausage dish is generally made by steaming cow or pig's intestines stuffed with various ingredients.
+yudoufu,Yudoufu,Japanese,hot pot,This hot pot dish is tofu simmered in a kombu stock and served with ponzu and various condiments.
+burro_perchern,Burro percherón,Mexican,bread,"This dish is a variation of classic burrito, which traditionally prepared with grilled or charcoal-roasted meat, avocado, cheese, and tomatoes (although variants exist in each restaurant)."
+sai_ua,Sai ua,Lao,meat,"This is minced pork meat, herbs, spices, and red curry paste."
+prawn_cocktail,Prawn cocktail,British,seafood,"The dish consists of shelled, cooked prawns in a seafood sauce or cocktail sauce served in a glass."
+curtido,Curtido,Salvadoran,salad,"The food is usually made with cabbage, onions, carrots, oregano, and sometimes lime juice."
+escamol,Escamol,Mexican,caviar,This is food known as insect caviar. They are made are from the edible larvae and pupae of ants
+kishka,Kishka,Polish,meat,"The dish refers to various types of sausage or stuffed intestine with a filling made from a combination of meat and meal, often grain or potato. "
+liverwurst,Liverwurst,German,meat,"This is a sausage made from liver. Many varieties are spread. It usually contains pigs"" or calves"" liver. Other ingredients are meat (notably veal), fat, and spices"
+lincolnshire_sausage,Lincolnshire sausage,English,meat,"The sausage dish is made with coarsely chopped or ground pork mixed with binders, seasonings and preservative."
+doctors_sausage,Doctor's sausage,Russian,meat,This sausage dish is a emulsified boiled sausage with pale pink color and low fat content.
+oxford_sausage,Oxford sausage,English,meat,"The modern version is considered, typically, to consist of a mixture of pork and veal, seasoned with lemon and herbs."
+lorne_sausage,Lorne sausage,English,meat,"This sausage dish is a traditional food item made from minced meat, rusk and spices."
+bhakkha,Bhakkha,Indian,rice,A fluffy rice cake served in breakfast or as a snack with freshly prepared tomato pickle.
+south_asian_pickle,South Asian pickle,Bangladeshi,vegetable,"It is a pickled food made from a variety of vegetables, meats and fruits preserved in brine, vinegar, edible oils, and various spices."
+romeritos,Romeritos,Mexican,stew,A dish consisting of tender sprigs of seepweed which are boiled and served in sauce seasoned with shrimp jerky blended into the mix. Typical additional ingredients include boiled potatoes and re-hydrated shrimp.
+bagiya,Bagiya,Indian,pastry,It is a steamed dumpling that consists of an external covering of rice flour and an inner content of sweet substances such like vegetables and other fried items.
+battered_sausage,Battered sausage,English,meat,They are made up of a pork sausage dipped in batter and usually served with chips.
+tripas,Tripas,Mexican,meat,"They are the small intestines of farm animals that have been cleaned, boiled and grilled."
+totopo,Totopo,Mexican,bread,"The food is a flat, round, or triangular corn item similar to a tortilla, that has been toasted, fried or baked."
+cabrito,Cabrito,Argentinian,meat,This food is roast whole goat over a charcoal fire.
+pickled_pigs_feet,Pickled pigs' feet,Mexican,meat,
+poc_chuc,Poc chuc,Mexican,meat,"This is a dish of meat, commonly pork, that is prepared in citrus marinade and cooked over a grill. "
+pollo_a_la_brasa,Pollo a la brasa,Peruvian,meat,"This dish is a variety of rotisserie chicken. It originally consists of a chicken (cooked on a spit over charcoal and seasoned only with salt) served with large french fries, though today additional spices are used to prepare it. It is almost always served with creamy (mayonnaise-based) sauces."
+pollo_motuleo,Pollo motuleño,Mexican,meat,"This dish consists of chicken cooked with orange juice, achiote, and plantains."
+puntas,Puntas,Mexican,stew,"This dish consists of small cuts of meat cooked in various sauces, either of dried chili or fresh chilis sauces. Initially, the tips were made with strips of leftover beef cut. Then, different types of meat have been used."
+arroz_poblano,Arroz poblano,Mexican,rice,This dish is made with rice and gets its green color from a type of pepper that is processed into a liquid.
+fried_ice_cream,Fried ice cream,Chinese,dessert,"This dish is a dessert made of a scoop of ice cream that is frozen hard, then breaded or coated in a batter before being quickly deep-fried, creating a warm, crispy shell around the still-cold ice cream."
+caldo_de_siete_mares,Caldo de siete mares,Mexican,soup,"This dish is a fish soup typically made with tomato, fish, or seafood broth with local fresh seafood ingredients and cooked quickly in a thin broth."
+calavera,Calavera,Mexican,sweets,This dish is an edible decorative skulls made from sugar.
+cochinito_de_piloncillo,Cochinito de piloncillo,Mexican,bread,This dish is a sweet bread made with a type of sweetener made from sugar cane.
+manjar_blanco,Manjar blanco,Spanish,dessert,"This dish consists of a sweet, white spread or pastry filling made with milk."
+nicuatole,Nicuatole,Mexican,dessert,This dish is a gelatinous dessert made from ground maize and sugar.
+wensleydale_cheese,Wensleydale cheese,English,cheese,This is a medium cheese that is supple and crumbly. It has a slight honey aroma.
+sulguni,Sulguni,Georgian,cheese,"This is a type of cheese that has a sour, moderately salty flavor, a dimpled texture, and an elastic consistency."
+brsi,Brési,French,meat,The dish is a dried and smoked beef.
+bndnerfleisch,Bündnerfleisch,Swiss,meat,"The dish is an air-dried meat, usually beef."
+lutefisk,Lutefisk,Norwegian,fish,"The dish is dried whitefish, usually cod, made from aged fish."
+katsuobushi,Katsuobushi,Japanese,fish,"The dish is a simmered, smoked, and fermented skipjack tuna."
+kipper,Kipper,British,fish,"This dish is a whole herring, a small, oily fish, that has been split in a butterfly fashion from tail to head along the dorsal ridge, gutted, salted or pickled, and cold-smoked over smouldering wood chips"
+aa_na_tigela,Açaí na tigela,Brazilian,snack,The dish is made from frozen and mashed fruit of the acai palm with creamy texture.
+cajuzinho,Cajuzinho,Brazilian,sweets,"The dish is made of peanuts, cashew nuts, and sugar, shaped like a tiny cashew."
+creme_de_papaya,Creme de papaya,Brazilian,dessert,The dish is a papaya blended with vanilla ice cream.
+man_pelado,Mané pelado,Brazilian,cake,"The dish is a cake made from shredded yuca and coconat, and a salted cheese."
+mariamole,Maria-mole,Brazilian,dessert,"The dish is similar shape to marshmallow, made with sugar, gelatine, egg whites."
+olho_de_sogra,Olho de sogra,Brazilian,sweets,The dish is a candy made of dried plum with crystal sugar.
+pav,Pavê,Brazilian,dessert,The dish is an alternating layer of biscuits and a cream made with condensed milk.
+p_de_moleque,Pé de moleque,Brazilian,sweets,The dish is a candy made of peanuts and molasses.
+varci,Čvarci,Austrian,meat,"The dish a variant of pork rinds. They are a kind of pork cracklings, with fat thermally extracted from the lard. Preparation involves melting the lard."
+brudet,Brudet,Croatian,stew,"The dish is a fish stew with spices, Vegetable and red or white wine, and vinegar."
+kotlovina,Kotlovina,Croatian,meat,"The dish is a stewed meat dish and sausages stewed in their own juice with onions, potatoes, tomatoes, bell peppers, and paprika."
+meso_z_tiblice,Meso 'z tiblice,Croatian,meat,"The dish is a salty meat made with rubbing garlic, salt, in a wodden containers."
+fishermans_soup,Fisherman's soup,Croatian,soup,The dish is a spicy paprika based fish soup with bright red color.
+meimurska_gibanica,Međimurska gibanica,Croatian,cake,"The dish is a layered cake made from filo pastry, cheese, poppy seeds, and apples."
+frittella,Frittella,Croatian,doughnut,"The dish is made from dough with raisins, orange peel, and lemon peel on them with fillings."
+grahova_pretepena_juha,Grahova pretepena juha,Croatian,soup,"The dish is a thick bean soup with milk and cream, called white bean soup."
+paticada,Pašticada,Croatian,meat,The dish is a braised beef cooked in a sweet and sour dark sauce.
+krofne,Krofne,Albanian,doughnut,"The dish is an airy filled doughnuts made with jelly, marmalade, jam, or chocolate with cinnamon."
+areias,Areias,Portuguese,pastry,"The dish is a biscuit coated with sugar and cinnamon, which resemble sand."
+bacalhau_brs,Bacalhau à Brás,Portuguese,fish,"The dish is a shredded salted cod chopped with fried potatoes, cooked with eggs."
+tripas_moda_do_porto,Tripas à moda do Porto,Portuguese,rice,"The dish is a beef stomach with white beans, carrots, and rice."
+broa_de_avintes,Broa de Avintes,Portuguese,bread,"The dish is a dark brown, dense bread, made with maize and rye flours."
+folar,Folar,Portuguese,bread,The dish is a bread with melted sugar and cinammon.
+queijo_de_azeito,Queijo de Azeitão,Portuguese,cheese,The dish is a simple cheese made from sheep milk.
+po_de_mafra,Pão de Mafra,Portuguese,bread,"The dish is a staple bread commonly eaten with butter or jam, hams or cheeses."
+rojes,Rojões,Portuguese,meat,The dish is a fried pork with clams.
+bife_a_cavalo,Bife a cavalo,Portuguese,rice,"The dish consists of grilled or pan-fried steak with rice, beans, and salad."
+xarm,Xarém,Portuguese,soup,"The dish is a thick soup made with corn, clams, sardines, and grilled meats."
+cozido_portuguesa,Cozido à portuguesa,Portuguese,rice,"The dish is a mixed meal consisting of Vegetable, meat, and other toppings."
+cebolada,Cebolada,Portuguese,stew,"The dish is a onion stew, sauce, or paste."
+lokma,Lokma,Iraqi,dessert,"The dish is a dessert made of leavened and deep fried dough balls, soaked in syrup or honey, sometimes coated with cinnamon or other ingredients."
+akkawi,Akkawi,Israeli,cheese,"It is a white brine cheese, commonly made with pasteurized cow's milk, but can also be made with goat or sheepmilk. It is commonly used as a table cheese eaten by itself or paired with fruit."
+sopa_de_cacahuete,Sopa de cacahuete,African,soup,"The dish is a soup made from peanuts, often with various other ingredients"
+kilishi,Kilishi,Nigerien,meat,"It is a form of dried meat, typically made with beef, Lamb and mutton or goat."
+mechouia_salad,Mechouia salad,Tunisian,salad,"This dish is a grilled vegetable, tomatoes, peppers, onions and garlic salad, that may also contain eggplant."
+laffa,Laffa,Iraqi,bread,"The dish is s a large, thin flatbread with that is traditionally vegan and cooked in an oven. It is most often used to wrap falafel, kebab, and shawarma to make sandwiches, to dip in hummus, matbucha and other dips, or with shakshouka, and other dishes."
+malewa,Malewa,Ugandan,vegetable,The dish is a smoked bamboo shoot.
+apio,Apio,Balkan Jewish,salad,The dish is an appetizer which is made from celeriac and carrot and served cold.
+krembo,Krembo,Israeli,snack,"The dish is a chocolate-coated marshmallow treat that consists of a round biscuit base, topped with fluffy marshmallow creme-like foam, coated in a thin layer of sweet baking chocolate, and wrapped in colourful, thin aluminum foil."
+chipsi_mayai,Chipsi mayai,Tanzanian,egg,The dish is a simple potato-egg omelette.
+hutspot,Hutspot,Dutch,vegetable,"The dish is boiled and mashed potatoes, carrots, and onions."
+chai_tow_kway,Chai tow kway,Chaoshan,stir fry,The dish is stir-fried cubes of radish cake.
+cezerye,Cezerye,Turkish,dessert,"A semi-gelatinous dessert made from caramelised carrots, shredded coconut, and roasted walnuts, hazelnuts, or pistachios."
+porkkanalaatikko,Porkkanalaatikko,Finnish,casserole,"A dish are mashed carrots, mixed with boiled rice or barley, and liquid."
+tzfatit,Tzfatit,Israeli,cheese,"A semi-hard salty cheese, originally from sheep's milk. The milk is pasteurized at a low 72 °C (162 °F), which preserves the food proteins. Trimming is based largely on the action of enzymes contained in a special ferment and on calcium chloride rather than on the action of lactic acid. The fermentation is quick, about an hour. After the separation of most of the whey, the cheese is stored for several hours in straw or plastic baskets to drain the remaining whey and to form its round shape. For the remainder of the draining time, the cheese is inverted several times to help the draining and to form the basket's pattern on all sides."
+carrot_chip,Carrot chip,Global,snack,carrots that have been fried or dehydrated
+rujak_shanghai,Rujak shanghai,Indonesian,salad,"boiled sliced gurita (octopus) as well as edible jellyfish, kangkung, and served with thick red sweet and sour sauce, mixed with pineapple juice, and toasted crushed peanuts"
+ayam_buah_keluak,Ayam buah keluak,Malaysian,stew,"dish consisting of chicken (ayam), tamarind gravy and keluak nuts"
+pie_tee,Pie tee,Malaysian,pastry,"A thin and crispy pastry tart shell often filled with a spicy, shredded Chinese turnips, sweet mixture of thinly sliced vegetables and prawns"
+bakwan,Bakwan,Chinese,fritter,"beansprouts, shredded cabbages and carrots, battered and deep fried in cooking oil"
+sekoteng,Sekoteng,Indonesian,beverages,"a ginger-based hot drink which includes peanuts, diced bread, and tapioca pearls (known locally as pacar cina)"
+guazi,Guazi,Chinese,snack,"baked seeds of the sunflower, pumpkin, or watermelon seeds"
+youtiao,Youtiao,Chinese,snack,This dish is a long golden-brown deep-fried strip of wheat flour dough
+grass_jelly,Grass jelly,Chinese,dessert,"The jelly is made by boiling the aged and slightly oxidized stalks and leaves of Platostoma palustre (Mesona chinensis) with potassium carbonate and a little starch for several hours, then let it cool and served with sweet beverages. "
+yusheng,Yusheng,Chinese,salad,"This dish consists of strips of raw fish (sometimes salmon), mixed with shredded Vegetable and a variety of sauces and condiments, among other ingredients"
+albaloo_polo,Albaloo polo,Iranian,rice,"The dish is made with rice and sour cherries usually served with chicken, koobideh, or other types of kebab as well as some form of stews."
+kateh,Kateh,Iranian,rice,The dish is sticky rice dish and speed of cooking makes it popular for casual dinners.
+seenakku,Seenakku,Sri Lankan,rice,"The dish is a popular sweet, and is served with grated coconut."
+puffed_rice_cakes,Puffed rice cakes,Global,rice,"The dish is a flat hard food made with puffed rice. Typically, it is eaten as a snack or used as a base for other ingredients."
+shir_berenj,Shir Berenj,Persian,rice,"The dish is a rice pudding flavored with rose water, spices such as cinnamon or cardamom, and often containing almonds. It may be served warm or chilled as a dessert."
+bakabana,bakabana,Surinamese,fritter,The dish is a type of fried banana.
+huaian_pingqiao_tofu,Huai'an Pingqiao tofu,Chinese,tofu,"The dish is a mixed tofu with seafood, mushrooms, and chicken with soft textures."
+kwacoco,Kwacoco,Cameroonian,vegetable,The dish consisting in pureed cocoyam wrapped and steamed in banana leaves.
+dombolo,Dombolo,South African,bread,The dish is a steamed bread. It is a popular staple food. The bread is prepared in a container in a pot of boiling water.
+galletas_pesquera,Galletas pesquera,Filipino,snack,"The dish is characteristically very thin and disc-shaped, usually with three or more small perforations."
+picnic_biscuit,Picnic biscuit,Turkish,snack,"The dish is a type of small, rectangular biscuit. "
+beaver_tail,Beaver Tail,Canadian,snack,"The dish referred to quick-baked dough ""especially in early 19th-century places where people might camp for one night and where there was no frying pan."" It is a fried dough pastry that is specially hand-stretched into the shape of a beaver's tail."
+chasan,Chasan,Chinese,pastry,"The dish is golden brown and crispy. It is made by rolled wirelike strips. Usually, It has a variety of shapes. It is a kind of afternoon tea snack and that is why it is so named."
+hellimli,Hellimli,Cypriot,bread,The dish is a savoury pastry made with halloumi cheese.
+hot_water_crust_pastry,Hot water crust pastry,English,pastry,"The dish is a type of pastry used for savoury pies. It is traditionally used for producing hand-made pies. The pastry is made by heating water, melting the fat in it, bringing the mixture to a boil, and finally incorporating the flour. This can be done by beating the flour into the mixture in the pan, or by kneading on a pastry board. Either way, the result is a hot and rather sticky paste that can be used for hand-raising: shaping by hand, sometimes using a dish or bowl as an inner mould. The moulded crust retains its shape as it cools, and is prepared for baking with a filling and additional layer of pastry crust on top. Hand-raised does not produce a neat and uniform finish, as there will be sagging during the cooking of the filled pie. This is generally accepted as the mark of a hand-made pie. It is possible, however, to bake the pastry in a mould, as with other pies. "
+huff_paste,Huff paste,English,pastry,"The dish is a stiff pie shell made using a mixture of flour, suet, and boiling water. The pastry when cooked creates a tough protective layer around the food inside. When cooked, the pastry is generally discarded as it is virtually inedible. However, the shell becomes soaked with the meat juices and historically was sometimes eaten by house servants after the meal had concluded. Its main purpose is simply to create a solid container for the pie's ingredients. The flour itself is stronger than normal flour, often made from coarsely ground rye, and suet, which is mixed with hot water."
+malsouka,Malsouka,Global,pastry,The dish is a pastry sheet. It is created by spreading wafer-thin layers of batter on a heated pan rather than by rolling a raw dough.
+mantecada,Mantecada,Spanish,pastry,"The dish is spongy pastry, baked in square or rectangular box-shaped paper instead of in the typical muffin round paper cups. The pastry leaves a characteristic cross-shaped silhouette on the paper when it is removed."
+pastry_heart,Pastry heart,American,pastry,"The dish is a regional dessert item. The dish is a heart shaped flaky puff pastry, similar to a pastry in a palm leaf shape or a butterfly shape or palm leaves pastry, that is usually topped with a white sugar icing that has a hard shell but is soft on the inside."
+yurla,Yurla,Tibetan,pastry,The dish is a wheat pastry with butter.
+chestnut_pie,Chestnut pie,French,pastry,"A pie prepared with chestnuts as a primary ingredient.Shelled whole or chopped chestnuts may be used, which may be boiled or roasted. A chestnut purée may also be used."
+flipper_pie,Flipper pie,Canadian,pastry,"A meat pie made from harp seal flippers, cooked with Vegetable in a thick sauce and then covered with pastry."
+lanttusupikas,Lanttusupikas,Finnish,pastry,"A double-folded buttered flaky crust pie, filled with thin, braised swede slices and pork loin."
+wagafi_bread,Wagafi bread,Iranian,bread,"A type of bread that normally contains a greater amount of flour than normal bread. It is a flat, thin bread. The bread is made in a hole based on local tradition."
+ttongppang,Ttongppang,Korean,bread,It is bread filled with red bean paste and walnut bits that is shaped like stylized human feces.
+canadian_white_bread,Canadian white bread,Canadian,bread,Bread made from wheat or white flour. It usually has a protein content of 12 or 13%.
+cholermus,Cholermus,Swiss,pancake,"It is a kind of pancake, or ""shredded"", ""fried crepe"", that is typically eaten for supper."
+khubz,Khubz,Middle Eastern,bread,The dish is the usual word for bread.
+kisra,Kisra,Chadian,bread,The dish is a popular thin fermented bread.
+palianytsia,Palianytsia,Ukrainian,bread,The dish is a bread that has a semi-circular cut across the top third of the loaf.
+ngome,Ngome,Malian,bread,"The dish is a flatbread using only millet, water and vegetable oil."
+pambazo,Pambazo,Mexican,bread,The dish is a bread with golden and crispy in its outer layer and white and very light in its inner part.
+grater_cake,Grater cake,Jamaican,dessert,The dish is a dessert of grated coconut in a fondant of sugar.
+asham,Asham,Caribbean,dessert,"The dish is made by shelling dry corn, parching it, and then grinding it finely."
+red_peas_soup,Red Peas Soup,Jamaican,soup,"The dish is a soup made of kidney beans, seasonings such as scotch bonnet pepper, pimento seeds, etc. Traditionally, the broth includes a pigtail. "
+cocktion,Cocktion,Jamaican,dessert,The dish is made from parched corn and sugar rolled into balls and sometimes colored.
+fio_fio,Fio Fio,Nigerian,soup,The dish is a soup made of guinea pea and cocoyam.
+funkaso,Funkaso,Hausa,side dish,"The dish is a savoury fried dumpling made with wheat and eaten with soup, honey, or sugar."
+marghi_special,Marghi special,Nigerian,soup,"The dish is a soup made of fish with spinach, tomatoes, bean sprouts, and tamarind broth."
+isidudu,Isidudu,South African,porridge,The dish is a porridge made from ground corn.
+harqma,Harqma,Maghrebi,soup,The dish is a soup or stew prepared using lamb.
+tibs,Tibs,Ethiopian,meat,"The dish is a sauteed vegetable with meat, served in hot to mild temperatures."
+chaudin,Chaudin,American,meat,"The dish is a sausage-like variant made from ingredients sewn up in a pig's stomach, cooked with spices, and rice."
+stuffed_mallow,Stuffed mallow,Turkish,meat,"The dish is a mallow leaves, stuffed with meat lamb or rice."
+stuffed_melon,Stuffed melon,Turkish,fruit,The dish is a melon stuffed with meat lamb and rice.
+occhi_di_lupo,Occhi di lupo,Italian,pasta,"The dish is a large-sized, tubular stuffed pasta, served with a stuffing or filling."
+ayam_pansuh,Ayam pansuh,Indonesian,chicken,"The dish is a cooked chicken meat in a bamboo stalk, filled with water, seasonings, and covered with tapioca leaves from the cassave plan."
+ladera,Ladera,Ottoman,vegetable,This is a category of vegetable dishes cooked in olive oil.
+scovard,Scovardă,Romanian,pastry,This dish is a type of stuffed pastry. The dough is folded around the stuffing which usually consists of different types of cheese.
+carpetbag_steak,Carpetbag steak,British,meat,"This dish consists of an end cut of steak, such as scotch fillet or eye fillet. A pocket is cut in the meat via a small entry cut and then expanded internally, into which oysters are stuffed, and the opening closed with toothpicks or thread."
+eggplant_papoutsaki,Eggplant papoutsaki,Greek,vegetable,"This dish consists of eggplants which have been boiled or roasted and the tops cut off lengthwise, which is why they resemble little shoes."
+stuffed_sorrel,Stuffed sorrel,Mediterranean,vegetable,"This dish is made of sorrel leaves stuffed with meat (lamb) and rice, or more rarely rice only."
+zoervleis,Zoervleis,Belgian,stew,"This dish is a regional meat dish traditionally made with horse meat, but nowadays beef is commonly used. The meat is marinated in vinegar and often accompanied by french fries."
+alicot,Alicot,French,stew,"This dish is a stew made of the cheapest parts of poultry, slowly simmered."
+kadyos_baboy_kag_langka,"Kadyos, baboy, kag langka",Filipino,soup,"This dish is a pork soup or stew with pigeon peas, pork, and jackfruit used as the three main ingredients. The soup is also traditionally soured with batuan fruits."
+linatan,Linat-an,Filipino,stew,"The dish is a traditional pork stew. It characteristically uses pork ribs (or other bony cuts of pork) boiled and simmered until very tender, lemongrass, string beans, and starchy ingredients for a thicker soup (usually taro)."
+lobby,Lobby,British,stew,"The dish is a traditional stew or casserole, containing corned beef, potatoes and onion."
+lunggoi_katsa,Lunggoi Katsa,Tibetan,stew,"The dish is composed of stewed sheep's head, with curry, fennel, monosodium glutamate and salt."
+molagoottal,Molagoottal,Indian,stew,The dish is a stew with coconut and lentils as a base.
+sonofabitch_stew,Sonofabitch stew,American,stew,"The dish is a cowboy dish. Various recipes exist for this beef stew, and some sources say its ingredients may vary according to whatever is on hand."
+sagamite,Sagamite,American,stew,"The dish is made from hominy, cornmeal, or Indian corn and grease (from animal fat)."
+mulligan_stew,Mulligan stew,American,stew,The dish is broadly defined as a stew made of odds and ends or any available ingredients.
+ollada,Ollada,French,casserole,"The dish is a stew of potatoes, beans and cabbage or turnips."
+ostrich_stew,Ostrich stew,South African,stew,"This dish is a stew prepared using ostrich meat as a primary ingredient. The meat can be diced into cubes, and leg meat from the ostrich is sometimes used."
+purin,Purin,Japanese,dessert,The dish is custard pudding.
+gionb,Gionbō,Japanese,sweets,"This sweet is made using a particular variety of dried persimmon, and has the filling made from a soft form of rice cake with bean jam, then sprinkling white sugar over it."
+gyhi,Gyūhi,Japanese,rice,"This sweet is a softer variety of rice cake, which is made from either glutinous rice itself or from glutinous rice flour."
+chinese_flaky_pastry,Chinese flaky pastry,Chinese,pastry,"The dish is a form of unleavened flaky pastry. There are 2 versions, but both forms require creating two doughs: a ""water"" dough and an ""oil"" dough. The ""water"" dough requires mixing of flour, oil or fat, and warm water at a ratio of 10:3:4, while the ""oil"" dough requires direct mixing of flour and oil or fat at a ratio of 2:1 or 3:1, which provides for a crumbly mouthfeel and rich flavour. The two types of dough are systematically folded and rolled out to form multiple laminated layers of flaky dough, filled with various fillings, and baked at a temperature between 180 and 220 °C (356 and 428 °F)"
+colston_bun,Colston bun,English,bread,"The dish is a sweet bun made of a yeast dough flavoured with dried fruit such as currants, candied peel, and sweet spices."
+currant_bun,Currant bun,European,bread,The dish is a sweet bun that contains currants or raisins.
+london_bun,London bun,British,bread,The dish is a square-shaped bun made of rich yeast dough flavored with currants and candied peel topped with white sugar icing or crystallised sugar.
+spiced_bun,Spiced bun,Global,bread,The dish is a sweet bun to which spices were added during the baking process.
+penny_bun,Penny bun,English,bread,The dish is a small bread bun or loaf.
+flsklgg_med_rotmos,Fläsklägg med rotmos,Swedish,meat,"The dish consists cured ham hock is cooked for one to two hours together with onions, carrots, and allspice or similar vegetable. Rutabaga, potatoes and carrots are then diced and cooked soft in the broth, then drained and mashed. It may be served with different kinds of mustard; the preferred one is a traditional sweet mustard."
+amish_preaching_soup,Amish preaching soup,American,soup,The dish is a type of bean soup. Some versions are prepared with beans and ham hocks.
+yun_dou_juan,Yun dou juan,Chinese,beans,"This dish is a traditional dish made by boiling kidney beans and then steaming them. The beans are crushed into a paste, shaped into rectangles, layered with bean paste, and rolled up; the rolls are then sliced into smaller pieces for serving."
+ulava_charu,Ulava charu,Andhra,soup,"This dish is a soup like dish made with horse gram. The horse gram is boiled in water with salt, then strained from the soup before serving. "
+purtumute,Purtumute,Peruvian,stew,"The dish is prepared by stewing several types of beans and corn, seasoned made with coriander.
+"
+kulen,Kulen,Croatian,meat,The sausage is made of minced pork.
+chilorio,Chilorio,Mexican,meat,This dish is generally made from pork fried in chili sauce.
+frijoles_puercos,Frijoles Puercos,Mexican,beans,"This dish is characterized by blended beans stewed with lard, chile pepper, chorizo, Chihuahua cheese."
+rauchkse,Rauchkäse,German,cheese,"This is a type of smoked cheese, known for being semi-soft with a smoky brown rind. It is typically smoked using birch or spruce woods."
+balyk,Balyk,Turkish,fish,"The dish is the salted and dried soft parts of fish, usually coming from large valuable species. Over time, the term was applied to smoked fish of this kind."
+bijajica,Bijajica,Brazilian,sweets,"The dish is made by cassava starch, eggs, and sugar, fried in lard."
+manjar_branco,Manjar branco,Brazilian,dessert,The dish is pudding mold with coconut extract.
+sa,Sač,Turkish,meat,"The dish refer to a dish made of meat, vegetable and potatoes, baked in it."
+bacalhau_com_natas,Bacalhau com natas,Portuguese,fish,"The dish is made of salted cod baked with onions, diced potatoes, and double cream."
+chanfana,Chanfana,Portuguese,meat,The dish is a old goat meat roasted in wood-fired ovens.
+caravane_cheese,Caravane cheese,Mauritanian,cheese,
+catatos,Catatos,Angolan,meat,The dish is made with fried caterpillars and garlic. It is often served over rice.
+mabok,Maboké,Centrafrican,fish,"It is a fish dish, with roasted spices, wrapped in banana leaf."
+rolex,Rolex,Ugandan,bread,"The food is prepared by combining an egg omelette and vegetables wrapped in a flatbread. This single-portion dish is quick to prepare and can be eaten at any time of the day, from breakfast to lunch or supper or a snack."

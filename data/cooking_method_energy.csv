@@ -1,0 +1,16 @@
+cooking_method,energy_kwh_per_serving,source
+raw,0.0,No heating required
+cold,0.0,No heating required
+steam,0.3,US DOE MECS; estimated 15-30 min steaming
+boil,0.4,US DOE MECS; estimated 20-40 min boiling
+simmer,0.4,US DOE MECS; low-heat long duration
+stir_fry,0.5,"US DOE MECS; high heat 5-15 min, high power"
+saute,0.5,US DOE MECS; similar to stir-fry
+pan_fry,0.5,US DOE MECS; medium-high heat
+grill,0.6,US DOE MECS; high radiant heat
+bake,0.8,US DOE MECS; oven preheat + 30-60 min baking
+roast,0.8,US DOE MECS; similar to baking
+deep_fry,1.0,US DOE MECS; large oil volume heating + maintenance
+braise,1.2,US DOE MECS; long low-power cooking
+slow_cook,1.2,US DOE MECS; 4-8 hours low power
+smoke,1.5,US DOE MECS; extended duration + specialized equipment

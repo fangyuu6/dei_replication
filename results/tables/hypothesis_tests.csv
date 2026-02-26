@@ -1,0 +1,4 @@
+hypothesis,H_CV,E_CV,ratio,test,statistic,p_value,verdict,plant_median_DEI,animal_median_DEI,R2_composition,eta2_cuisine
+H1: CV(E) >> CV(H),0.03859091153011097,0.6426105961635595,16.651863630175093,Levene's F-test,121.11204968742453,4.8408690912319255e-24,SUPPORTED,,,,
+H2: Plant-based have higher DEI,,,,Mann-Whitney U (one-sided),4173.0,9.510172619485669e-05,SUPPORTED,3.614906838504788,3.294071470963158,,
+H3: Composition > Cuisine for DEI,,,,R² vs η² comparison,,,SUPPORTED,,,0.7840865222324924,0.05449729269883398

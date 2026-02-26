@@ -1,0 +1,6 @@
+model,features,R2,n
+chemistry_basic,fat+protein+calorie,0.0370818540287664,2387
+chemistry_full,fat_g+protein_g+calorie_kcal+umami_score+sodium_mg+sugar_g+spice_count,0.09335399223860552,2387
+cook_method,cook_method_dummies,0.03274813937702825,2387
+combined,chemistry+cook_method,0.11433374966756016,2387
+E_only,E_composite,0.016189198946027994,2387

@@ -1,0 +1,335 @@
+dish_id,category_recipe
+ackee_saltfish,Seafood Main
+adobo,Poultry Main
+aji_de_gallina,Poultry Main
+al_pastor,Pork Main
+aloo_gobi,Mixed/Other
+anticucho,Red Meat Main
+arancini,Starch/Carb
+arepa,Starch/Carb
+arroz_con_pollo,Poultry Main
+asado,Red Meat Main
+baba_ganoush,Mixed/Other
+bacalhau,Seafood Main
+bak_kut_teh,Pork Main
+baklava,Dessert
+banh_mi,Starch/Carb
+banh_xeo,Mixed/Other
+beef_bourguignon,Red Meat Main
+beef_tartare,Red Meat Main
+bibimbap,Starch/Carb
+biltong,Red Meat Main
+birria,Red Meat Main
+biryani,Poultry Main
+blini,Starch/Carb
+boat_noodles,Starch/Carb
+borek,Dairy Main
+borscht,Soup/Stew
+bossam,Pork Main
+bouillabaisse,Seafood Main
+bratwurst,Pork Main
+brisket,Red Meat Main
+brownie,Dessert
+bruschetta,Starch/Carb
+budae_jjigae,Mixed/Other
+buffalo_wings,Poultry Main
+bulgogi,Red Meat Main
+bun_bo_hue,Red Meat Main
+bun_cha,Pork Main
+bun_rieu,Starch/Carb
+burrito,Poultry Main
+butter_chicken,Poultry Main
+ca_phe_sua_da,Beverage
+caesar_salad,Mixed/Other
+caldo_verde,Soup/Stew
+callaloo,Soup/Stew
+cannoli,Dessert
+caprese,Dairy Main
+carnitas,Pork Main
+causa,Mixed/Other
+ceviche,Salad/Cold
+chana_masala,Plant Protein
+char_kway_teow,Starch/Carb
+char_siu,Pork Main
+char_siu_bao,Starch/Carb
+cheesecake,Dessert
+chicken_salad,Poultry Main
+chicken_sandwich,Poultry Main
+chilaquiles,Mixed/Other
+chile_relleno,Mixed/Other
+chili,Red Meat Main
+chimichurri,Mixed/Other
+chole_bhature,Plant Protein
+chow_fun,Starch/Carb
+chow_mein,Starch/Carb
+churrasco,Red Meat Main
+churro,Dessert
+churros_mexican,Dessert
+churros_spanish,Dessert
+clam_chowder,Soup/Stew
+club_sandwich,Mixed/Other
+cobb_salad,Mixed/Other
+coleslaw,Salad/Cold
+com_tam,Pork Main
+conch_fritters,Seafood Main
+congee,Starch/Carb
+coq_au_vin,Poultry Main
+coquito,Beverage
+cornbread,Starch/Carb
+couscous,Starch/Carb
+coxinha,Poultry Main
+creme_brulee,Dessert
+crepe,Mixed/Other
+croissant,Mixed/Other
+croquetas,Mixed/Other
+cubano_sandwich,Pork Main
+currywurst,Pork Main
+dakgalbi,Poultry Main
+dal,Plant Protein
+dan_dan_noodles,Starch/Carb
+dan_tat,Dessert
+dim_sum,Mixed/Other
+dim_sum_items,Seafood Main
+dolma,Starch/Carb
+donburi,Poultry Main
+doner_kebab,Red Meat Main
+doro_wot,Poultry Main
+dosa,Starch/Carb
+duck_confit,Poultry Main
+dumplings,Pork Main
+eclair,Dessert
+edamame,Plant Protein
+eggplant_parm,Mixed/Other
+eggs_benedict,Egg Dish
+egusi_soup,Soup/Stew
+elote,Starch/Carb
+enchilada,Poultry Main
+escargot,Dairy Main
+escovitch_fish,Seafood Main
+fajita,Poultry Main
+falafel,Plant Protein
+fattoush,Salad/Cold
+feijoada,Pork Main
+fesenjan,Poultry Main
+fish_and_chips,Seafood Main
+fish_tacos,Seafood Main
+focaccia,Starch/Carb
+fondue,Dairy Main
+french_fries,Mixed/Other
+french_onion_soup,Soup/Stew
+fresh_spring_roll,Mixed/Other
+fried_chicken,Poultry Main
+fried_rice,Starch/Carb
+fufu,Mixed/Other
+ful_medames,Plant Protein
+gado_gado,Plant Protein
+galaktoboureko,Dessert
+galette,Starch/Carb
+gambas_al_ajillo,Seafood Main
+gazpacho,Soup/Stew
+gelato,Dessert
+general_tso,Poultry Main
+ghormeh_sabzi,Red Meat Main
+gnocchi,Mixed/Other
+gozleme,Starch/Carb
+green_curry,Poultry Main
+grilled_cheese,Starch/Carb
+guacamole,Salad/Cold
+gulab_jamun,Dessert
+gyro,Red Meat Main
+gyudon,Red Meat Main
+halloumi,Dairy Main
+halo_halo,Beverage
+hamburger,Red Meat Main
+harissa,Mixed/Other
+horiatiki,Mixed/Other
+hot_and_sour_soup,Soup/Stew
+hot_dog,Mixed/Other
+hu_tieu,Starch/Carb
+hummus,Plant Protein
+ice_cream,Dessert
+idli,Starch/Carb
+injera,Starch/Carb
+iskender_kebab,Red Meat Main
+jalebi,Dessert
+japchae,Mixed/Other
+jerk_chicken,Poultry Main
+jjajangmyeon,Starch/Carb
+jokbal,Pork Main
+jollof_rice,Poultry Main
+karaage,Poultry Main
+kare_kare,Red Meat Main
+katsu,Pork Main
+katsu_curry,Pork Main
+kebab,Red Meat Main
+keftedes,Red Meat Main
+khao_man_gai,Poultry Main
+kibbeh,Red Meat Main
+kimbap,Starch/Carb
+kimchi,Salad/Cold
+kimchi_jjigae,Mixed/Other
+kitfo,Red Meat Main
+kofte,Red Meat Main
+koobideh,Red Meat Main
+korean_fried_chicken,Poultry Main
+korma,Poultry Main
+kunefe,Dessert
+kung_pao_chicken,Poultry Main
+labneh,Salad/Cold
+lagman,Starch/Carb
+lahmacun,Mixed/Other
+laksa,Starch/Carb
+larb,Pork Main
+lasagna,Red Meat Main
+lo_mein,Starch/Carb
+lobster_roll,Seafood Main
+lomo_saltado,Red Meat Main
+loukoumades,Dessert
+lumpia,Mixed/Other
+mac_and_cheese,Dairy Main
+macarons,Dessert
+mafe,Poultry Main
+malai_kofta,Dairy Main
+manakish,Starch/Carb
+mango_sticky_rice,Dessert
+manti_turkish,Mixed/Other
+manty,Red Meat Main
+mapo_tofu,Mixed/Other
+massaman_curry,Red Meat Main
+meatloaf,Red Meat Main
+mee_goreng,Starch/Carb
+minestrone,Mixed/Other
+miso_soup,Soup/Stew
+mofongo,Mixed/Other
+mole,Poultry Main
+moussaka,Red Meat Main
+muhammara,Mixed/Other
+mujaddara,Plant Protein
+naan,Starch/Carb
+nachos,Mixed/Other
+nasi_goreng,Starch/Carb
+nasi_lemak,Starch/Carb
+nasi_padang,Poultry Main
+nicoise_salad,Seafood Main
+okonomiyaki,Mixed/Other
+onigiri,Salad/Cold
+orange_chicken,Poultry Main
+osso_buco,Red Meat Main
+oxtail_stew,Red Meat Main
+pad_see_ew,Poultry Main
+pad_thai,Seafood Main
+paella,Mixed/Other
+pajeon,Mixed/Other
+palak_paneer,Dairy Main
+pancake,Mixed/Other
+paneer_butter,Dairy Main
+paneer_tikka,Dairy Main
+panna_cotta,Dessert
+pao_de_queijo,Mixed/Other
+papaya_salad,Salad/Cold
+pasta_bolognese,Red Meat Main
+pasta_carbonara,Starch/Carb
+pasteis_de_nata,Dessert
+pastelitos,Starch/Carb
+pastitsio,Red Meat Main
+patatas_bravas,Mixed/Other
+pav_bhaji,Mixed/Other
+peking_duck,Poultry Main
+penne_arrabbiata,Starch/Carb
+pernil,Pork Main
+pho,Red Meat Main
+picanha,Red Meat Main
+pide,Mixed/Other
+pierogi,Starch/Carb
+piri_piri,Poultry Main
+pita,Starch/Carb
+pizza,Starch/Carb
+pizza_margherita,Starch/Carb
+plantain,Mixed/Other
+plov,Red Meat Main
+polenta,Starch/Carb
+pot_roast,Red Meat Main
+poutine,Mixed/Other
+pozole,Pork Main
+pretzel,Starch/Carb
+profiterole,Dessert
+prosciutto,Mixed/Other
+pulled_pork,Pork Main
+pupusa,Starch/Carb
+quesadilla,Dairy Main
+quiche,Egg Dish
+raclette,Dairy Main
+raita,Salad/Cold
+ramen,Mixed/Other
+ratatouille,Mixed/Other
+ravioli,Mixed/Other
+red_curry,Poultry Main
+rendang,Red Meat Main
+ribs,Pork Main
+rice_and_peas,Plant Protein
+risotto,Starch/Carb
+rojak,Salad/Cold
+roti_caribbean,Mixed/Other
+saganaki,Dairy Main
+salt_pepper_squid,Seafood Main
+samgyeopsal,Pork Main
+samosa,Mixed/Other
+sancocho,Soup/Stew
+sardines_grilled,Seafood Main
+sashimi,Seafood Main
+satay,Poultry Main
+satay_indonesian,Poultry Main
+scallion_pancake,Starch/Carb
+schnitzel,Pork Main
+sfeeha,Mixed/Other
+shakshuka,Egg Dish
+shashlik,Red Meat Main
+shawarma,Poultry Main
+simit,Starch/Carb
+sinigang,Soup/Stew
+sisig,Pork Main
+som_tam,Salad/Cold
+sopes,Starch/Carb
+souffle,Egg Dish
+soup,Mixed/Other
+souvlaki,Pork Main
+spaetzle,Starch/Carb
+spanakopita,Mixed/Other
+spring_rolls,Mixed/Other
+steak,Red Meat Main
+stroganoff,Red Meat Main
+sundubu_jjigae,Plant Protein
+sushi,Seafood Main
+suya,Red Meat Main
+sweet_and_sour,Pork Main
+tabbouleh,Mixed/Other
+taco,Red Meat Main
+tagine,Red Meat Main
+tahdig,Starch/Carb
+takoyaki,Mixed/Other
+tamagoyaki,Egg Dish
+tamale,Mixed/Other
+tandoori_chicken,Poultry Main
+tapas,Mixed/Other
+tempura,Seafood Main
+teriyaki,Poultry Main
+thai_iced_tea,Beverage
+tikka_masala,Poultry Main
+tiramisu,Dessert
+tiropita,Dairy Main
+tom_kha,Soup/Stew
+tom_yum,Soup/Stew
+tonkotsu_ramen,Starch/Carb
+tortilla_espanola,Egg Dish
+tostones,Mixed/Other
+tteokbokki,Starch/Carb
+tzatziki,Salad/Cold
+udon,Starch/Carb
+uttapam,Starch/Carb
+vindaloo,Pork Main
+waffle,Mixed/Other
+warak_enab,Mixed/Other
+wonton_noodle,Starch/Carb
+wonton_soup,Mixed/Other
+xiao_long_bao,Mixed/Other
+yakitori,Poultry Main

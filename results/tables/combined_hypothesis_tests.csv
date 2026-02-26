@@ -1,0 +1,4 @@
+hypothesis,statistic,supported
+H1: CV(E)>>CV(H),CV ratio = 16.1x,True
+H2: Plant-based higher DEI,"t=21.78, p=6.25e-66",True
+H3: Composition >> Cuisine,R²=89.4% vs η²=7.3%,True

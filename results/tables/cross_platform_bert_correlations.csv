@@ -1,0 +1,8 @@
+Comparison,Type,N_dishes,Spearman_rho,Spearman_p,CI95_lo,CI95_hi,Pearson_r
+Google (BERT),convergent,156,0.698,4.005605349273337e-24,0.588,0.783,0.713
+TripAdvisor (BERT),convergent,157,0.588,5.427327975914084e-16,0.473,0.691,0.412
+Google (star×2),method_comparison,156,0.693,1.2801078364306313e-23,0.586,0.774,0.705
+TripAdvisor (star×2),method_comparison,157,0.613,1.349947789148311e-17,0.498,0.704,0.536
+Food.com (recipe rating),discriminant,110,0.113,0.23831594387856925,-0.073,0.301,0.027
+Food-Pics (visual),discriminant,25,0.175,0.4017184112492952,-0.271,0.545,0.018
+CroCoFiD (desire-to-eat),discriminant,11,-0.345,0.2980892209030388,-0.832,0.4,-0.375

@@ -1,0 +1,7 @@
+metric,value
+n_states,14.0
+n_cities,608.0
+state_gini,0.46090170829859106
+city_gini,0.8965221770400236
+top10_city_pct,64.17772693592627
+top3_state_pct,52.56671909732603

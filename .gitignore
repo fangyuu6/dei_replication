@@ -1,0 +1,55 @@
+# Raw data (too large for git)
+raw/
+
+# Model weights
+models/
+
+# Large parquet files
+data/restaurant_reviews.parquet
+data/dish_mentions.parquet
+data/tripadvisor_mentions_bert.parquet
+data/tripadvisor_mentions_bert_scored.parquet
+data/google_mentions_bert.parquet
+data/google_mentions_bert_scored.parquet
+data/foodcom_mentions_bert.parquet
+data/expanded_dish_mentions.parquet
+data/dish_mentions_scored.parquet
+data/restaurants.parquet
+data/llm_annotations.parquet
+
+# Large result files
+results/tables/cross_review_within_restaurant_pairs.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+NUL
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper/%OUTDIR%/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude local settings
+.claude/
+
+# Environment
+.env

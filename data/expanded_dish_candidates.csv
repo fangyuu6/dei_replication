@@ -1,0 +1,195 @@
+dish_id,mention_count,cuisine_group,viable
+fish_tacos,28432,Mexican+,True
+eggs_benedict,21140,American+,True
+pretzel,18077,European,True
+jerk_chicken,14497,Caribbean,True
+hot_dog,13746,American+,True
+carnitas,13106,Mexican+,True
+meatloaf,12586,American+,True
+cubano_sandwich,12183,Caribbean,True
+prosciutto,11898,Other,True
+plantain,11542,African,True
+horiatiki,11083,Greek,True
+cannoli,7710,Other,True
+al_pastor,7592,Mexican+,True
+mole,7495,Mexican+,True
+poutine,6740,American+,True
+polenta,6575,Other,True
+tzatziki,5444,Greek,True
+churros_mexican,5320,Mexican+,True
+satay_indonesian,5258,Indonesian/Malay,True
+cobb_salad,4937,American+,True
+eggplant_parm,4748,Other,True
+fondue,4456,European,True
+pao_de_queijo,3925,South American,True
+schnitzel,3862,European,True
+duck_confit,3731,French+,True
+croquetas,3692,Spanish+,True
+macarons,3538,French+,True
+focaccia,3391,Other,True
+oxtail_stew,3332,Caribbean,True
+pot_roast,3045,American+,True
+bratwurst,2995,European,True
+chimichurri,2970,South American,True
+arepa,2896,South American,True
+pupusa,2504,Caribbean,True
+conch_fritters,2385,Caribbean,True
+arancini,2377,Other,True
+beef_tartare,2373,French+,True
+birria,2359,Mexican+,True
+couscous,2295,African,True
+chilaquiles,2201,Mexican+,True
+tostones,2164,Caribbean,True
+warak_enab,2124,Lebanese,True
+tonkotsu_ramen,2028,Japanese+,True
+plov,2018,Central Asian/Persian,True
+gambas_al_ajillo,2012,Spanish+,True
+souvlaki,1994,Greek,True
+kofte,1933,Turkish,True
+mofongo,1710,Caribbean,True
+pierogi,1689,European,True
+adobo,1643,Filipino,True
+sopes,1607,Mexican+,True
+roti_caribbean,1576,Caribbean,True
+injera,1536,African,True
+saganaki,1454,Greek,True
+stroganoff,1353,European,True
+halloumi,1294,Lebanese,True
+massaman,1263,Other,True
+asado,1250,South American,True
+spaetzle,1230,European,True
+char_siu_bao,1212,Chinese+,True
+churrasco,1195,South American,True
+rice_and_peas,1172,Caribbean,True
+khao_man_gai,1133,Thai+,True
+karaage,1060,Japanese+,True
+harissa,1036,African,True
+arroz_con_pollo,1030,Caribbean,True
+shakshuka,1008,African,True
+bouillabaisse,932,French+,True
+eclair,912,French+,True
+lumpia,902,Filipino,True
+lomo_saltado,854,South American,True
+malai_kofta,816,Indian+,True
+doner_kebab,808,Turkish,True
+kibbeh,787,Lebanese,True
+gulab_jamun,784,Indian+,True
+labneh,750,Lebanese,True
+sardines_grilled,715,Portuguese,True
+wonton_noodle,663,Chinese+,True
+borscht,654,European,True
+pernil,630,Caribbean,True
+halo_halo,598,Filipino,True
+dim_sum_items,594,Chinese+,True
+tagine,590,African,True
+tortilla_espanola,569,Spanish+,True
+aloo_gobi,568,Indian+,True
+gyudon,563,Japanese+,True
+picanha,544,South American,True
+profiterole,542,French+,True
+rendang,541,Indonesian/Malay,True
+fattoush,536,Lebanese,True
+idli,477,Indian+,True
+piri_piri,417,African,True
+fufu,384,African,True
+banh_xeo,373,Vietnamese+,True
+manakish,364,Lebanese,True
+galette,358,French+,True
+nicoise_salad,355,French+,True
+pastitsio,343,Greek,True
+pajeon,341,Korean+,True
+sisig,326,Filipino,True
+kunefe,315,Turkish,True
+manty,314,Central Asian/Persian,True
+paneer_butter,313,Indian+,True
+pastelitos,308,Caribbean,True
+koobideh,296,Central Asian/Persian,True
+bandeja_paisa,295,South American,True
+currywurst,280,European,True
+chili,277,American+,True
+salt_pepper_squid,276,Chinese+,True
+manti_turkish,269,Turkish,True
+doro_wot,269,African,True
+hu_tieu,267,Vietnamese+,True
+laksa,267,Indonesian/Malay,True
+raclette,261,European,True
+dan_tat,255,Chinese+,True
+katsu_curry,254,Japanese+,True
+bun_rieu,246,Vietnamese+,True
+ful_medames,244,African,True
+jjajangmyeon,232,Korean+,True
+nasi_lemak,216,Indonesian/Malay,True
+som_tam,216,Thai+,True
+pide,215,Turkish,True
+borek,208,Turkish,True
+aji_de_gallina,201,South American,True
+sancocho,198,South American,True
+jollof_rice,196,African,True
+kare_kare,194,Filipino,True
+bacalhau,194,Portuguese,True
+pav_bhaji,192,Indian+,True
+callaloo,189,Caribbean,True
+feijoada,186,South American,True
+anticucho,185,South American,True
+kitfo,171,African,True
+causa,163,South American,True
+iskender_kebab,160,Turkish,True
+muhammara,154,Lebanese,True
+mee_goreng,129,Indonesian/Malay,True
+sinigang,124,Filipino,True
+lahmacun,119,Turkish,True
+uttapam,114,Indian+,True
+ackee_saltfish,113,Caribbean,True
+blini,102,European,True
+nasi_goreng,102,Indonesian/Malay,True
+chole_bhature,97,Indian+,True
+mujaddara,94,Lebanese,True
+galaktoboureko,92,Greek,True
+keftedes,85,Greek,True
+escovitch_fish,82,Caribbean,True
+tiropita,79,Greek,True
+gado_gado,74,Indonesian/Malay,True
+egusi_soup,71,African,True
+budae_jjigae,69,Korean+,True
+coxinha,66,South American,True
+char_kway_teow,64,Indonesian/Malay,True
+coquito,53,Caribbean,True
+jalebi,50,Indian+,True
+bossam,49,Korean+,True
+loukoumades,49,Greek,True
+lagman,48,Central Asian/Persian,True
+shashlik,47,Central Asian/Persian,True
+boat_noodles,46,Thai+,True
+ghormeh_sabzi,45,Central Asian/Persian,True
+suya,33,African,True
+tahdig,30,Central Asian/Persian,True
+mafe,27,African,True
+okra_soup,26,Other,True
+fesenjan,24,Central Asian/Persian,True
+simit,21,Turkish,True
+biltong,20,African,True
+gozleme,20,Turkish,True
+tamagoyaki,17,Japanese+,True
+caldo_verde,17,Portuguese,True
+dakgalbi,16,Korean+,True
+nasi_padang,16,Indonesian/Malay,True
+sfeeha,15,Lebanese,True
+rojak,13,Indonesian/Malay,True
+pasteis_de_nata,13,Portuguese,True
+bak_kut_teh,12,Indonesian/Malay,True
+jokbal,12,Korean+,True
+kisir,7,Turkish,False
+clay_pot_rice,5,Chinese+,False
+zereshk_polo,5,Central Asian/Persian,False
+empanada_argentina,5,South American,False
+bunny_chow,5,African,False
+joojeh_kabab,4,Central Asian/Persian,False
+kashk_bademjan,3,Central Asian/Persian,False
+bobotie,3,African,False
+francesinha,3,Portuguese,False
+gaeng_keow_wan,3,Other,False
+ash_reshteh,2,Central Asian/Persian,False
+roast_goose,2,Chinese+,False
+pho_cuon,1,Vietnamese+,False
+pastel_brasileiro,1,South American,False
+thieboudienne,1,African,False

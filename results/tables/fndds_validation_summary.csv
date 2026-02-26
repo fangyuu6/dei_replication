@@ -1,0 +1,2 @@
+n_matched_dishes,n_total_dishes,pct_matched,protein_pearson_r,protein_p_value,protein_mean_ratio,ndi_spearman_rho,ndi_spearman_p,dein_ranking_rho
+113,334,33.83233532934132,0.8135242874195863,6.816650225260541e-28,1.0977086352718843,0.7067918690531639,2.1853895820186384e-18,0.9485577882759999

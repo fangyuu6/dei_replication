@@ -1,0 +1,177 @@
+OLS Regression: log(DEI) = log(H) - log(E)
+============================================================
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                log_DEI   R-squared:                       0.848
+Model:                            OLS   Adj. R-squared:                  0.812
+Method:                 Least Squares   F-statistic:                     23.64
+Date:                Wed, 25 Feb 2026   Prob (F-statistic):           1.01e-38
+Time:                        11:43:07   Log-Likelihood:                -44.048
+No. Observations:                 158   AIC:                             150.1
+Df Residuals:                     127   BIC:                             245.0
+Df Model:                          30                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     5.9609      0.641      9.295      0.000       4.692       7.230
+n_ingredients             0.0384      0.031      1.253      0.212      -0.022       0.099
+total_grams              -0.0005      0.001     -1.003      0.318      -0.002       0.000
+log_E_carbon             -0.0474      0.082     -0.581      0.562      -0.209       0.114
+log_E_water              -0.4523      0.108     -4.196      0.000      -0.666      -0.239
+log_E_energy             -0.0779      0.030     -2.618      0.010      -0.137      -0.019
+cuisine_Chinese          -0.0049      0.149     -0.033      0.974      -0.299       0.290
+cuisine_French            0.2088      0.161      1.300      0.196      -0.109       0.527
+cuisine_Indian            0.1517      0.155      0.978      0.330      -0.155       0.459
+cuisine_Italian           0.0051      0.139      0.037      0.971      -0.270       0.280
+cuisine_Japanese         -0.1342      0.137     -0.979      0.329      -0.405       0.137
+cuisine_Korean            0.1359      0.162      0.840      0.402      -0.184       0.456
+cuisine_Mediterranean     0.1477      0.155      0.951      0.343      -0.160       0.455
+cuisine_Mexican           0.2145      0.140      1.531      0.128      -0.063       0.492
+cuisine_Other            -0.3719      0.169     -2.194      0.030      -0.707      -0.037
+cuisine_Spanish           0.3387      0.200      1.694      0.093      -0.057       0.734
+cuisine_Thai              0.3094      0.159      1.943      0.054      -0.006       0.625
+cuisine_Vietnamese        0.2652      0.177      1.502      0.136      -0.084       0.615
+method_boil               0.3479      0.130      2.669      0.009       0.090       0.606
+method_braise             0.0719      0.240      0.299      0.765      -0.404       0.547
+method_cold               0.6010      0.442      1.361      0.176      -0.273       1.475
+method_deep_fry          -0.1459      0.126     -1.156      0.250      -0.396       0.104
+method_grill             -0.0249      0.130     -0.191      0.848      -0.282       0.232
+method_pan_fry            0.2597      0.157      1.658      0.100      -0.050       0.570
+method_raw                0.3578      0.402      0.889      0.376      -0.438       1.154
+method_roast              0.1997      0.190      1.050      0.296      -0.176       0.576
+method_simmer             0.2461      0.125      1.974      0.051      -0.001       0.493
+method_slow_cook          0.3234      0.380      0.851      0.397      -0.429       1.076
+method_smoke              0.2026      0.289      0.701      0.484      -0.369       0.774
+method_steam              0.6928      0.205      3.382      0.001       0.287       1.098
+method_stir_fry           0.0473      0.160      0.296      0.768      -0.269       0.364
+==============================================================================
+Omnibus:                       32.333   Durbin-Watson:                   1.979
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               60.137
+Skew:                          -0.958   Prob(JB):                     8.74e-14
+Kurtosis:                       5.338   Cond. No.                     7.20e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 7.2e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+============================================================
+Separate log(H) Regression
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  log_H   R-squared:                       0.326
+Model:                            OLS   Adj. R-squared:                  0.167
+Method:                 Least Squares   F-statistic:                     2.047
+Date:                Wed, 25 Feb 2026   Prob (F-statistic):            0.00325
+Time:                        11:43:07   Log-Likelihood:                -35.584
+No. Observations:                 158   AIC:                             133.2
+Df Residuals:                     127   BIC:                             228.1
+Df Model:                          30                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     1.9655      0.608      3.233      0.002       0.763       3.168
+n_ingredients             0.0161      0.029      0.554      0.581      -0.041       0.074
+total_grams              -0.0008      0.000     -1.754      0.082      -0.002       0.000
+log_E_carbon              0.1878      0.077      2.429      0.017       0.035       0.341
+log_E_water              -0.0409      0.102     -0.401      0.689      -0.243       0.161
+log_E_energy              0.0113      0.028      0.400      0.690      -0.045       0.067
+cuisine_Chinese           0.0487      0.141      0.345      0.730      -0.230       0.328
+cuisine_French            0.2756      0.152      1.810      0.073      -0.026       0.577
+cuisine_Indian            0.2597      0.147      1.767      0.080      -0.031       0.551
+cuisine_Italian           0.1172      0.132      0.891      0.375      -0.143       0.377
+cuisine_Japanese         -0.0700      0.130     -0.539      0.591      -0.327       0.187
+cuisine_Korean            0.1633      0.153      1.066      0.289      -0.140       0.467
+cuisine_Mediterranean     0.3163      0.147      2.149      0.034       0.025       0.608
+cuisine_Mexican           0.2465      0.133      1.856      0.066      -0.016       0.509
+cuisine_Other            -0.2608      0.161     -1.624      0.107      -0.579       0.057
+cuisine_Spanish           0.4084      0.190      2.154      0.033       0.033       0.784
+cuisine_Thai              0.2962      0.151      1.962      0.052      -0.003       0.595
+cuisine_Vietnamese        0.3261      0.167      1.948      0.054      -0.005       0.657
+method_boil               0.1248      0.124      1.010      0.315      -0.120       0.369
+method_braise             0.1404      0.228      0.617      0.539      -0.310       0.591
+method_cold               0.5198      0.419      1.241      0.217      -0.309       1.348
+method_deep_fry           0.0302      0.120      0.252      0.801      -0.206       0.267
+method_grill             -0.1289      0.123     -1.047      0.297      -0.373       0.115
+method_pan_fry            0.1309      0.148      0.882      0.379      -0.163       0.425
+method_raw                0.2533      0.381      0.664      0.508      -0.501       1.008
+method_roast              0.0894      0.180      0.496      0.620      -0.267       0.446
+method_simmer             0.0447      0.118      0.378      0.706      -0.189       0.279
+method_slow_cook          0.5059      0.360      1.404      0.163      -0.207       1.219
+method_smoke              0.3698      0.274      1.350      0.179      -0.172       0.912
+method_steam              0.3127      0.194      1.610      0.110      -0.072       0.697
+method_stir_fry          -0.0989      0.151     -0.653      0.515      -0.399       0.201
+==============================================================================
+Omnibus:                       50.725   Durbin-Watson:                   1.762
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              150.953
+Skew:                          -1.255   Prob(JB):                     1.66e-33
+Kurtosis:                       7.078   Cond. No.                     7.20e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 7.2e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+============================================================
+Separate log(E) Regression
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  log_E   R-squared:                       0.967
+Model:                            OLS   Adj. R-squared:                  0.960
+Method:                 Least Squares   F-statistic:                     125.0
+Date:                Wed, 25 Feb 2026   Prob (F-statistic):           3.03e-80
+Time:                        11:43:07   Log-Likelihood:                 86.824
+No. Observations:                 158   AIC:                            -111.6
+Df Residuals:                     127   BIC:                            -16.71
+Df Model:                          30                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -3.9954      0.280    -14.263      0.000      -4.550      -3.441
+n_ingredients            -0.0223      0.013     -1.667      0.098      -0.049       0.004
+total_grams              -0.0003      0.000     -1.510      0.134      -0.001       0.000
+log_E_carbon              0.2352      0.036      6.600      0.000       0.165       0.306
+log_E_water               0.4113      0.047      8.737      0.000       0.318       0.504
+log_E_energy              0.0892      0.013      6.862      0.000       0.063       0.115
+cuisine_Chinese           0.0537      0.065      0.825      0.411      -0.075       0.182
+cuisine_French            0.0668      0.070      0.952      0.343      -0.072       0.206
+cuisine_Indian            0.1081      0.068      1.595      0.113      -0.026       0.242
+cuisine_Italian           0.1121      0.061      1.849      0.067      -0.008       0.232
+cuisine_Japanese          0.0642      0.060      1.073      0.285      -0.054       0.183
+cuisine_Korean            0.0274      0.071      0.388      0.699      -0.112       0.167
+cuisine_Mediterranean     0.1686      0.068      2.485      0.014       0.034       0.303
+cuisine_Mexican           0.0320      0.061      0.523      0.602      -0.089       0.153
+cuisine_Other             0.1111      0.074      1.500      0.136      -0.035       0.258
+cuisine_Spanish           0.0697      0.087      0.798      0.427      -0.103       0.243
+cuisine_Thai             -0.0133      0.070     -0.191      0.849      -0.151       0.124
+cuisine_Vietnamese        0.0609      0.077      0.789      0.432      -0.092       0.213
+method_boil              -0.2232      0.057     -3.920      0.000      -0.336      -0.111
+method_braise             0.0685      0.105      0.653      0.515      -0.139       0.276
+method_cold              -0.0812      0.193     -0.421      0.674      -0.463       0.301
+method_deep_fry           0.1761      0.055      3.195      0.002       0.067       0.285
+method_grill             -0.1041      0.057     -1.834      0.069      -0.216       0.008
+method_pan_fry           -0.1288      0.068     -1.882      0.062      -0.264       0.007
+method_raw               -0.1045      0.176     -0.594      0.553      -0.452       0.243
+method_roast             -0.1102      0.083     -1.327      0.187      -0.275       0.054
+method_simmer            -0.2014      0.054     -3.699      0.000      -0.309      -0.094
+method_slow_cook          0.1825      0.166      1.099      0.274      -0.146       0.511
+method_smoke              0.1672      0.126      1.325      0.188      -0.083       0.417
+method_steam             -0.3801      0.089     -4.247      0.000      -0.557      -0.203
+method_stir_fry          -0.1462      0.070     -2.094      0.038      -0.284      -0.008
+==============================================================================
+Omnibus:                       20.476   Durbin-Watson:                   2.260
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               97.542
+Skew:                           0.075   Prob(JB):                     6.59e-22
+Kurtosis:                       6.846   Cond. No.                     7.20e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 7.2e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

@@ -1,0 +1,11 @@
+metric,value
+spearman_rho,0.9985943753717528
+kendall_tau,0.975489800854632
+H_pct_original,0.2555645556136864
+H_pct_controlled,0.10297645660239053
+H_cv_original,3.85886005948963
+H_cv_controlled,2.4635894760253847
+tier_agreement_pct,94.9367088607595
+mean_abs_rank_shift,1.5822784810126582
+regression_r_squared,0.07695989612151632
+n_dishes_matched,158.0

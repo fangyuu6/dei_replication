@@ -1,0 +1,15 @@
+category,metric,original,revised
+Dataset,Total dishes,334,334 (enriched)
+Dataset,New columns added,21,35
+H Score,CV (%),4.0,4.0 (acknowledged; decompression analysed)
+H Score,H_controlled CV (%),—,2.5
+Variance,H contribution (%),0.3,0.3 (0.1% after proxy control)
+Variance,E contribution (%),99.8,99.8 (99.9% after proxy control)
+Rankings,DEI vs DEI_ctrl rank ρ,—,0.9986
+Rankings,DEI vs DEI-N rank ρ,—,0.931
+Substitutions,"Unconstrained (E↓30%, H↓<1)","6,658","6,658"
+Substitutions,Nutrition-constrained,—,"1,980"
+Pareto,2D Pareto-optimal dishes,11,11
+Pareto,"3D Pareto (H, 1/E, NDI)",—,18
+New,Dish families analysed,—,15
+New,Mean hedonic elasticity (α),—,-0.055

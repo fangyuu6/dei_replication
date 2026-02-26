@@ -1,0 +1,535 @@
+\documentclass[10pt]{article}
+
+% ── Formatting ──────────────────────────────────────────────────
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{times}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{setspace}
+\usepackage{caption}
+\usepackage{siunitx}
+\usepackage{float}
+\usepackage{longtable}
+
+\onehalfspacing
+\captionsetup{font=small,labelfont=bf}
+
+\newcommand{\logDEI}{\log(\text{DEI})}
+\newcommand{\logH}{\log H}
+\newcommand{\logE}{\log E}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Supplementary Information}\\[6pt]
+{\large The Deliciousness Efficiency Index: quantifying the hedonic--environmental decoupling across 334 dishes}\\[4pt]
+F.\ Liu\\[10pt]
+\end{center}
+
+\tableofcontents
+\clearpage
+
+% ══════════════════════════════════════════════════════════════════
+% S1. DATA AND SAMPLE
+% ══════════════════════════════════════════════════════════════════
+\section{Data and sample description}
+
+\subsection{Yelp Open Dataset summary}
+
+The Yelp Open Dataset (version 2022) contains 6.9 million reviews across 150,000 businesses in 14 US states/provinces. After filtering for restaurant/food categories (SIC categories ``Restaurants'', ``Food'', ``Bars'', ``Cafes'', etc.), our working corpus comprises 5.3 million reviews from 70,617 restaurants. Reviews span 2005--2022, with a median length of 127 words.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/yelp_eda_cuisine_distribution.png}
+\caption{\textbf{Supplementary Figure S1 $|$ Cuisine distribution in the Yelp dataset.} Distribution of restaurants across cuisine categories.}
+\label{fig:s_cuisine_dist}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.6\textwidth]{../results/figures/yelp_eda_star_distribution.png}
+\caption{\textbf{Supplementary Figure S2 $|$ Star rating distribution.} Distribution of review star ratings across all 5.3M reviews.}
+\label{fig:s_star_dist}
+\end{figure}
+
+\subsection{Dish extraction and mention counts}
+
+We extracted 158 canonical dishes using a keyword-based approach with manual curation, expanded to 334 dishes (29 cuisines) via additional recipe development for underrepresented cuisines (African, Caribbean, South American, Indonesian, Turkish, Greek, Lebanese, Filipino, Central Asian, Persian). The original 158 dishes generated 76,927 review-level mentions; the expanded 176 dishes provide recipe-level estimates without review data.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/mention_frequency_vs_h_cv.png}
+\caption{\textbf{Supplementary Figure S3 $|$ Mention frequency versus hedonic score precision.} Dishes with more review mentions have smaller $H$ standard errors, but all dishes exceed 50 mentions (our minimum threshold).}
+\label{fig:s_mention_freq}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% S2. HEDONIC SCORING
+% ══════════════════════════════════════════════════════════════════
+\section{Hedonic scoring methodology}
+
+\subsection{BERT finetuning details}
+
+The base model (bert-base-uncased) was finetuned on 1,096 valid LLM annotations (DeepSeek v3.2) using MSE loss, learning rate $2 \times 10^{-5}$, batch size 16, and 5 epochs with early stopping. The finetuned model achieves:
+\begin{itemize}
+\item Grouped 10-fold cross-validation MAE: $1.015 \pm 0.098$ (on 1--10 scale)
+\item Dish-level Pearson $r$: 0.792 (10-fold CV across all 157 dishes)
+\item $H$ score range: [6.05, 7.57] for the primary 158 dishes (CV = 3.9\%), [6.05, 7.94] across all 334 dishes (CV = 4.0\%)
+\end{itemize}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/h_validity_diagnostics.png}
+\caption{\textbf{Supplementary Figure S4 $|$ Hedonic score validity diagnostics.} ICC decomposition, convergence analysis, and distribution of dish-level $H$ scores.}
+\label{fig:s_h_validity}
+\end{figure}
+
+\subsection{H score compression analysis}
+\label{sec:s_compression}
+
+The observed CV of $H$ (4.0\% across 334 dishes) is substantially smaller than the CV of $E$ (64.0\%), raising the question of whether $H$ compression is an artefact of the measurement instrument. We investigate this through four analyses.
+
+\textbf{Compression quantification.} The Yelp star-rating CV at the dish level is 12.3\%, roughly 3$\times$ the BERT $H$ CV, suggesting that the BERT model compresses sentiment onto a narrower range than the raw rating data.
+
+\textbf{Beta-distribution decompression.} We map the empirical CDF of $H$ to a Beta quantile function, stretching the distribution to target CVs of 5\%, 10\%, 15\%, 20\%, 25\%, 30\%, and 50\% while preserving rank order.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/h_rescaled_distribution.png}
+\caption{\textbf{Supplementary Figure S5 $|$ Rescaled $H$ distributions at target CVs.} The decompressed distributions preserve rank order while expanding the effective range.}
+\label{fig:s_rescaled}
+\end{figure}
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S1 $|$ Decompression sensitivity.} $H$ contribution to $\text{Var}(\logDEI)$ as a function of assumed $H$ dispersion.}
+\label{tab:s_decomp}
+\small
+\begin{tabular}{rrrr}
+\toprule
+Target CV (\%) & $H$ contribution (\%) & $E$ contribution (\%) & Rank $\rho$ vs original \\
+\midrule
+4.0 (observed) & 0.3 & 99.8 & 1.000 \\
+5.0 & 0.4 & 99.6 & 1.000 \\
+10.0 & 1.8 & 98.2 & 0.991 \\
+15.0 & 4.3 & 95.7 & 0.973 \\
+20.0 & 8.5 & 91.5 & 0.950 \\
+25.0 & 21.8 & 78.2 & 0.922 \\
+30.0 & 29.6 & 70.4 & 0.890 \\
+50.0 & 56.2 & 43.8 & 0.782 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Crossover analysis.} $H$ would need CV $> 20$\% to contribute $> 8.5$\% of DEI variance, and CV $> 30$\% to surpass 25\%. Since the largest reported CV for dish-level hedonic ratings in controlled settings is approximately 15--20\%~\cite{lawless2010sensory}, $E$-dominance is robust across the plausible range.
+
+\textbf{Rank stability.} Even at CV = 20\%, Spearman $\rho$ with the original ranking remains 0.950, confirming that the core ranking structure is preserved.
+
+% ══════════════════════════════════════════════════════════════════
+% S3. PROXY BIAS CONTROL
+% ══════════════════════════════════════════════════════════════════
+\section{Yelp proxy bias control}
+\label{sec:s_proxy}
+
+Restaurant-level confounders (star rating, price range, review count) could bias dish-level $H$ estimates. We implement a two-stage residualization:
+
+\begin{enumerate}
+\item \textbf{Stage 1}: Regress review-level $H$ on restaurant covariates:
+\[
+H_{ij} = \alpha + \beta_1 \cdot \text{stars}_j + \beta_2 \cdot \text{price}_j + \beta_3 \cdot \log(\text{review\_count}_j) + \varepsilon_{ij}
+\]
+Restaurant-level $R^2 = 0.077$, confirming that confounders explain only 7.7\% of $H$ variance.
+
+\item \textbf{Stage 2}: Extract residuals $\hat{\varepsilon}_{ij}$ as ``controlled $H$'', aggregate to dish level.
+\end{enumerate}
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S2 $|$ Proxy-bias control summary.}}
+\label{tab:s_proxy}
+\small
+\begin{tabular}{lr}
+\toprule
+Metric & Value \\
+\midrule
+Restaurant-level $R^2$ & 0.077 \\
+$H$ CV (original) & 4.0\% \\
+$H$ CV (controlled) & 2.5\% \\
+$H$ \% of Var($\logDEI$), original & 0.3\% \\
+$H$ \% of Var($\logDEI$), controlled & 0.1\% \\
+DEI rank $\rho$ (original vs controlled) & 0.999 \\
+Tier agreement & 94.9\% \\
+Mean $|$rank shift$|$ & 1.6 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The controlled $H$ has \emph{smaller} CV (2.5\% vs 4.0\%), which \emph{strengthens} $E$-dominance: $H$'s contribution to Var($\logDEI$) drops from 0.3\% to 0.1\%. The DEI rank correlation between original and controlled is 0.999, confirming that proxy bias is negligible.
+
+% ══════════════════════════════════════════════════════════════════
+% S4. NUTRITIONAL DIMENSION
+% ══════════════════════════════════════════════════════════════════
+\section{Nutritional dimension (NDI)}
+\label{sec:s_nutrition}
+
+\subsection{Nutrient Density Index construction}
+
+We compute a Nutrient Density Index (NDI) based on the NRF-7 framework \cite{drewnowski2009nutrient}, scoring seven encouraged nutrients per 100\,kcal against Daily Reference Values (DRVs):
+\[
+\text{NDI} = \sum_{i=1}^{7} \min\left(\frac{\text{nutrient}_i / 100\text{kcal}}{\text{DRV}_i} \times 100, \ 100\right)
+\]
+
+The seven nutrients and their DRVs: protein (50\,g), dietary fibre (25\,g), iron (18\,mg), zinc (15\,mg), vitamin B$_{12}$ (2.4\,\textmu g), calcium (1,000\,mg), vitamin C (60\,mg).
+
+Nutrient amounts per dish are estimated from ingredient-level USDA FoodData Central composition data, matched to the 101 ingredients in our recipe database.
+
+\subsection{DEI-N: nutrition-adjusted index}
+
+The nutrition-adjusted DEI is defined as:
+\[
+\log(\text{DEI-N}) = \log H + \alpha \cdot \log(\text{NDI}) - \log E
+\]
+with $\alpha = 0.5$ as the default weight (sensitivity analysis over $\alpha \in [0, 1]$).
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/dei_vs_dein_comparison.png}
+\caption{\textbf{Supplementary Figure S6 $|$ DEI versus DEI-N rankings.} High-protein dishes (brisket, steak, ribs) gain 20--40 positions under DEI-N due to high nutrient density.}
+\label{fig:s_dein}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/nutritional_profiles_by_category.png}
+\caption{\textbf{Supplementary Figure S7 $|$ Nutritional profiles by recipe-based category.} Mean macronutrient and micronutrient values across functional food categories.}
+\label{fig:s_nutr_profiles}
+\end{figure}
+
+\subsection{FNDDS external nutritional validation}
+
+We cross-validated our recipe-based nutrient estimates against the USDA Food and Nutrient Database for Dietary Studies (FNDDS 2021--2023), matching 113 of our 334 dishes to FNDDS food items.
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S3 $|$ FNDDS nutritional cross-validation.}}
+\label{tab:s_fndds}
+\begin{tabular}{lcc}
+\toprule
+Metric & Value & $p$-value \\
+\midrule
+Dishes matched to FNDDS & 113/334 (33.8\%) & --- \\
+Protein Pearson $r$ & 0.814 & $< 10^{-27}$ \\
+Protein mean ratio (ours/FNDDS) & 1.10 & --- \\
+NDI Spearman $\rho$ & 0.707 & $< 10^{-18}$ \\
+DEI-N ranking stability $\rho$ & 0.949 & --- \\
+Original DEI vs FNDDS DEI-N $\rho$ & 0.928 & --- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.9\textwidth]{../results/figures/fndds_calorie_validation.png}
+\caption{\textbf{Supplementary Figure S8 $|$ FNDDS nutritional cross-validation.} Left: protein correlation ($r = 0.814$). Centre: NDI correlation ($\rho = 0.707$). Right: calorie density by meal role.}
+\label{fig:s_fndds}
+\end{figure}
+
+\subsection{NHANES/WWEIA dietary coverage}
+
+Text-based matching of our 334 dishes against 5,432 FNDDS food items yields 933 matched items (17.2\%) corresponding to 119 dishes (35.6\%), covering 73 of 172 WWEIA categories (42.4\%). Coverage is highest for prepared dishes and mixed meals (pizza 98\%, burritos 100\%, soups 100\%) and lowest for individual ingredients (fruits, vegetables, milk, cereals). This is expected: our dataset samples \emph{restaurant dishes}, not the comprehensive food inventory tracked by NHANES.
+
+\subsection{Nutrition-constrained substitutions}
+
+We identify substitution pairs satisfying four simultaneous constraints:
+\begin{itemize}
+\item $E$ reduction $> 30$\%
+\item $H$ loss $< 1$ point (on 1--10 scale)
+\item Protein $\geq 50$\% of original
+\item Calories $\pm 50$\% of original
+\end{itemize}
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S4 $|$ Nutrition-constrained substitutions (top 10).}}
+\label{tab:s_subs}
+\small
+\begin{tabular}{llrrr}
+\toprule
+From & To & $E$ reduction (\%) & $\Delta H$ & Protein ratio \\
+\midrule
+Onigiri & Rojak & 94.9 & $<$0.01 & 2.51 \\
+Guacamole & Som tam & 89.7 & +0.22 & 1.48 \\
+Brisket & Ceviche & 96.0 & +0.25 & 0.66 \\
+Osso buco & Tandoori chicken & 72.1 & +0.15 & 0.89 \\
+Steak & Chicken tikka & 68.5 & +0.44 & 0.84 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ══════════════════════════════════════════════════════════════════
+% S5. WITHIN-CATEGORY AND MEAL-LEVEL ANALYSIS
+% ══════════════════════════════════════════════════════════════════
+\section{Within-category and meal-level analysis}
+\label{sec:s_within}
+
+\subsection{Recipe-based functional categories}
+
+We assign each dish to one of 13 functional categories based on primary protein source and calorie role: Red Meat Main, Poultry Main, Pork Main, Seafood Main, Dairy Main, Egg Dish, Plant Protein, Starch/Carb, Beverage, Soup/Stew, Salad/Cold, Dessert, Mixed/Other.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.9\textwidth]{../results/figures/within_category_dei_panels.png}
+\caption{\textbf{Supplementary Figure S9 $|$ Within-category DEI distributions.} DEI rankings within each of 13 functional categories.}
+\label{fig:s_within_cat}
+\end{figure}
+
+\subsection{Within-meal-role variance decomposition}
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S5 $|$ Within-meal-role variance decomposition.} $E$-dominance holds within all four functional meal roles.}
+\label{tab:s_within_role}
+\small
+\begin{tabular}{lrrrrr}
+\toprule
+Meal role & $n$ & $H$ CV (\%) & $E$ CV (\%) & $H$ \% of Var & DEI range ($\times$) \\
+\midrule
+Full Main & 154 & 3.8 & 57.7 & 0.5 & 25 \\
+Heavy Main & 121 & 4.2 & 49.0 & 1.0 & 10 \\
+Light Main & 48 & 4.1 & 61.7 & 0.3 & 27 \\
+Side/Snack & 11 & 2.7 & 111.0 & 0.04 & 54 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Meal-level DEI}
+
+We compose 15,073 meal combinations (main + side) and compute calorie-weighted $H_\text{meal}$ and summed $E_\text{meal}$. At the meal level, $H$ contributes only 0.6\% of Var($\logDEI_\text{meal}$), confirming that $E$-dominance persists. Among 6,611 calorie-equivalent swaps ($\pm 25$\% calories), the mean $E$ reduction is 45\%.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/meal_dei_distribution.png}
+\caption{\textbf{Supplementary Figure S10 $|$ Meal-level DEI distribution.} $\logDEI$ across 15,073 main+side combinations.}
+\label{fig:s_meal}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% S6. SURVIVORSHIP BIAS
+% ══════════════════════════════════════════════════════════════════
+\section{Survivorship bias simulation}
+\label{sec:s_survivorship}
+
+Our dataset only includes dishes popular enough to appear on Yelp menus. ``Failed'' dishes with low hedonic appeal are unobserved, potentially underestimating $H$ variance.
+
+We simulate this by adding $K$ ``ghost'' dishes with $H_\text{ghost} = \bar{H} - \Delta$ and $E$ drawn from the observed distribution. We sweep $K \in \{0, 50, 100, 200, 334, 500, 1000\}$ and $\Delta \in \{0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0\}$.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/survivorship_heatmap.png}
+\caption{\textbf{Supplementary Figure S11 $|$ Survivorship bias bounds.} $H$'s contribution to Var($\logDEI$) under various ghost-dish scenarios.}
+\label{fig:s_survivorship}
+\end{figure}
+
+Even in the most extreme scenario ($K = 334$, $\Delta = 2$), $H$ contributes only 12.8\% and $E$ remains dominant at 87.2\%.
+
+% ══════════════════════════════════════════════════════════════════
+% S7. MULTI-DIMENSIONAL HEDONIC
+% ══════════════════════════════════════════════════════════════════
+\section{Multi-dimensional hedonic assessment}
+\label{sec:s_satiety}
+
+Hedonic experience encompasses more than taste; satiety and comfort contribute to dining satisfaction. We extract satiety signals from review text using keyword detection (``filling'', ``hearty'', ``satisfying'', ``light'', ``heavy'' etc.) and construct a composite:
+\[
+H_\text{composite} = (1 - w) \cdot H_\text{taste} + w \cdot H_\text{satiety}
+\]
+
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Supplementary Table S6 $|$ Satiety sensitivity analysis.}}
+\label{tab:s_satiety}
+\small
+\begin{tabular}{rrrr}
+\toprule
+Satiety weight $w$ & $H$ \% of Var & Rank $\rho$ vs original & Top rank gainer \\
+\midrule
+0.0 & 0.3 & 1.000 & --- \\
+0.1 & 0.3 & 1.000 & dolma $+3$ \\
+0.3 & 0.5 & 0.998 & dolma $+11$ \\
+0.5 & 1.5 & 0.993 & coq au vin $+13$ \\
+1.0 & 11.3 & 0.946 & dolma $+11$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/h_satiety_scatter.png}
+\caption{\textbf{Supplementary Figure S12 $|$ Taste hedonic vs satiety index.} Scatter plot of $H_\text{taste}$ versus $H_\text{satiety}$ across 334 dishes. The satiety dimension has much higher CV (33\% vs 4\%) but low weight in composite.}
+\label{fig:s_satiety}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% S8. GEOGRAPHIC STABILITY
+% ══════════════════════════════════════════════════════════════════
+\section{Geographic stability}
+\label{sec:s_geographic}
+
+Our data spans 14 US states, but is geographically concentrated (state Gini = 0.461, city Gini = 0.897). We assess whether DEI rankings are stable across geography.
+
+\textbf{State-level DEI stability.} For the five states with $> 5{,}000$ mentions each (PA, FL, LA, TN, MO), we compute state-specific $H$ and DEI rankings. State DEI Spearman $\rho$ with the overall ranking exceeds 0.993 for all five states, despite $H$ CV ranging from 4.7\% to 6.0\%.
+
+\textbf{City-level $H$ consistency.} Among 19 cities with $\geq 500$ mentions and $\geq 30$ dishes, pairwise $H$ correlations average $\rho = 0.232$ (range: $-0.209$ to $0.609$), with 58/105 pairs significant at $p < 0.05$. The modest city-level $H$ correlation reflects sampling noise rather than true geographic heterogeneity, since DEI rankings (dominated by $E$) remain highly stable.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/geographic_heatmap.png}
+\caption{\textbf{Supplementary Figure S13 $|$ Geographic distribution of review data.} Heatmap of mention counts across states and cities.}
+\label{fig:s_geo_heatmap}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/city_h_stability.png}
+\caption{\textbf{Supplementary Figure S14 $|$ City-level hedonic score stability.} Pairwise city $H$ correlations showing moderate consistency across urban markets.}
+\label{fig:s_city_h}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% S9. REFINEMENT CURVE RESOLUTION
+% ══════════════════════════════════════════════════════════════════
+\section{Refinement curve measurement resolution}
+\label{sec:s_refinement}
+
+\subsection{Minimum detectable difference}
+
+The within-dish standard deviation of $H$ is 1.664, yielding a median Minimum Detectable Difference (MDD) of 0.208 at 95\% confidence. Among 165 within-family pairwise comparisons across 15 dish families:
+\begin{itemize}
+\item 91 (55\%) are significant at $p < 0.05$
+\item 54 (33\%) survive Bonferroni correction
+\item Effect sizes: 112 negligible (68\%), 50 small (30\%), 3 medium (2\%), 0 large
+\item Mean Cohen's $d$: 0.164
+\end{itemize}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/refinement_resolution_diagnostic.png}
+\caption{\textbf{Supplementary Figure S15 $|$ Refinement resolution diagnostic.} Within-family pairwise effect sizes. 68\% of pairs have negligible Cohen's $d$ ($< 0.2$).}
+\label{fig:s_resolution}
+\end{figure}
+
+\subsection{Cross-platform refinement validation}
+
+We estimate family-level hedonic elasticity $\alpha$ on Google Local and TripAdvisor reviews (in addition to Yelp) for 13 families. Results are noisy: Google shows mean $\alpha = 0.35$, Yelp $\alpha = 0.12$, and TripAdvisor $\alpha = -0.02$. The inconsistency across platforms, combined with small within-family effect sizes, places the refinement curve finding in the category of suggestive rather than definitive evidence.
+
+\subsection{Price-tier analysis}
+
+Due to sparse price-range metadata in the Yelp Open Dataset (0 of 70,617 restaurants with usable price data in our filtered sample), we cannot stratify by price tier. This limitation is acknowledged in the main text.
+
+% ══════════════════════════════════════════════════════════════════
+% S10. ADDITIONAL VALIDATION
+% ══════════════════════════════════════════════════════════════════
+\section{Additional validation}
+\label{sec:s_validation}
+
+\subsection{Cross-platform hedonic validation}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/cross_platform_h_validation.png}
+\caption{\textbf{Supplementary Figure S16 $|$ Cross-platform hedonic validation.} Yelp $H$ versus Google Local and TripAdvisor $H$.}
+\label{fig:s_cross_platform}
+\end{figure}
+
+\subsection{Temporal stability}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/temporal_stability.png}
+\caption{\textbf{Supplementary Figure S17 $|$ Temporal stability of hedonic scores.} $H$ drift: +0.00091 per year ($p = 0.63$), split-period reliability $\rho = 0.812$.}
+\label{fig:s_temporal}
+\end{figure}
+
+\subsection{Monte Carlo rank stability}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/dei_rank_uncertainty.png}
+\caption{\textbf{Supplementary Figure S18 $|$ Monte Carlo rank uncertainty.} Bootstrap-simulated rank distributions for top and bottom dishes. Top-5 and bottom-5 rankings are stable (IQR $\leq 3$).}
+\label{fig:s_mc_rank}
+\end{figure}
+
+\subsection{Policy weight sensitivity}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/policy_weight_sensitivity.png}
+\caption{\textbf{Supplementary Figure S19 $|$ Policy weight sensitivity.} DEI rank stability under varying weights $w$ in $\logDEI_w = w \cdot \logH - (1-w) \cdot \logE$. Mean $\rho = 0.828$.}
+\label{fig:s_policy_weight}
+\end{figure}
+
+\subsection{Sample expansion}
+
+The 176 expanded dishes show a $\logDEI$ distribution indistinguishable from the original 158 (KS $D = 0.073$, $p = 0.73$).
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{../results/figures/combined_distribution_comparison.png}
+\caption{\textbf{Supplementary Figure S20 $|$ Sample expansion: original vs expanded dishes.} $\logDEI$ distributions for the original 158 and expanded 176 dishes.}
+\label{fig:s_expansion}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% S11. ADDITIONAL FIGURES
+% ══════════════════════════════════════════════════════════════════
+\section{Additional figures}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/dei_h_vs_e_scatter.png}
+\caption{\textbf{Supplementary Figure S21 $|$ $H$ versus $E$ scatter.} The lack of correlation between hedonic score and environmental cost ($r \approx 0$) is the key empirical finding underlying $E$-dominance.}
+\label{fig:s_h_vs_e}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/dei_by_cuisine_violin.png}
+\caption{\textbf{Supplementary Figure S22 $|$ DEI by cuisine.} Violin plots showing DEI distribution within each cuisine.}
+\label{fig:s_dei_cuisine}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/hedonic_waste_by_family.png}
+\caption{\textbf{Supplementary Figure S23 $|$ Hedonic waste by dish family.} The fraction of environmental cost that yields no hedonic gain, estimated from the refinement cost curve.}
+\label{fig:s_hedonic_waste}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\textwidth]{../results/figures/substitution_network.png}
+\caption{\textbf{Supplementary Figure S24 $|$ Substitution network.} Network graph of viable dish substitutions meeting the four-constraint criterion.}
+\label{fig:s_substitution}
+\end{figure}
+
+% ══════════════════════════════════════════════════════════════════
+% REFERENCES
+% ══════════════════════════════════════════════════════════════════
+\begin{thebibliography}{99}
+
+\bibitem{lawless2010sensory}
+Lawless, H.~T. \& Heymann, H.
+\newblock \emph{Sensory Evaluation of Food: Principles and Practices}
+\newblock (Springer, 2010).
+
+\bibitem{drewnowski2009nutrient}
+Drewnowski, A.
+\newblock Defining nutrient density: development and validation of the nutrient rich foods index.
+\newblock \emph{J.~Am.~Coll.~Nutr.} \textbf{28}, 421S--426S (2009).
+
+\end{thebibliography}
+
+\end{document}

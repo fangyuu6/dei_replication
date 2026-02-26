@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                log_DEI   R-squared:                       0.882
+Model:                            OLS   Adj. R-squared:                  0.881
+Method:                 Least Squares   F-statistic:                     6849.
+Date:                Wed, 25 Feb 2026   Prob (F-statistic):               0.00
+Time:                        19:56:21   Log-Likelihood:                 1228.5
+No. Observations:                2520   AIC:                            -2449.
+Df Residuals:                    2516   BIC:                            -2426.
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const            3.7708      0.102     36.873      0.000       3.570       3.971
+log_E_carbon    -0.2448      0.013    -19.483      0.000      -0.269      -0.220
+log_E_water     -0.1003      0.016     -6.252      0.000      -0.132      -0.069
+log_E_energy    -0.5648      0.008    -68.879      0.000      -0.581      -0.549
+==============================================================================
+Omnibus:                     1193.342   Durbin-Watson:                   1.985
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            18705.327
+Skew:                          -1.837   Prob(JB):                         0.00
+Kurtosis:                      15.831   Cond. No.                         114.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

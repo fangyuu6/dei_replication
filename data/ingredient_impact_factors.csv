@@ -1,0 +1,102 @@
+ingredient,category,co2_per_kg,water_per_kg,land_per_kg,source
+coffee,beverage,16.5,15897,21.6,Poore & Nemecek 2018
+tea,beverage,2.0,8856,3.5,WFN; Agribalyse 3.1
+basil,condiment,0.5,500,0.2,Agribalyse 3.1 (herb)
+black_pepper,condiment,1.5,7000,3.0,WFN; estimated for spices
+chili,condiment,1.5,2000,1.0,Agribalyse 3.1 (dried chili)
+coconut_milk,condiment,1.8,2700,2.0,Derived from coconut; Agribalyse 3.1
+coriander,condiment,0.5,1400,0.5,Agribalyse 3.1 (herb)
+cumin,condiment,1.5,8000,3.5,WFN; spice estimate
+curry_paste,condiment,2.0,2000,1.5,Estimated from spice + oil blend
+fish_sauce,condiment,3.0,2000,0.5,Derived from fermented fish; estimated
+ginger,condiment,0.8,1600,0.5,Agribalyse 3.1
+hoisin_sauce,condiment,2.2,2000,1.5,Derived from soybean paste; estimated
+ketchup,condiment,1.8,300,0.8,Agribalyse 3.1
+mayonnaise,condiment,3.0,2500,5.0,Agribalyse 3.1 (oil + egg based)
+mustard,condiment,1.2,800,1.0,Agribalyse 3.1
+oyster_sauce,condiment,2.5,1800,0.5,Derived from oyster extract; estimated
+salt,condiment,0.3,10,0.0,Mining; minimal agricultural footprint
+soy_sauce,condiment,2.2,2500,2.0,Derived from soybean + wheat; Agribalyse 3.1
+sugar,condiment,3.2,1782,2.1,Poore & Nemecek 2018 (cane sugar)
+tomato_sauce,condiment,2.0,300,1.0,Agribalyse 3.1 (processed tomato)
+turmeric,condiment,1.2,4000,1.5,Estimated from root spices
+vinegar,condiment,1.2,600,1.0,Agribalyse 3.1
+butter,dairy,11.5,5553,40.0,Poore & Nemecek 2018
+cheese,dairy,21.2,5060,87.8,Poore & Nemecek 2018 Table S2
+cream,dairy,8.0,3200,25.0,Derived from milk; Agribalyse 3.1
+egg,dairy,4.7,3265,6.3,Poore & Nemecek 2018 Table S2
+milk,dairy,3.2,1020,8.9,Poore & Nemecek 2018 Table S2
+mozzarella,dairy,21.2,5060,87.8,Same as cheese; Poore & Nemecek 2018
+parmesan,dairy,24.0,5900,95.0,Higher density cheese; Agribalyse 3.1
+yogurt,dairy,3.5,1200,10.0,Agribalyse 3.1
+apple,fruit,0.4,822,0.5,Poore & Nemecek 2018
+avocado,fruit,2.5,1981,1.3,Poore & Nemecek 2018
+banana,fruit,0.9,790,1.9,Poore & Nemecek 2018
+coconut,fruit,1.3,2687,2.0,WFN
+lemon,fruit,0.3,362,0.4,Agribalyse 3.1 (citrus)
+lime,fruit,0.3,362,0.4,Same as lemon; Agribalyse 3.1
+mango,fruit,1.0,1800,1.5,WFN; Agribalyse 3.1
+pineapple,fruit,0.7,255,0.6,WFN; Agribalyse 3.1
+bread,grain,1.3,1608,3.0,Poore & Nemecek 2018
+corn,grain,1.1,1222,2.9,Poore & Nemecek 2018
+oats,grain,1.6,1788,3.3,Poore & Nemecek 2018
+pasta_dry,grain,1.9,1849,3.8,Derived from wheat; Agribalyse 3.1
+rice,grain,4.5,2500,2.8,Poore & Nemecek 2018 Table S2
+rice_noodle,grain,4.5,2500,2.8,Same as rice; Poore & Nemecek 2018
+tortilla,grain,1.5,1400,3.0,Derived from corn/wheat; Agribalyse 3.1
+wheat_flour,grain,1.6,1827,3.6,Poore & Nemecek 2018 Table S2
+black_bean,legume,0.8,5053,6.0,Poore & Nemecek 2018 (beans generic)
+chickpea,legume,0.8,4177,5.5,Poore & Nemecek 2018
+lentil,legume,0.9,5874,7.8,Poore & Nemecek 2018
+peanut,legume,2.5,3100,3.4,Poore & Nemecek 2018 (groundnuts)
+soybean,legume,2.0,2145,1.8,Poore & Nemecek 2018
+tofu,legume,3.2,2523,2.2,Poore & Nemecek 2018 Table S2
+bacon,meat,7.6,5988,17.4,Derived from pork; Poore & Nemecek 2018
+beef,meat,60.0,15415,326.2,Poore & Nemecek 2018 Table S2
+ground_beef,meat,60.0,15415,326.2,Same as beef; Poore & Nemecek 2018
+lamb,meat,24.0,10412,369.8,Poore & Nemecek 2018 Table S2
+pork,meat,7.2,5988,17.4,Poore & Nemecek 2018 Table S2
+sausage,meat,7.5,5200,15.0,Derived from pork/beef mix; Agribalyse 3.1
+almond,nut,3.5,16194,4.2,Poore & Nemecek 2018; WFN
+cashew,nut,3.0,14218,3.8,WFN; estimated
+pine_nut,nut,3.0,10000,4.0,Estimated from tree nut averages
+sesame_seed,nut,2.0,9371,5.0,WFN
+walnut,nut,2.5,9063,3.5,WFN
+coconut_oil,oil,4.5,5500,6.0,Derived from coconut; Agribalyse 3.1
+olive_oil,oil,6.0,14430,26.3,Poore & Nemecek 2018 Table S2
+palm_oil,oil,7.6,5000,2.4,Poore & Nemecek 2018
+sesame_oil,oil,4.0,9371,14.0,WFN; estimated
+vegetable_oil,oil,3.8,4000,11.0,Poore & Nemecek 2018 (rapeseed/soy blend)
+chocolate,other,19.0,17196,68.8,Poore & Nemecek 2018 (dark chocolate)
+honey,other,1.0,2000,1.0,Estimated; minimal LCA data available
+maple_syrup,other,1.5,2000,0.5,Estimated; minimal LCA data available
+chicken,poultry,6.9,4325,12.2,Poore & Nemecek 2018 Table S2
+duck,poultry,8.0,4700,14.0,Estimated from poultry averages; Agribalyse 3.1
+turkey,poultry,10.9,4500,12.5,Poore & Nemecek 2018; WFN
+cod,seafood,5.4,1500,0.0,Poore & Nemecek 2018 (wild-caught)
+crab,seafood,8.0,1800,0.0,Estimated from crustacean averages
+fish,seafood,5.4,1500,3.7,Poore & Nemecek 2018 (average fish)
+salmon,seafood,11.9,2000,5.1,Poore & Nemecek 2018 (farmed Atlantic)
+shrimp,seafood,12.0,3515,2.9,Poore & Nemecek 2018 Table S2 (farmed)
+squid,seafood,5.0,1200,0.0,Estimated from seafood averages
+tuna,seafood,6.1,1800,0.0,Poore & Nemecek 2018 (wild-caught)
+potato,starch,0.5,287,0.9,Poore & Nemecek 2018 Table S2
+sweet_potato,starch,0.5,300,1.0,Similar to potato; WFN
+bamboo_shoot,vegetable,0.3,200,0.1,Estimated; minimal inputs
+bean_sprout,vegetable,0.3,200,0.1,Estimated from legume sprouts
+broccoli,vegetable,0.9,285,0.5,Agribalyse 3.1
+cabbage,vegetable,0.4,237,0.2,Agribalyse 3.1
+carrot,vegetable,0.4,195,0.3,Poore & Nemecek 2018
+celery,vegetable,0.4,280,0.2,Agribalyse 3.1
+cucumber,vegetable,0.4,353,0.2,Agribalyse 3.1
+eggplant,vegetable,0.8,362,0.3,Agribalyse 3.1
+garlic,vegetable,0.9,589,0.6,Agribalyse 3.1
+lettuce,vegetable,0.4,237,0.2,Agribalyse 3.1
+mushroom,vegetable,1.0,150,0.1,Agribalyse 3.1
+onion,vegetable,0.5,345,0.4,Poore & Nemecek 2018
+pepper,vegetable,1.8,379,0.5,Agribalyse 3.1 (bell pepper)
+spinach,vegetable,0.5,292,0.3,Agribalyse 3.1
+tomato,vegetable,2.1,214,0.8,Poore & Nemecek 2018 Table S2
+zucchini,vegetable,0.7,350,0.3,Agribalyse 3.1
+pita,grain,1.3,1608,3.8,Poore & Nemecek 2018 (bread equivalent)
+vanilla,condiment,3.0,15000,2.0,Agribalyse 3.1 (vanilla extract)

@@ -1,0 +1,159 @@
+dish_id,cuisine,cook_method,aliases,mention_count
+donburi,Japanese,simmer,donburi|don|gyudon|katsudon|oyakodon|tendon,698205
+pizza,Italian,bake,pizza|pepperoni pizza|cheese pizza,307607
+french_fries,American,deep_fry,fries|french fries|curly fries|waffle fries,292463
+hamburger,American,grill,burger|cheeseburger|hamburger,229329
+steak,American,grill,steak|ribeye|filet mignon|ny strip|new york strip|sirloin|t-bone,217333
+taco,Mexican,grill,taco|tacos|fish taco|fish tacos|street taco|street tacos|carnitas taco|al pastor taco,195559
+soup,Other,simmer,soup,194287
+sushi,Japanese,raw,sushi|nigiri|maki|sushi roll,150180
+buffalo_wings,American,deep_fry,wings|buffalo wings|chicken wings|hot wings,122632
+ice_cream,Other,cold,ice cream,105004
+mac_and_cheese,American,bake,mac and cheese|mac & cheese|mac n cheese|macaroni and cheese,82039
+burrito,Mexican,grill,burrito|burritos|breakfast burrito,71817
+ribs,American,smoke,ribs|baby back ribs|spare ribs|bbq ribs,67436
+pancake,American,pan_fry,pancake|pancakes|flapjacks,63188
+fried_chicken,American,deep_fry,fried chicken,57437
+guacamole,Mexican,raw,guacamole|guac,52366
+waffle,American,bake,waffle|waffles|belgian waffle,52026
+brisket,American,smoke,brisket|smoked brisket,51398
+spring_rolls,Chinese,deep_fry,spring rolls|spring roll|egg rolls|egg roll,49326
+dumplings,Chinese,steam,dumplings|dumpling|pot stickers|potstickers|jiaozi|gyoza,48670
+pho,Vietnamese,boil,pho|pho bo|pho ga|beef pho|chicken pho,44680
+nachos,Mexican,bake,nachos,41937
+pulled_pork,American,slow_cook,pulled pork|pulled pork sandwich,41868
+fried_rice,Chinese,stir_fry,fried rice|egg fried rice|chicken fried rice|shrimp fried rice|pork fried rice|vegetable fried rice|yang chow fried rice,38961
+hummus,Mediterranean,raw,hummus|humous|houmous,35169
+cheesecake,Other,bake,cheesecake,31403
+chicken_sandwich,American,deep_fry,chicken sandwich|fried chicken sandwich,30305
+samgyeopsal,Korean,grill,samgyeopsal|pork belly|korean bbq,29328
+coleslaw,American,raw,coleslaw|cole slaw,29003
+quesadilla,Mexican,pan_fry,quesadilla|quesadillas,28802
+enchilada,Mexican,bake,enchilada|enchiladas,28389
+ramen,Japanese,boil,ramen|tonkotsu ramen|shoyu ramen|miso ramen|shio ramen,28217
+gyro,Mediterranean,roast,gyro|gyros,27981
+caesar_salad,Other,raw,caesar salad|caesar,27837
+pita,Mediterranean,bake,pita|pita bread,26994
+pad_thai,Thai,stir_fry,pad thai|phad thai,26435
+cornbread,American,bake,cornbread|corn bread,24909
+ravioli,Italian,boil,ravioli|cheese ravioli,23937
+crepe,French,pan_fry,crepe|crepes,21526
+grilled_cheese,American,pan_fry,grilled cheese|grilled cheese sandwich,21113
+fajita,Mexican,grill,fajita|fajitas|chicken fajita|steak fajita,20547
+fish_and_chips,Other,deep_fry,fish and chips|fish & chips|fish n chips,19695
+naan,Indian,bake,naan|garlic naan|cheese naan|plain naan|naan bread,19396
+miso_soup,Japanese,boil,miso soup|miso,18975
+tempura,Japanese,deep_fry,tempura|shrimp tempura|vegetable tempura,18936
+chicken_salad,Other,raw,chicken salad,18105
+falafel,Mediterranean,deep_fry,falafel,17612
+risotto,Italian,simmer,risotto|mushroom risotto|seafood risotto,17371
+gelato,Italian,cold,gelato,17131
+gnocchi,Italian,boil,gnocchi,17075
+sashimi,Japanese,raw,sashimi,15881
+brownie,Other,bake,brownie|brownies,15640
+tapas,Spanish,stir_fry,tapas,15573
+lasagna,Italian,bake,lasagna|lasagne,15415
+croissant,French,bake,croissant,14661
+teriyaki,Japanese,grill,teriyaki|teriyaki chicken|teriyaki salmon,13768
+ceviche,Mexican,raw,ceviche,13648
+banh_mi,Vietnamese,bake,banh mi|bahn mi|vietnamese sandwich,12634
+tamale,Mexican,steam,tamale|tamales,12347
+wonton_soup,Chinese,boil,wonton soup|wonton|won ton,12268
+tiramisu,Italian,cold,tiramisu,12099
+french_onion_soup,French,simmer,french onion soup|onion soup,11516
+bruschetta,Italian,bake,bruschetta,10942
+clam_chowder,American,simmer,clam chowder|new england clam chowder,10664
+dim_sum,Chinese,steam,dim sum|dimsum,10407
+edamame,Japanese,boil,edamame,9955
+general_tso,Chinese,deep_fry,general tso|general tso's chicken|general tso chicken|general tsao,9515
+kimchi,Korean,raw,kimchi,9138
+pasta_bolognese,Italian,simmer,bolognese|spaghetti bolognese|pasta bolognese|ragu,8606
+tikka_masala,Indian,simmer,tikka masala|chicken tikka masala,8288
+baklava,Mediterranean,bake,baklava,8213
+samosa,Indian,deep_fry,samosa|samosas,8090
+pizza_margherita,Italian,bake,margherita pizza|margherita,7635
+lo_mein,Chinese,stir_fry,lo mein|chicken lo mein|beef lo mein|shrimp lo mein|vegetable lo mein,7561
+quiche,French,bake,quiche|quiche lorraine,7414
+caprese,Italian,raw,caprese|caprese salad,7329
+lobster_roll,American,boil,lobster roll,7078
+thai_iced_tea,Thai,cold,thai iced tea|thai tea,7004
+churro,Mexican,deep_fry,churro|churros,6833
+shawarma,Mediterranean,roast,shawarma|chicken shawarma|beef shawarma,6717
+bulgogi,Korean,grill,bulgogi|beef bulgogi,6327
+creme_brulee,French,bake,creme brulee,6061
+escargot,French,bake,escargot|escargots|snails,5958
+elote,Mexican,grill,elote|mexican corn|street corn,5851
+char_siu,Chinese,roast,char siu|bbq pork|chinese bbq pork,5759
+hot_and_sour_soup,Chinese,boil,hot and sour soup|hot & sour soup,5667
+paella,Spanish,simmer,paella|seafood paella,5610
+kebab,Mediterranean,grill,kebab|kebabs|shish kebab|doner kebab,5594
+korean_fried_chicken,Korean,deep_fry,korean fried chicken|kfc|yangnyeom chicken,5535
+udon,Japanese,boil,udon|udon noodles,5447
+xiao_long_bao,Chinese,steam,xiao long bao|xlb|soup dumplings|soup dumpling|xiaolongbao,5220
+red_curry,Thai,simmer,red curry|thai red curry,5203
+green_curry,Thai,simmer,green curry|thai green curry,5107
+sweet_and_sour,Chinese,deep_fry,sweet and sour chicken|sweet and sour pork|sweet & sour,4969
+orange_chicken,Chinese,deep_fry,orange chicken,4907
+butter_chicken,Indian,simmer,butter chicken|murgh makhani,4860
+tandoori_chicken,Indian,roast,tandoori chicken|tandoori,4840
+katsu,Japanese,deep_fry,katsu|tonkatsu|chicken katsu|katsu curry,4720
+satay,Thai,grill,satay|chicken satay|pork satay,4528
+biryani,Indian,bake,biryani|chicken biryani|lamb biryani|vegetable biryani,4384
+tom_yum,Thai,boil,tom yum|tom yum soup|tom yam,4192
+dan_dan_noodles,Chinese,boil,dan dan noodles|dan dan mian|dandan noodles,3786
+kung_pao_chicken,Chinese,stir_fry,kung pao chicken|kung pao|gong bao chicken,3776
+club_sandwich,American,raw,club sandwich,3703
+pasta_carbonara,Italian,boil,carbonara|pasta carbonara|spaghetti carbonara,3703
+korma,Indian,simmer,korma|chicken korma|lamb korma,3558
+bibimbap,Korean,stir_fry,bibimbap|dolsot bibimbap,3400
+tom_kha,Thai,boil,tom kha|tom kha gai|coconut soup,3008
+chow_mein,Chinese,stir_fry,chow mein|chicken chow mein,2982
+tabbouleh,Mediterranean,raw,tabbouleh|tabouleh|tabouli,2966
+papaya_salad,Thai,raw,papaya salad|som tam|som tum,2912
+ca_phe_sua_da,Vietnamese,cold,vietnamese coffee|ca phe sua da|vietnamese iced coffee,2876
+chile_relleno,Mexican,deep_fry,chile relleno|chiles rellenos,2838
+vindaloo,Indian,simmer,vindaloo|chicken vindaloo|lamb vindaloo,2731
+baba_ganoush,Mediterranean,grill,baba ganoush|baba ghanoush,2726
+chow_fun,Chinese,stir_fry,chow fun|ho fun|beef chow fun,2517
+spanakopita,Mediterranean,bake,spanakopita|spinach pie,2479
+palak_paneer,Indian,simmer,palak paneer|saag paneer,2332
+dolma,Mediterranean,simmer,dolma|dolmades|stuffed grape leaves,2290
+dosa,Indian,pan_fry,dosa|masala dosa,2233
+pad_see_ew,Thai,stir_fry,pad see ew|pad si ew,2134
+peking_duck,Chinese,roast,peking duck|beijing duck,2132
+dal,Indian,simmer,dal|daal|dhal|lentil dal,2123
+souffle,French,bake,souffle,2067
+panna_cotta,Italian,cold,panna cotta,2059
+fresh_spring_roll,Vietnamese,raw,fresh spring roll|summer roll|goi cuon|fresh roll,1975
+gazpacho,Spanish,cold,gazpacho,1938
+bun_bo_hue,Vietnamese,boil,bun bo hue,1916
+takoyaki,Japanese,pan_fry,takoyaki|octopus balls,1781
+yakitori,Japanese,grill,yakitori|chicken skewer,1387
+minestrone,Italian,simmer,minestrone|minestrone soup,1355
+pozole,Mexican,simmer,pozole|posole,1345
+scallion_pancake,Chinese,pan_fry,scallion pancake|green onion pancake|cong you bing,1268
+mapo_tofu,Chinese,stir_fry,mapo tofu|ma po tofu,1263
+massaman_curry,Thai,simmer,massaman curry|massaman,1234
+com_tam,Vietnamese,grill,com tam|broken rice,1158
+moussaka,Mediterranean,bake,moussaka,1131
+chana_masala,Indian,simmer,chana masala|chole,1113
+mango_sticky_rice,Thai,steam,mango sticky rice|mango rice,1020
+patatas_bravas,Spanish,deep_fry,patatas bravas,997
+raita,Indian,raw,raita,990
+congee,Chinese,boil,congee|jook|rice porridge,916
+ratatouille,French,simmer,ratatouille,870
+tteokbokki,Korean,simmer,tteokbokki|topokki|rice cake,864
+paneer_tikka,Indian,grill,paneer tikka,846
+larb,Thai,raw,larb|laab|thai larb,808
+onigiri,Japanese,raw,onigiri|rice ball,772
+japchae,Korean,stir_fry,japchae|japchae noodles,763
+osso_buco,Italian,braise,osso buco|ossobuco,695
+coq_au_vin,French,braise,coq au vin,409
+beef_bourguignon,French,braise,beef bourguignon|boeuf bourguignon,402
+kimbap,Korean,raw,kimbap|gimbap,394
+okonomiyaki,Japanese,pan_fry,okonomiyaki|japanese pancake,377
+sundubu_jjigae,Korean,boil,sundubu|sundubu jjigae|soft tofu stew|soon tofu,280
+kimchi_jjigae,Korean,boil,kimchi jjigae|kimchi stew,222
+penne_arrabbiata,Italian,boil,arrabbiata|penne arrabbiata,193
+bun_cha,Vietnamese,grill,bun cha,130
+churros_spanish,Spanish,deep_fry,churros con chocolate,20

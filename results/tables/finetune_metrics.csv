@@ -1,0 +1,2 @@
+n_train,n_val,mae,rmse,pearson_r,spearman_rho,bias,passes_mae,passes_pearson,dish_level_r
+891,205,1.0817,1.4682,0.7293,0.5584,0.3444,False,False,0.8443

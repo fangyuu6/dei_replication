@@ -1,0 +1,12 @@
+metric,value,CI95
+Split-half reliability (Spearman),0.819,"[0.776, 0.858]"
+Split-half (Spearman-Brown corrected),0.901,"[0.874, 0.924]"
+OLS R² (log_DEI ~ log_E components),0.9590,"[0.9427, 0.9742]"
+MC rank 90% CI width (median),46,—
+MC rank 90% CI width (P90),61,—
+CV(E)/CV(H) ratio,16.7x,—
+Yelp vs foodcom (Spearman ρ),0.113,"[-0.075, 0.289]"
+Yelp vs crocufid (Spearman ρ),-0.345,"[-0.841, 0.431]"
+Yelp vs foodpics (Spearman ρ),0.175,"[-0.243, 0.540]"
+Yelp vs google (Spearman ρ),0.697,"[0.588, 0.780]"
+Yelp vs tripadvisor (Spearman ρ),0.595,"[0.478, 0.689]"
