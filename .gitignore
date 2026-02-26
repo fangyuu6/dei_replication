@@ -50,6 +50,19 @@ paper/%OUTDIR%/
 
 # Claude local settings
 .claude/
+CLAUDE.md
+
+# Internal planning/notes (not for public repo)
+plans/
+related.md
+*.计划*.md
+*修改*.md
+*报告*.md
+*建议*.md
+results/editor_review_nature_food.md
+results/*Codex*.md
+results/*Major_Revision*.md
+paper/sample/
 
 # Environment
 .env
